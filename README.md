@@ -26,7 +26,7 @@
 * jBuilder: jbuilder.ypcloud.com
 -----------------------------------------------------
 ## <h2 id="2">Snap</h2>
-* [Smartscreen](https://snapcraft.io/smartscreen)
+* ![image](smartscreen.png)[Smartscreen](https://snapcraft.io/smartscreen)
 <br>A web-based screening service. The display contents can be manipulated by Jujue, uBot by Node-Red, and @SmartScreenBot by telegram.
 * [keybot](https://snapcraft.io/keybot)
 * [mote](https://snapcraft.io/mote)
