@@ -2,8 +2,8 @@
 
 
 ## UltraBuilder URL
-* [fBuilder](http://flow365.ypcloud.com/):flow365.ypcloud.com
-* [jBuilder](http://jbuilder.ypcloud.com/):jbuilder.ypcloud.com
+* fBuilder: flow365.ypcloud.com
+* jBuilder: jbuilder.ypcloud.com
 -----------------------------------------------------
 ## Snap
 * [Smartscreen](https://snapcraft.io/smartscreen)
