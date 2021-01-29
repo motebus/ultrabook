@@ -1,7 +1,7 @@
 # Table of Contents
 * [UltraBuilder URL](#ultraBuilder-url)
-  - [fBuilder](#11)
-  - [jBuilder](#12)
+  - [fBuilder URL](#fbuilder-url)
+  - [jBuilder URL](#jbuilder-url)
 * [Snap](#2)
   - [Smartscreen](#smartscreen)
   - [keybot](#22)
@@ -23,8 +23,10 @@
 
 
 ## UltraBuilder URL
-<h4 id="11">fBuilder</h4>URL: flow365.ypcloud.com
-<h4 id="12">jBuilder</h4>URL: jbuilder.ypcloud.com
+#### fBuilder URL: 
+flow365.ypcloud.com
+#### jBuilder URL: 
+jbuilder.ypcloud.com
 
 
 ## <h2 id="2">Snap</h2>
