@@ -6,7 +6,20 @@
   - Smartscreen
   - keybot
   - mote
-  - 
+  - jBuilder
+  - fbots
+  - Sphere
+  - logmms
+  - fbuilder
+  - moted
+  - flowbot
+  - app-jujue
+* Mote Sphere
+  - autostart
+  - topic cloud
+  - MoteChat API
+  - MoteBus-Error-Code
+  - setup RPi autorun
 
 ## UltraBuilder URL
 * fBuilder: flow365.ypcloud.com
