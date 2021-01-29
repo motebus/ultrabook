@@ -1,5 +1,5 @@
 # Table of Contents
-* [UltraBuilder URL](#1)
+* [UltraBuilder URL](#ultraBuilder url)
   - [fBuilder](#11)
   - jBuilder
 * [Snap](#2)
@@ -21,7 +21,7 @@
   - MoteBus-Error-Code
   - setup RPi autorun
 
-## <h2 id="1">UltraBuilder URL</h2>
+## UltraBuilder URL
 * fBuilder: flow365.ypcloud.com
 * jBuilder: jbuilder.ypcloud.com
 -----------------------------------------------------
