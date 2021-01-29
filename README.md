@@ -28,13 +28,11 @@
 
 
 ## <h2 id="2">Snap</h2>
-<div id="main">
-  <div id="left">
+<div>
+  <div id="left" sytle="float:left">
     <img src="https://github.com/monica3386111/image/blob/main/smartscreen.png"/>
   </div>
-  <div id="right">
-    test
-  </div>
+    test test test test test test test test test test test test test test test test test test test test 
 </div>
 
 ![image](https://github.com/monica3386111/image/blob/main/smartscreen.png)<h4 id="21">[Smartscreen](https://snapcraft.io/smartscreen)</h4>
