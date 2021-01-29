@@ -57,8 +57,9 @@ A web-based dashboard creator.
 ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/9d3a2da3-db74-42b0-875c-7754a328074a.jpg.png)<h4 id="27">[logmms](https://snapcraft.io/logmms)</h4>
 
 -----
-![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/05/FB.png)<h4 id="28">[fbuilder](https://snapcraft.io/fbuilder)</h4>
-<br>A flow-based visual programming tool for easily deploying microservices and creating IoT control management systems.
+<img align="left" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/05/FB.png" />
+#### [fbuilder](https://snapcraft.io/fbuilder)
+A flow-based visual programming tool for easily deploying microservices and creating IoT control management systems.
 
 -----
 ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/08/7A7FE9FD-366E-43A5-8006-69EDFFF2548E.jpeg.png)<h4 id="29">[moted](https://snapcraft.io/moted)</h4>
