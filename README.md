@@ -30,7 +30,7 @@
 ## <h2 id="2">Snap</h2>
 <div>
   <img src="https://github.com/monica3386111/image/blob/main/smartscreen.png"/>
-  <br> test jiwgjiwkjsgkjkjkskjgjwigiwhhwjghjA web-based screening service.The display contents can be manipulated by Jujue, uBot by Node-Red, and @SmartScreenBot by telegram.
+  test jiwgjiwkjsgkjkjkskjgjwigiwhhwjghjA web-based screening service.The display contents can be manipulated by Jujue, uBot by Node-Red, and @SmartScreenBot by telegram.
 
 </div>
 
