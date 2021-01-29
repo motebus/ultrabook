@@ -47,13 +47,27 @@
 -----
 ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/851a6190-ffb1-461b-a7bc-c675d252038f.jpg.png)<h4 id="24">[jBuilder](https://snapcraft.io/jbuilder)</h4>
 <br>A web-based dashboard creator.
+
+-----
 ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/7e65d1f7-8d79-4014-b970-056464ca6811.jpg.png)<h4 id="25">[fbots](https://snapcraft.io/fbots)</h4>
+
+-----
 ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/08/sphere_256x256.png)<h4 id="26">[Sphere](https://snapcraft.io/sphere)</h4>
+
+-----
 ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/9d3a2da3-db74-42b0-875c-7754a328074a.jpg.png)<h4 id="27">[logmms](https://snapcraft.io/logmms)</h4>
+
+-----
 ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/05/FB.png)<h4 id="28">[fbuilder](https://snapcraft.io/fbuilder)</h4>
 <br>A flow-based visual programming tool for easily deploying microservices and creating IoT control management systems.
+
+-----
 ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/08/7A7FE9FD-366E-43A5-8006-69EDFFF2548E.jpeg.png)<h4 id="29">[moted](https://snapcraft.io/moted)</h4>
+
+-----
 ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/03/fbuilder.jpeg_IMnAKHn.png)<h4 id="210">[flowbot](https://snapcraft.io/flowbot)</h4>
+
+-----
 ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/10/jujue_320x320.png)<h4 id="211">[app-jujue](https://snapcraft.io/app-jujue)</h4>
 
 
