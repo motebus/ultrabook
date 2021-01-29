@@ -26,7 +26,8 @@
 * jBuilder: jbuilder.ypcloud.com
 -----------------------------------------------------
 ## Snap
-* [Smartscreen](https://snapcraft.io/smartscreen): A web-based screening service. The display contents can be manipulated by Jujue, uBot by Node-Red, and @SmartScreenBot by telegram.
+* [Smartscreen](https://snapcraft.io/smartscreen): 
+A web-based screening service. The display contents can be manipulated by Jujue, uBot by Node-Red, and @SmartScreenBot by telegram.
 * [keybot](https://snapcraft.io/keybot)
 * [mote](https://snapcraft.io/mote)
 * [jBuilder](https://snapcraft.io/jbuilder)
