@@ -7,13 +7,13 @@
   - [keybot](#keybot)
   - [mote](#mote)
   - [jBuilder](#jbuilder)
-  - [fbots](#25)
-  - [Sphere](#26)
-  - [logmms](#27)
-  - [fbuilder](#28)
-  - [moted](#29)
-  - [flowbot](#210)
-  - [app-jujue](#211)
+  - [fbots](#fbots)
+  - [Sphere](#sphere)
+  - [logmms](#logmms)
+  - [fbuilder](#fbuilder)
+  - [moted](#moted)
+  - [flowbot](#flowbot)
+  - [app-jujue](#app-jujue)
 * [Mote Sphere](#3)
   - [autostart](#autostart)
   - [topic cloud](#topic-cloud)
@@ -52,13 +52,19 @@ A web-based screening service.The display contents can be manipulated by Jujue, 
 A web-based dashboard creator.
 
 -----
-![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/7e65d1f7-8d79-4014-b970-056464ca6811.jpg.png)<h4 id="25">[fbots](https://snapcraft.io/fbots)</h4>
+<img align="left" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/7e65d1f7-8d79-4014-b970-056464ca6811.jpg.png" />
+
+#### [fbots](https://snapcraft.io/fbots)
 
 -----
-![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/08/sphere_256x256.png)<h4 id="26">[Sphere](https://snapcraft.io/sphere)</h4>
+<img align="left" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/08/sphere_256x256.png" />
+
+#### [Sphere](https://snapcraft.io/sphere)
 
 -----
-![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/9d3a2da3-db74-42b0-875c-7754a328074a.jpg.png)<h4 id="27">[logmms](https://snapcraft.io/logmms)</h4>
+<img align="left" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/9d3a2da3-db74-42b0-875c-7754a328074a.jpg.png" />
+
+#### [logmms](https://snapcraft.io/logmms)
 
 -----
 <img align="left" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/05/FB.png" />
@@ -67,13 +73,19 @@ A web-based dashboard creator.
 A flow-based visual programming tool for easily deploying microservices and creating IoT control management systems.
 
 -----
-![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/08/7A7FE9FD-366E-43A5-8006-69EDFFF2548E.jpeg.png)<h4 id="29">[moted](https://snapcraft.io/moted)</h4>
+<img align="left" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/08/7A7FE9FD-366E-43A5-8006-69EDFFF2548E.jpeg.png" />
+
+#### [moted](https://snapcraft.io/moted)
 
 -----
-![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/03/fbuilder.jpeg_IMnAKHn.png)<h4 id="210">[flowbot](https://snapcraft.io/flowbot)</h4>
+<img align="left" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/03/fbuilder.jpeg_IMnAKHn.png" />
+
+#### [flowbot](https://snapcraft.io/flowbot)
 
 -----
-![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/10/jujue_320x320.png)<h4 id="211">[app-jujue](https://snapcraft.io/app-jujue)</h4>
+<img align="left" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/10/jujue_320x320.png" />
+
+#### [app-jujue](https://snapcraft.io/app-jujue)
 
 
 ## <h2 id="3">Mote Sphere</h2>
