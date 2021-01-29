@@ -1,7 +1,7 @@
 # Table of Topic
 
 ## Snap
-### Smartscreen: https://snapcraft.io/smartscreen
+##### [Smartscreen](https://snapcraft.io/smartscreen)
 ### keybot: https://snapcraft.io/keybot
 ### mote: https://snapcraft.io/mote
 ### jBuilder: https://snapcraft.io/jbuilder
