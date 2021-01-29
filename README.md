@@ -30,7 +30,7 @@ jbuilder.ypcloud.com
 
 
 ## <h2 id="2">Snap</h2>
-<img align="left" height="400" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/08/smartscreen_256x256.png" />
+<img align="left" height="100" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/08/smartscreen_256x256.png" />
 
 #### [Smartscreen](https://snapcraft.io/smartscreen)
 A web-based screening service.The display contents can be manipulated by Jujue, uBot by Node-Red, and @SmartScreenBot by telegram.
