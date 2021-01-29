@@ -1,9 +1,9 @@
 # Table of Contents
 
+
 ## UltraBuilder URL
-* [GitWork](http://gitwork.ypcloud.com/)
-* [fBuilder](http://flow365.ypcloud.com/)
-* [jBuilder](http://jbuilder.ypcloud.com/)
+* [fBuilder](http://flow365.ypcloud.com/):flow365.ypcloud.com
+* [jBuilder](http://jbuilder.ypcloud.com/):jbuilder.ypcloud.com
 -----------------------------------------------------
 ## Snap
 * [Smartscreen](https://snapcraft.io/smartscreen)
