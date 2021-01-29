@@ -12,6 +12,5 @@
 ### moted:https://snapcraft.io/moted
 ### flowbot: https://snapcraft.io/flowbot
 ### app-jujue: https://snapcraft.io/app-jujue
-
-
+-----------------------------------------------------
 ## Mote Sphere
