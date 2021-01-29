@@ -1,7 +1,7 @@
 # Table of Contents
 * [UltraBuilder URL](#1)
-  - fBuilder
-  - jBuilder
+  - [fBuilder](#2)
+  - [jBuilder](#3)
 * Snap
   - Smartscreen
   - keybot
@@ -22,8 +22,8 @@
   - setup RPi autorun
 
 ## <h2 id="1">UltraBuilder URL</h2>
-* fBuilder: flow365.ypcloud.com
-* jBuilder: jbuilder.ypcloud.com
+* <h3 id="2">fBuilder: flow365.ypcloud.com</h3>
+* <h3 id="3">jBuilder: jbuilder.ypcloud.com</h3>
 -----------------------------------------------------
 ## Snap
 * [Smartscreen](https://snapcraft.io/smartscreen): 
