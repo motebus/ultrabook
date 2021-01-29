@@ -33,7 +33,7 @@
     <img src="https://github.com/monica3386111/image/blob/main/smartscreen.png"/>
   </div>
   <div id="right">
-    test jiwgjiwkjsgkjkjkskjgjwigiwhhwjghjA web-based screening service.The display contents can be manipulated by Jujue, uBot by Node-Red, and @SmartScreenBot by telegram.
+    test
   </div>
 </div>
 
