@@ -35,7 +35,7 @@
 * [fbots](https://snapcraft.io/fbots)
 * [Sphere](https://snapcraft.io/sphere)
 * [logmms](https://snapcraft.io/logmms)
-* [fbuilder](https://snapcraft.io/fbuilder)
+* ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/05/FB.png)[fbuilder](https://snapcraft.io/fbuilder)
 <br>A web browser-based 
 * [moted](https://snapcraft.io/moted)
 * [flowbot](https://snapcraft.io/flowbot)
