@@ -1,5 +1,5 @@
 # Table of Contents
-* [UltraBuilder URL](#ultraBuilder url)
+* [UltraBuilder URL](#ultraBuilder-url)
   - [fBuilder](#11)
   - jBuilder
 * [Snap](#2)
