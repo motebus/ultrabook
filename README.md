@@ -3,8 +3,8 @@
   - [fBuilder](#11)
   - [jBuilder](#12)
 * [Snap](#2)
-  - Smartscreen
-  - keybot
+  - [Smartscreen](#21)
+  - [keybot](#22)
   - mote
   - jBuilder
   - fbots
@@ -26,9 +26,9 @@
 * <h4 id="12">jBuilder: jbuilder.ypcloud.com</h4>
 -----------------------------------------------------
 ## <h2 id="2">Snap</h2>
-* [Smartscreen](https://snapcraft.io/smartscreen): 
+* <h4 id="21">[Smartscreen](https://snapcraft.io/smartscreen)</h4>
 <br>A web-based screening service. The display contents can be manipulated by Jujue, uBot by Node-Red, and @SmartScreenBot by telegram.
-* [keybot](https://snapcraft.io/keybot)
+* <h4 id="22">[keybot](https://snapcraft.io/keybot)</h4>
 * [mote](https://snapcraft.io/mote)
 * [jBuilder](https://snapcraft.io/jbuilder)
 <br>A web-based dashboard creator.
