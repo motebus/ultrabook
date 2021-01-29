@@ -42,7 +42,7 @@ A web-based screening service.The display contents can be manipulated by Jujue, 
 -----
 <img align="left" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/851a6190-ffb1-461b-a7bc-c675d252038f.jpg.png" />
 
-<h4 id="24">[jBuilder](https://snapcraft.io/jbuilder)</h4>
+<h4 id="24"> [jBuilder](https://snapcraft.io/jbuilder)</h4>
 A web-based dashboard creator.
 
 -----
