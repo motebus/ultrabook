@@ -38,7 +38,7 @@
 * ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/05/FB.png)[fbuilder](https://snapcraft.io/fbuilder)
 <br>A web browser-based 
 * ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/08/7A7FE9FD-366E-43A5-8006-69EDFFF2548E.jpeg.png)[moted](https://snapcraft.io/moted)
-* [flowbot](https://snapcraft.io/flowbot)
+* ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/03/fbuilder.jpeg_IMnAKHn.png)[flowbot](https://snapcraft.io/flowbot)
 * [app-jujue](https://snapcraft.io/app-jujue)
 -----------------------------------------------------
 ## <h2 id="3">Mote Sphere</h2>
