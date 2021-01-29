@@ -32,9 +32,9 @@
 * ![image](https://github.com/monica3386111/image/blob/main/mote.png)[mote](https://snapcraft.io/mote)
 * ![image](https://github.com/monica3386111/image/blob/main/jbuilder.png)[jBuilder](https://snapcraft.io/jbuilder)
 <br>A web-based dashboard creator.
-* [fbots](https://snapcraft.io/fbots)
-* [Sphere](https://snapcraft.io/sphere)
-* [logmms](https://snapcraft.io/logmms)
+* ![image](https://github.com/monica3386111/image/blob/main/fbots.jpeg)[fbots](https://snapcraft.io/fbots)
+* ![image](https://github.com/monica3386111/image/blob/main/sphere.png)[Sphere](https://snapcraft.io/sphere)
+* ![image](https://github.com/monica3386111/image/blob/main/logmms.png)[logmms](https://snapcraft.io/logmms)
 * ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/05/FB.png)[fbuilder](https://snapcraft.io/fbuilder)
 <br>A web browser-based 
 * [moted](https://snapcraft.io/moted)
