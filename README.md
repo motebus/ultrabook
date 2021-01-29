@@ -15,7 +15,7 @@
   - [flowbot](#210)
   - [app-jujue](#211)
 * [Mote Sphere](#3)
-  - [autostart](#31)
+  - [autostart](#autostart)
   - topic cloud
   - MoteChat API
   - MoteBus-Error-Code
@@ -41,7 +41,7 @@
 * ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/10/jujue_320x320.png)<h4 id="211">[app-jujue](https://snapcraft.io/app-jujue)</h4>
 -----------------------------------------------------
 ## <h2 id="3">Mote Sphere</h2>
-* <h4 id="31">[autostart](https://gitwork.ypcloud.com/clouder-20/c20-weichen/blob/master/autostart.md)</h4>
+* [autostart](https://gitwork.ypcloud.com/clouder-20/c20-weichen/blob/master/autostart.md)
 * [topic cloud](https://gitwork.ypcloud.com/clouder-19/c19-dawn/blob/master/topic%20cloud.md)
 * [MoteChat API](https://gitwork.ypcloud.com/clouder-17/c17-wei/blob/master/md%20file/MoteChat%20API/MoteChat%20API.md)
 * [MoteBus-Error-Code](https://gitwork.ypcloud.com/clouder-17/c17-wei/blob/master/md%20file/MoteBus-Error-Code.md)
