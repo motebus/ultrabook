@@ -1,6 +1,6 @@
 # Table of Contents
 * [UltraBuilder URL](#1)
-  - fBuilder
+  - [fBuilder]
   - [jBuilder](#12)
 * [Snap](#2)
   - [Smartscreen](#21)
@@ -22,7 +22,7 @@
   - setup RPi autorun
 
 ## <h2 id="1">UltraBuilder URL</h2>
-* [fBuilder]: flow365.ypcloud.com(- fBuilder)
+* fBuilder: flow365.ypcloud.com
 * jBuilder: jbuilder.ypcloud.com
 -----------------------------------------------------
 ## <h2 id="2">Snap</h2>
