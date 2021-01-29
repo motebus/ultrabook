@@ -1,4 +1,4 @@
-# Table of 
+# Table of Contents
 
 ## UltraBuilder URL
 * [GitWork](http://gitwork.ypcloud.com/)
