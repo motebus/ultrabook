@@ -31,6 +31,7 @@
 * [keybot](https://snapcraft.io/keybot)
 * [mote](https://snapcraft.io/mote)
 * [jBuilder](https://snapcraft.io/jbuilder)
+<br>A web-based dashboard creator.
 * [fbots](https://snapcraft.io/fbots)
 * [Sphere](https://snapcraft.io/sphere)
 * [logmms](https://snapcraft.io/logmms)
