@@ -40,7 +40,11 @@
 
 -----
 ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/6381ab4a-7e9f-4a98-8749-7399c7485d2f.jpg.png)<h4 id="22">[keybot](https://snapcraft.io/keybot)</h4>
+
+-----
 ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/1a90ef56-7301-4f38-bfaa-04407c1ed523.jpg.png)<h4 id="23">[mote](https://snapcraft.io/mote)</h4>
+
+-----
 ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/851a6190-ffb1-461b-a7bc-c675d252038f.jpg.png)<h4 id="24">[jBuilder](https://snapcraft.io/jbuilder)</h4>
 <br>A web-based dashboard creator.
 ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/7e65d1f7-8d79-4014-b970-056464ca6811.jpg.png)<h4 id="25">[fbots](https://snapcraft.io/fbots)</h4>
