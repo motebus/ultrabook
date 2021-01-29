@@ -39,6 +39,7 @@ A web-based screening service.The display contents can be manipulated by Jujue, 
 <img align="left" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/6381ab4a-7e9f-4a98-8749-7399c7485d2f.jpg.png" />
 
 #### [keybot](https://snapcraft.io/keybot)
+ I/O service for ei.
 
 -----
 <img align="left" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/1a90ef56-7301-4f38-bfaa-04407c1ed523.jpg.png" />
@@ -65,6 +66,7 @@ A web-based dashboard creator.
 <img align="left" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/9d3a2da3-db74-42b0-875c-7754a328074a.jpg.png" />
 
 #### [logmms](https://snapcraft.io/logmms)
+log service for ei.
 
 -----
 <img align="left" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/05/FB.png" />
@@ -81,6 +83,7 @@ A flow-based visual programming tool for easily deploying microservices and crea
 <img align="left" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/03/fbuilder.jpeg_IMnAKHn.png" />
 
 #### [flowbot](https://snapcraft.io/flowbot)
+Flow designer based-on node-red-config-motechat.
 
 -----
 <img align="left" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/10/jujue_320x320.png" />
