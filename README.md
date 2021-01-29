@@ -4,7 +4,7 @@
   - [jBuilder URL](#jbuilder-url)
 * [Snap](#2)
   - [Smartscreen](#smartscreen)
-  - [keybot](#22)
+  - [keybot](#keybot)
   - [mote](#23)
   - [jBuilder](#jbuilder)
   - [fbots](#25)
@@ -36,7 +36,9 @@ jbuilder.ypcloud.com
 A web-based screening service.The display contents can be manipulated by Jujue, uBot by Node-Red, and @SmartScreenBot by telegram.
 
 -----
-![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/6381ab4a-7e9f-4a98-8749-7399c7485d2f.jpg.png)<h4 id="22">[keybot](https://snapcraft.io/keybot)</h4>
+<img align="left" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/6381ab4a-7e9f-4a98-8749-7399c7485d2f.jpg.png" />
+
+#### [keybot](https://snapcraft.io/keybot)
 
 -----
 ![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/1a90ef56-7301-4f38-bfaa-04407c1ed523.jpg.png)<h4 id="23">[mote](https://snapcraft.io/mote)</h4>
