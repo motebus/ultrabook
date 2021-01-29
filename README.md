@@ -5,7 +5,7 @@
 * [Snap](#2)
   - [Smartscreen](#smartscreen)
   - [keybot](#keybot)
-  - [mote](#23)
+  - [mote](#mote)
   - [jBuilder](#jbuilder)
   - [fbots](#25)
   - [Sphere](#26)
@@ -41,7 +41,9 @@ A web-based screening service.The display contents can be manipulated by Jujue, 
 #### [keybot](https://snapcraft.io/keybot)
 
 -----
-![image](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/1a90ef56-7301-4f38-bfaa-04407c1ed523.jpg.png)<h4 id="23">[mote](https://snapcraft.io/mote)</h4>
+<img align="left" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/1a90ef56-7301-4f38-bfaa-04407c1ed523.jpg.png" />
+
+#### [mote](https://snapcraft.io/mote)
 
 -----
 <img align="left" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/851a6190-ffb1-461b-a7bc-c675d252038f.jpg.png" />
