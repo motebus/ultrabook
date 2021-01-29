@@ -30,7 +30,7 @@
 ## <h2 id="2">Snap</h2>
 <div>
   <div id="left" style="float:left">
-    <img src="https://github.com/monica3386111/image/blob/main/smartscreen.png"/>
+    <img src="https://github.com/monica3386111/image/blob/main/smartscreen.png">
   </div>
     test test test test test test test test test test test test test test test test test test test test 
 </div>
