@@ -8,11 +8,10 @@
 ## UltraDesk
 #### [Welcome to UltraDesk](https://github.com/motebus/ultranet/blob/main/ultradesk/Welcome%20to%20UltraDesk.md)
 #### [SmartScreen User Manual](https://github.com/motebus/ultranet/blob/main/ultradesk/SmartScreen%20User%20Manual.md)
-#### fBuilder URL: 
-flow365.ypcloud.com
+#### fBuilder：flow365.ypcloud.com
+
 #### [fBuilder User Manual](https://github.com/motebus/ultranet/blob/main/ultradesk/fbuilder%20User%20Manual.md)
-#### jBuilder URL: 
-jbuilder.ypcloud.com
+#### jBuilder：jbuilder.ypcloud.com
 #### [jBuilder User Manual](https://github.com/motebus/ultranet/blob/main/ultradesk/jBuilder%20User%20Manual.md)
 
 
