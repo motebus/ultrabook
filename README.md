@@ -1,5 +1,5 @@
 # Table of Contents
-* [UltraBuilder URL](#ultraBuilder-url)
+* [UltraDesk](#ultradesk)
   - [fBuilder URL](#fbuilder-url)
   - [jBuilder URL](#jbuilder-url)
 * [Snap](#2)
@@ -23,14 +23,14 @@
 
 
 ## UltraDesk
-### Welcome to UltraDesk
-#### SmartScreen User Manual
+### [Welcome to UltraDesk](https://github.com/motebus/ultranet/blob/main/ultradesk/Welcome%20to%20UltraDesk.md)
+#### [SmartScreen User Manual](https://github.com/motebus/ultranet/blob/main/ultradesk/SmartScreen%20User%20Manual.md)
 #### fBuilder URL: 
 flow365.ypcloud.com
-#### fBuilder User Manual
+#### [fBuilder User Manual](https://github.com/motebus/ultranet/blob/main/ultradesk/fbuilder%20User%20Manual.md)
 #### jBuilder URL: 
 jbuilder.ypcloud.com
-#### jBuilder User Manual
+#### [jBuilder User Manual](https://github.com/motebus/ultranet/blob/main/ultradesk/jBuilder%20User%20Manual.md)
 
 
 ## <h2 id="2">Snap</h2>
