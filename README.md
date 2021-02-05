@@ -92,7 +92,7 @@ Flow designer based-on node-red-config-motechat.
 
 
 ## <h2 id="3">Mote Sphere</h2>
-#### [autostart](https://gitwork.ypcloud.com/clouder-20/c20-weichen/blob/master/autostart.md)
+#### [autostart](https://hackmd.io/@monica19970902/S1wtVgdeu)
 #### [topic cloud](https://gitwork.ypcloud.com/clouder-19/c19-dawn/blob/master/topic%20cloud.md)
 #### [MoteChat API](https://gitwork.ypcloud.com/clouder-17/c17-wei/blob/master/md%20file/MoteChat%20API/MoteChat%20API.md)
 #### [MoteBus-Error-Code](https://gitwork.ypcloud.com/clouder-17/c17-wei/blob/master/md%20file/MoteBus-Error-Code.md)
