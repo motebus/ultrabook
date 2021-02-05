@@ -1,25 +1,10 @@
 # Table of Contents
 * [UltraDesk](#ultradesk)
-  - [fBuilder URL](#fbuilder-url)
-  - [jBuilder URL](#jbuilder-url)
-* [Snap](#2)
-  - [Smartscreen](#smartscreen)
-  - [keybot](#keybot)
-  - [mote](#mote)
+  - [fBuilder](#fbuilder)
   - [jBuilder](#jbuilder)
-  - [fbots](#fbots)
-  - [Sphere](#sphere)
-  - [logmms](#logmms)
-  - [fbuilder](#fbuilder)
-  - [moted](#moted)
-  - [flowbot](#flowbot)
-  - [app-jujue](#app-jujue)
+* [Snap](#2)
 * [Mote Sphere](#3)
-  - [autostart](#autostart)
-  - [topic cloud](#topic-cloud)
-  - [MoteChat API](#Motechat-api)
-  - [MoteBus-Error-Code](#motebus-error-code)
-  - [setup RPi autorun](#setup-rpi-autorun)
+
 
 
 ## UltraDesk
