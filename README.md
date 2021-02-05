@@ -1,7 +1,5 @@
 # Table of Contents
 * [UltraDesk](#ultradesk)
-  - [fBuilder](#fbuilder)
-  - [jBuilder](#jbuilder)
 * [Snap](#2)
 * [Mote Sphere](#3)
 
