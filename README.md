@@ -98,6 +98,6 @@ Flow designer based-on node-red-config-motechat.
 ## <h2 id="3">Mote Sphere</h2>
 #### [autostart](https://github.com/motebus/ultranet/blob/main/mote%20sphere/autostart.md)
 #### [topic cloud](https://github.com/motebus/ultranet/blob/main/mote%20sphere/topic%20cloud.md)
-#### [MoteChat API](https://github.com/motebus/ultranet/blob/main/mote%20sphere/motechat%20api.md)
-#### [MoteBus-Error-Code](https://github.com/motebus/ultranet/blob/main/mote%20sphere/motebus-error-code.md)
-#### [setup RPi autorun](https://github.com/motebus/ultranet/blob/main/mote%20sphere/setup%20rpi%20autorun.md)
+#### [MoteChat API](https://github.com/motebus/ultranet/blob/main/mote%20sphere/MoteChat%20API.md)
+#### [MoteBus-Error-Code](https://github.com/motebus/ultranet/blob/main/mote%20sphere/MoteBus-Error-Code.md)
+#### [setup RPi autorun](https://github.com/motebus/ultranet/blob/main/mote%20sphere/setup%20RPI%20autorun.md)
