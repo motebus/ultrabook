@@ -9,8 +9,6 @@
 
 ## <h2 id="1">Hello! UltraDesk</h2>
 #### [Welcome to UltraDesk](https://github.com/motebus/ultranet/blob/main/ultradesk/Welcome%20to%20UltraDesk.md)
-* [fBuilder User Guide](https://github.com/motebus/ultranet/blob/main/ultradesk/fbuilder%20User%20Manual.md)
-  -  fBuilder：flow365.ypcloud.com
 * [jBuilder User Guide](https://github.com/motebus/ultranet/blob/main/ultradesk/jBuilder%20User%20Manual.md)
   - jBuilder：jbuilder.ypcloud.com
 
@@ -62,7 +60,8 @@ logmms is a logging system service for your EI device.
 
 #### [fbuilder](https://snapcraft.io/fbuilder)
 A flow-based visual programming tool for easily deploying microservices and creating IoT control management systems.
-
+* fBuilder：'flow365.ypcloud.com'
+* [fBuilder User Guide](https://github.com/motebus/ultranet/blob/main/ultradesk/fbuilder%20User%20Manual.md)
 -----
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/08/7A7FE9FD-366E-43A5-8006-69EDFFF2548E.jpeg.png" />
 
