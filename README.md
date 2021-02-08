@@ -1,5 +1,5 @@
 # Table of Contents
-* [Hello! UltraDesk](#hello!-ultradesk)
+* [Hello! UltraDesk](#hello!ultradesk)
 * [Ultranet Apps](#2)
 * [Topic and Microservices](#3)
 * [MoteBus Stack](#motebus-stack)
