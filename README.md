@@ -9,8 +9,6 @@
 
 ## <h2 id="1">Hello! UltraDesk</h2>
 #### [Welcome to UltraDesk](https://github.com/motebus/ultranet/blob/main/ultradesk/Welcome%20to%20UltraDesk.md)
-* [jBuilder User Guide](https://github.com/motebus/ultranet/blob/main/ultradesk/jBuilder%20User%20Manual.md)
-  - jBuilder：jbuilder.ypcloud.com
 
 
 ## <h2 id="2">Ultranet Apps</h2>
@@ -36,7 +34,9 @@ mote is an OS for edge IoT device.
 
 #### [jBuilder](https://snapcraft.io/jbuilder)
 A web-based dashboard creator. Create dashboards for digital maintenance systems, presentations, interactive kiosks, customised websites and more.
-
+* jBuilder：[jbuilder.ypcloud.com](https://jbuilder.ypcloud.com/)
+* [jBuilder User Guide](https://github.com/motebus/ultranet/blob/main/ultradesk/jBuilder%20User%20Manual.md)
+ 
 -----
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/7e65d1f7-8d79-4014-b970-056464ca6811.jpg.png" />
 
