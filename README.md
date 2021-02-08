@@ -86,3 +86,4 @@ The Mote Browser.
 * [MoteChat API](https://github.com/motebus/ultranet/blob/main/mote%20sphere/MoteChat%20API.md)
 * [MoteBus-Error-Code](https://github.com/motebus/ultranet/blob/main/mote%20sphere/MoteBus-Error-Code.md)
 * [setup RPi autorun](https://github.com/motebus/ultranet/blob/main/mote%20sphere/setup%20RPI%20autorun.md)
+* [Parallel SmartScreen Install Guide](https://github.com/motebus/ultranet/blob/main/mote%20sphere/Parallel%20SmartScreens%20Install%20Guide.md)
