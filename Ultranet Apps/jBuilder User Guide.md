@@ -1,4 +1,4 @@
-# jBuilder User Manual
+# jBuilder User Guide
 jbuilder is used to build jboards. 
 
 ## Table of Contents
