@@ -16,7 +16,7 @@
 
 #### [Smartscreen](https://snapcraft.io/smartscreen)
 A web-based screening service.The display contents can be manipulated by Jujue, uBot by Node-Red, and @SmartScreenBot by telegram.
-* [SmartScreen User Guide](https://github.com/motebus/ultranet/blob/main/ultradesk/SmartScreen%20User%20Manual.md)
+* [SmartScreen User Guide](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/SmartScreen%20User%20Guide.md)
 -----
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/6381ab4a-7e9f-4a98-8749-7399c7485d2f.jpg.png" />
 
