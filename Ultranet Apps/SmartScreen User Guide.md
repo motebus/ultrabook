@@ -1,4 +1,4 @@
-# SmartScreen User Manual
+# SmartScreen User Guide
 
 SmartScreen is a web-based screening service.
 Content across multiple displays and locations can be controlled remotely with Jujue, @Smartscreen bot, or ubot on Node-Red control.
