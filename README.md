@@ -67,7 +67,7 @@ A flow-based visual programming tool for easily deploying microservices and crea
 
 #### [moted](https://snapcraft.io/moted)
 moteOS Background Services.
-
+* [moted-install](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/moted-install.md)
 -----
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/03/fbuilder.jpeg_IMnAKHn.png" />
 
