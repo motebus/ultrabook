@@ -1,4 +1,4 @@
-# fbuilder User Manual
+# fbuilder User Guide
 Table of Contents
 - Welcome to fbuilder
 - Basic Nodes
