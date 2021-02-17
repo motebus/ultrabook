@@ -204,7 +204,19 @@
 | qociman://delete |             |         |
 | qociman://get |             |         |
 | qociman://list |             |         |
-| qociman://restart] |              |          |   
+| qociman://restart |              |          |   
 | qociman://start |              |      |   
 | qociman://stop |              |      |   
 | qociman://status |              |      |   
+
+5. mote
+
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
+|:------------------ | ----------- | ------- |
+| mote://run |             |         |
+| mote://delete |             |         |
+| mote://start |             |         |
+| mote://stop |             |         |
+| mote://restart |              |          |   
+| mote://list |              |      |   
+| mote://checkAlive |              |      |   
