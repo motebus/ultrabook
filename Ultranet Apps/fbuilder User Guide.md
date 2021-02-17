@@ -17,7 +17,7 @@ If this is your first time logging in, you should see numerous demo flows loaded
 *Option 2: Using the Digital Twin Bot on Telegram, you can create an fBuilder service. Simply use the link provided by the bot after the initialization process is completed.
 After clicking on the link, use your Jujue account credentials to log in, and you will be taken to the fBuilder environment.*
 
-![TEST IMAGE](https://i.imgur.com/3pY3o7h.png =800x400)
+![IMAGE](https://i.imgur.com/3pY3o7h.png=800x400)
 
 
 ## Basic Nodes 
