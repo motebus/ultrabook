@@ -10,7 +10,7 @@ Flow Builder (fBuilder) is a low-code programming environment developed by YPClo
 ### Create an account and log in
 To use fBuilder, you must first have a Jujue account. 
 Go to account.ypcloud.com to create your Jujue account.
-Then go to fbuilder at  flow365.ypcloud.com to enter your details and log in. 
+Then go to fbuilder at  fbuilder.ypcloud.com to enter your details and log in. 
 
 If this is your first time logging in, you should see numerous demo flows loaded in the assembly area (center of your window). 
 
