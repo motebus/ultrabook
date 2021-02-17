@@ -16,11 +16,11 @@ Telegram
 
 ## Jujue Account
 1. Make a Jujue account:
-* Head to account.ypcloud.com, click on Sign Up, and create a new username and password, then sign in.
-* You can also choose to sing up with your gmail/facebook/telegram if you want.
-2. Head to [Jujue Browser](https://jujue.app/browser), click the button on the top right side(App Launcher), now you can use your account to reach to gitwork,fbuilder,jbuilder etc.
+* Head to [account.ypcloud.com](https://account.ypcloud.com/#/login), click on Sign Up and create a new username and password. Then sign in to confirm your new account.
+* You can also choose to sign up with your Gmail/Facebook/Telegram if you want.
+2. Head to [Jujue Browser](https://jujue.app/browser), click the App Launcher button on the top right corner. Now you can use your account to access Gitwork,fBuilder,jBuilder etc.
 
-Gitwork
+### Gitwork
 ---
 * Make a Gitwork account: 
 1. Sign in your Jujue account.
@@ -30,14 +30,14 @@ Gitwork
 * Remember to update your progress regularly.
 * Your code and other resources you develop at YPCloud, will be stored in Gitwork.
 
-fBuilder
+### fBuilder
 ---
 1. Sign in your Jujue account.
 2. Now, we need to create a clock-in twin bot with fBuilder:
 * Create a simple flow that clocks-in to the Telegram channel clockin://c20 four times a day: at 9:00, 12:00, 18:00, and 00:00.
 
 
-jBuilder
+### jBuilder
 ---
 * Sign in your Jujue account.
 * Now you can use jBuilder to create your own jBoard!
