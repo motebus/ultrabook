@@ -11,7 +11,7 @@
     [Desktop Entry]
     Type=Application
     Name=smartscreen
-    Exec=/home/jujue/.config/autostart/smartscreen.sh
+    Exec=smartscreen
     
  ## Reboot
  Save and exit with ctrl + x, followed by y when prompted to save, and then enter. Reboot with:
