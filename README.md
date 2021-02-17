@@ -91,3 +91,4 @@ The Mote Browser.
 * [autostart](https://github.com/motebus/ultranet/blob/main/Application%20Guide/autostart.md)
 * [setup RPi autorun](https://github.com/motebus/ultranet/blob/main/Application%20Guide/setup%20RPI%20autorun.md)
 * [Parallel SmartScreen Install Guide](https://github.com/motebus/ultranet/blob/main/Application%20Guide/Parallel%20SmartScreens%20Install%20Guide.md)
+* [Power On Boot](https://github.com/motebus/ultrabook/blob/main/Application%20Guide/Power%20On%20Boot.md)
