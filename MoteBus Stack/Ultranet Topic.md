@@ -168,3 +168,43 @@
 | twcc://getUserLog  |             |         |
 | twcc://getToken    |             |         |
 
+
+## qman
+1. qhost
+
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
+|:------------------ | ----------- | ------- |
+| qhost://list |             |         |
+| qhost://save |             |         |
+| qhost://update |             |         |
+| qhost://delete |             |         |
+
+2. qman
+
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
+|:------------------ | ----------- | ------- |
+| qman://list |             |         |
+| qman://run |             |         |
+| qman://delete |             |         |
+
+3. mpodman
+
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
+|:------------------ | ----------- | ------- |
+| mpodman://list |             |         |
+| mpodman://run |             |         |
+| mpodman://delete |             |         |
+| mpodman://update |             |         |
+
+4. qociman
+
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
+|:------------------ | ----------- | ------- |
+| qociman://run |             |         |
+| qociman://delete |             |         |
+| qociman://get |             |         |
+| qociman://list |             |         |
+| qociman://restart] |              |          |   
+| qociman://start |              |      |   
+| qociman://stop |              |      |   
+| qociman://status |              |      |   
