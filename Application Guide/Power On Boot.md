@@ -1,4 +1,4 @@
-# Restore after Power cut 斷電後自動恢復
+# Power On Boot 斷電後自動恢復
 
 1. `sudo reboot`後一直按Delete鍵，進入BIOS mode
 2. 利用鍵盤的右鍵選到Chipset
