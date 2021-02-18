@@ -1,9 +1,11 @@
 # Table of Contents
 * [Hello! UltraDesk](#1)
 * [Ultra Apps](#2)
+* [Jujue Apps](#jujue-apps)
+* [Snap Apps](#snap-apps)
 * [Topic and Microservices](#3)
 * [MoteBus Stack](#motebus-stack)
-* [Mote Sphere]
+* [Mote Sphere](#mote-sphere)
 * [Application Guide](#application-guide)
 
 
@@ -12,7 +14,7 @@
 #### [Welcome to UltraDesk](https://github.com/motebus/ultranet/blob/main/Hello%20UltraDesk/Welcome%20to%20UltraDesk.md)
 
 
-## <h2 id="2">Ultranet Apps</h2>
+## <h2 id="2">Ultra Apps</h2>
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/08/smartscreen_256x256.png" />
 
 #### [Smartscreen](https://snapcraft.io/smartscreen)
@@ -81,12 +83,18 @@ Flow designer based on node-red with motechat config nodes.
 #### [app-jujue](https://snapcraft.io/app-jujue)
 The Mote Browser. 
 
+## Jujue Apps
+
+## Snap Apps
+
 ## Topic and Microservices
 
 ## <h2 id="3">MoteBus Stack</h2>
 * [Ultranet Topic](https://github.com/motebus/ultranet/blob/main/MoteBus%20Stack/Ultranet%20Topic.md)
 * [MoteChat API](https://github.com/motebus/ultranet/blob/main/MoteBus%20Stack/MoteChat%20API.md)
 * [MoteBus-Error-Code](https://github.com/motebus/ultranet/blob/main/MoteBus%20Stack/MoteBus-Error-Code.md)
+
+## Mote Sphere
 
 ## Application Guide
 * [autostart](https://github.com/motebus/ultranet/blob/main/Application%20Guide/autostart.md)
