@@ -100,6 +100,6 @@ The Mote Browser.
 ## Application Note
 * [autostart](https://github.com/motebus/ultranet/blob/main/Application%20Guide/autostart.md)
 * [setup RPi autorun](https://github.com/motebus/ultranet/blob/main/Application%20Guide/setup%20RPI%20autorun.md)
-* [Parallel SmartScreen Install Guide](https://github.com/motebus/ultranet/blob/main/Application%20Guide/Parallel%20SmartScreens%20Install%20Guide.md)
+* [Parallel SmartScreen Install Guide](https://github.com/motebus/ultranet/blob/main/Application%20Note/Parallel%20SmartScreens%20Install%20Guide.md)
 * [Power On Boot](https://github.com/motebus/ultrabook/blob/main/Application%20Guide/Power%20On%20Boot.md)
 * [keyboard shortcuts](https://github.com/motebus/ultrabook/blob/main/Application%20Note/keyboard%20shortcuts.md)
