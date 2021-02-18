@@ -95,6 +95,7 @@ The Mote Browser.
 * [MoteBus-Error-Code](https://github.com/motebus/ultranet/blob/main/MoteBus%20Stack/MoteBus-Error-Code.md)
 
 ## Mote Sphere
+* [moted-install](https://github.com/motebus/ultrabook/blob/main/Mote%20Sphere/moted-install.md)
 
 ## Application Guide
 * [autostart](https://github.com/motebus/ultranet/blob/main/Application%20Guide/autostart.md)
