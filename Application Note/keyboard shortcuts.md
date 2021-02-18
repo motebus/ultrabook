@@ -7,9 +7,9 @@
 5. `FN`+`F12`--->截圖
 6. `FN`+`F11`/`F10`--->調整音量大小，大聲／小聲
 7. 在Terminal內，`Ctrl`+`C`--->結束當前應用程式
-8. In Normal mode
+8. In Normal mode:
 <br>`Ctrl`+`C`--->copy
 <br>`Ctrl`+`V`--->paste
-<br>In Terminal mode
+<br>In Terminal mode:
 <br>`Ctrl`+`Shift`+`C`--->copy
 <br>`Ctrl`+`Shift`+`V`--->paste
