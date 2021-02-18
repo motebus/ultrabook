@@ -10,6 +10,6 @@
 8. In Normal mode
 <br>`Ctrl`+`C`--->copy
 <br>`Ctrl`+`V`--->paste
-In Terminal mode
+<br>In Terminal mode
 <br>`Ctrl`+`Shift`+`C`--->copy
 <br>`Ctrl`+`Shift`+`V`--->paste
