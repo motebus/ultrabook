@@ -103,3 +103,4 @@ The Mote Browser.
 * [Parallel SmartScreen Install Guide](https://github.com/motebus/ultranet/blob/main/Application%20Note/Parallel%20SmartScreens%20Install%20Guide.md)
 * [Power On Boot](https://github.com/motebus/ultrabook/blob/main/Application%20Note/Power%20On%20Boot.md)
 * [keyboard shortcuts](https://github.com/motebus/ultrabook/blob/main/Application%20Note/keyboard%20shortcuts.md)
+* [Konga](https://github.com/motebus/ultrabook/blob/main/Application%20Note/Konga.md)
