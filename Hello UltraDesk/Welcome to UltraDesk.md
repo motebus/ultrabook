@@ -6,10 +6,10 @@ First, we need to create our own working space.
 Telegram
 ---
 1. Make sure you have joined these YPCloud groups on Telegram already:
-* clockin://c20
-* ioc://c20
-* duty://c20
-* jboard://c20
+* clockin://c21
+* ioc://c21
+* duty://c21
+* jboard://c21
 2. Add two chatbots to contacts:
 * @JujueBot
 * @PinponboyBot
