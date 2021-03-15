@@ -100,7 +100,7 @@ The Mote Browser.
 * [moted-install](https://github.com/motebus/ultrabook/blob/main/Mote%20Sphere/moted-install.md)
 
 ## Ultranet Gateway
-* [Ultranet Gateway]()
+* [Ultranet Gateway](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Gateway/Ultranet%20Gateway.md)
 
 ## Application Note
 * [autostart](https://github.com/motebus/ultranet/blob/main/Application%20Note/autostart.md)
