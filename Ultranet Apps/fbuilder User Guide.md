@@ -115,6 +115,7 @@ If you are asked to clock in, follow these steps:
 
 1) Click the Button on the top right corner to create a new Project, naming the Project in both Name and QName "twin".
 ![image](https://imgur.com/rLkvXnB.png)
+![image](https://imgur.com/RUfF4W4.png)
 2) Drag in an **Inject** node and a **Payload** node from the left column.
 3) Connect the **Inject** node to the input (left) of the **Payload** node. 
 4) Double click **Payload** node, and type the following string into the second input column with an e-mail icon.
