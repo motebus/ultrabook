@@ -113,7 +113,8 @@ Clouder interns are usually requested to set up a clock-in flow on fBuilder near
 You should clock in 4 times a day: 00:00, 09:00, 12:00, and 18:00. 
 If you are asked to clock in, follow these steps: 
 
-1) Click "+" to open a new tab (Add Flow) in fBuilder (if you do not have an empty one).
+1) Click the Button on the top right corner to create a new Project, naming the Project in both Name and QName "twin".
+![image](https://imgur.com/rLkvXnB.png)
 2) Drag in an **Inject** node and a **Payload** node from the left column.
 3) Connect the **Inject** node to the input (left) of the **Payload** node. 
 4) Double click **Payload** node, and type the following string into the second input column with an e-mail icon.
