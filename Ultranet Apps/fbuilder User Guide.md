@@ -112,17 +112,23 @@ Clouder interns are usually requested to set up a clock-in flow on fBuilder near
 
 You should clock in 4 times a day: 00:00, 09:00, 12:00, and 18:00. 
 If you are asked to clock in, follow these steps: 
-> **Add images between steps**
-1) Open a new tab on fBuilder. 
-2) Drag in an inject node. Connect it to a Payload node. 
-3) In the Payload node, type the following: {“type”: “message”, “content”: “??? clocking in”, “bot”: “pinponboy”}. Replace ??? with your name. Save it.
-If you click on the [] next to the payload message, you should see this:
 
-4) Connect a Send node to the Payload node. Set both fields to strings, type “>>comm” for DDN and “ioc://-???” for Topic. The number corresponds to the ID number of ioc://clockin, the Telegram channel where all the clock-in messages are sent. 
-5) Connect both ports of the Send node to a debug node. Then hit Deploy. 6) Click on the button in front of the Inject node. Then go to ioc://clockin on Telegram. You should see a message saying “??? clocking in”. 
-7) If you send successfully, drag out 3 more Inject nodes and connect them all to your payload. There should now be 4 Inject nodes connected to your payload node. 
-8) For each Inject node, scroll to the very bottom and set it to repeat every day at a specific time. The times are 00:00, 09:00, 12:00, and 18:00. Enter one time per node.
-9) When you’re done, hit Deploy. Your fBuilder should continue to clock in for you even if you turn off your computer. 
+1) Click "+" to open a new tab (Add Flow) in fBuilder (if you do not have an empty one).
+2) Drag in an **Inject** node and a **Payload** node from the left column.
+3) Connect the **Inject** node to the input (left) of the **Payload** node. 
+4) Double click **Payload** node, and type the following string into the second input column with an e-mail icon.
+```{"type": "message", "content": "NAME clocking in", "bot": "pinponboy"}.```
+Replace "NAME" with your name. Click "Done" to save it.
+5) Drag in a **Send** node and connect to the output of the **Payload** node. Double click the Send node and set both DDN and Topic fields to strings, and then type `>>comm` for DDN and `tg://-CHANNELID` for Topic, where "`CHANNELID`" the ID number of the target Telegram channel, to which all the clock-in messages are sent. To check the CHANNELID, you can login on [Telegram Web Version](web.telegram.org) and click the desired channel. Usually the channel ID is the 9-digit part coming right after "p=" in the url bar.
+6) Connect both outputs of the **Send** node to a **Debug** node, and then click Deploy.
+7) Click on the button in front of the **Inject** node. Then go to the desired channel on Telegram. You should see a message saying "NAME clocking in". 
+8) If it sends successfully, drag in 3 more **Inject** nodes and connect them all to your **Payload**. There should now be 4 **Inject** nodes connected to your **Payload** node. 
+9) For each **Inject** node, double click it and scroll to the bottom. Set Repeat every day (with Monday to Sunday checked) "at a specific time". The times of each **Inject** node should be set to 00:00, 09:00, 12:00, and 18:00, respectively. 
+
+You're flow now should look similar to this.
+![image](https://user-images.githubusercontent.com/20572126/111123353-3086b080-85aa-11eb-88d7-d0b998e5305c.png)
+
+10) When you're all done, click Deploy. Your fBuilder should continue to clock in even if you close the webpage or shutdown your computer. 
 
 
 ## Telegram Bots 
