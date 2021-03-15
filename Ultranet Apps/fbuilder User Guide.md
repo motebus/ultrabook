@@ -126,11 +126,11 @@ Replace "NAME" with your name. Click "Done" to save.
 7) Click on the button in front of the **Inject** node. Then go to the target channel on Telegram. You should see a message saying "NAME clocking in". 
 8) If the message sends successfully, drag in 3 more **Inject** nodes and connect them all to your **Payload**. There should now be 4 **Inject** nodes connected to your **Payload** node. 
 9) For each **Inject** node, double click it and scroll to the bottom. Set Repeat every day (with Monday to Sunday checked) "at a specific time". The times of each **Inject** node should be set to 00:00, 09:00, 12:00, and 18:00, respectively. 
-10) Add one more **Inject** node, and set it to inject once after 0.1 seconds with no repeats. This is your initial clock-in node.  
 
 Your flow now should look similar to this.
 ![image](https://user-images.githubusercontent.com/20572126/111123353-3086b080-85aa-11eb-88d7-d0b998e5305c.png)
 
+10) Add one more **Inject** node, and set it to inject once after 0.1 seconds with no repeats. This is your initial clock-in node.  
 11) When you're all done, click Deploy. 
 12) Next, click the button on the top right corner and select "QRun". Choose any server to deploy. Your fBuilder should continue to clock in even if you close the webpage, logout, or shutdown your computer. 
 ![image](https://imgur.com/yMwn7ic.png)
