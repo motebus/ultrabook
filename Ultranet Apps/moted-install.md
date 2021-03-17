@@ -12,7 +12,7 @@ URL: <https://github.com/motebus/moted-snap/releases>
 <br>在桌面點選Jujue資料夾，至Download找到剛剛下載的檔案，點選滑鼠右鍵 "Open in Terminal"
 
 ## 4. Command
-在Terminal輸入指令 `sudo snap install xxxx.snap –dangerous –classic`，即下載完成
+在Terminal輸入指令`cd Downloads/`（或看下載路徑） ，然後輸入`sudo snap install xxxx.snap –-dangerous –-classic`，即下載完成
 * xxxx要輸入檔案全名（可用`ls`確認）
 
 
