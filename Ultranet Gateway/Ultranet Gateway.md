@@ -28,7 +28,7 @@
 
 
 * browse(model, ids, fields = [])
-    <br>Function Description: Read records (同read函數)
+    <br>Function Description: Read records (same as read Function)
     <br>Call Example: 
 
         var result = await xrpc.call("h1/bridge/odoo", "browse", ['res.partner', 1, ["name","city","email"]], 10, 8, 10);
