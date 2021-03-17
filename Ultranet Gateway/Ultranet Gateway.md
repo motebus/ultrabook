@@ -1,8 +1,8 @@
 # Ultranet Gateway
 
 * create(model, data)
-    <br>Function Description功能說明: Create records
-    <br>Call Example呼叫範例:
+    <br>Function Description: Create records
+    <br>Call Example:
 
         var data = {
             name: 'Test',
@@ -12,24 +12,24 @@
 
 
 * call(model, method, params)
-    功能說明: Call execute_kw RPC function
-    呼叫範例:
+    <br>Function Description: Call execute_kw RPC function
+    <br>Call Example:
 
         var params = ["read", false];
         var result = await xrpc.call("h1/bridge/odoo", "call", ["res.partner", "check_access_rights", params], 10, 8, 10);
 
 
 * read(model, ids, fields = [])
-    功能說明: Read records
-    呼叫範例: 
+    <br>Function Description: Read records
+    <br>Call Example: 
 
         var result = await xrpc.call("h1/bridge/odoo", "read", ['res.partner', 1, ["name","city","email"]], 10, 8, 10);
         console.log('read result=', result);    
 
 
 * browse(model, ids, fields = [])
-    功能說明: Read records (同read函數)
-    呼叫範例: 
+    <br>Function Description: Read records (同read函數)
+    <br>Call Example: 
 
         var result = await xrpc.call("h1/bridge/odoo", "browse", ['res.partner', 1, ["name","city","email"]], 10, 8, 10);
         // or
@@ -38,8 +38,8 @@
 
 
 * write(model, ids, data)
-    功能說明: Update records
-    呼叫範例: 
+    <br>Function Description: Update records
+    <br>Call Example: 
 
         var data = {
             name: 'Test',
@@ -49,23 +49,23 @@
 
 
 * unlink(model, ids)
-    功能說明: Delete records
-    呼叫範例: 
+    <br>Function Description: Delete records
+    <br>Call Example: 
 
         var result = await xrpc.call("h1/bridge/odoo", "unlink", ["res.partner", 1], 10, 8, 10);
 
 
 * search(model, params)
-    功能說明: List records
-    呼叫範例:
+    <br>Function Description: List records
+    <br>Call Example:
 
         var params = [['name', '=', 'Test']];
         var result = await xrpc.call("h1/bridge/odoo", "search", ["res.partner", params], 10, 8, 10)
 
 
 * search_read(model, domain = [], fields = [], limit = 0, offset = 0, sort = "")
-    功能說明: Search and read
-    呼叫範例: 
+    <br>Function Description: Search and read
+    <br>Call Example: 
 
         var params = [['name', '=', 'Test']];
         var fields = ['name', 'email'];
@@ -73,16 +73,16 @@
 
 
 * search_count(model, params)
-    功能說明: Count records
-    呼叫範例:
+    <br>Function Description: Count records
+    <br>Call Example:
 
         var params = [['name', '=', 'Test']];
         var total = await xrpc.call("h1/bridge/odoo", "search_count", ["res.partner", params], 10, 8, 10)
 
 
 * fields_get(model, fields = [], attributes = {})
-    功能說明: Listing record fields
-    呼叫範例:
+    <br>Function Description: Listing record fields
+    <br>Call Example:
 
         var fields = [];
         var attributes = {'attributes': ['string', 'help', 'type']}
