@@ -1,8 +1,8 @@
 # Ultranet Gateway
 
 * create(model, data)
-    功能說明: Create records
-    呼叫範例:
+    <br>Function Description功能說明: Create records
+    <br>Call Example呼叫範例:
 
         var data = {
             name: 'Test',
