@@ -52,3 +52,4 @@ Simply send images, Youtube videos, and urls from your Telegram-app.
 ![](https://i.imgur.com/9xzqiqJ.jpg)
 
   - If you want to drop video through command /pin, make sure that you have already turned your video into mp4 file.
+123
