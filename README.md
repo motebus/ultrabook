@@ -6,7 +6,7 @@
 * [Topic and Microservices](#3)
 * [MoteBus Stack](#motebus-stack)
 * [Mote Sphere](#mote-sphere)
-* [Ultranet Gateway](#ultranet-gateway)
+* [Ultranet Bridge](#ultranet-bridge)
 * [Application Note](#application-note)
 
 
@@ -99,8 +99,8 @@ The Mote Browser.
 ## Mote Sphere
 * [moted-install](https://github.com/motebus/ultrabook/blob/main/Mote%20Sphere/moted-install.md)
 
-## Ultranet Gateway
-* [Ultranet Gateway](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Gateway/Ultranet%20Gateway.md)
+## Ultranet Bridge
+* [Ultranet Bridge](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Bridge/Ultranet%20Bridge.md)
 
 ## Application Note
 * [autostart](https://github.com/motebus/ultranet/blob/main/Application%20Note/autostart.md)
