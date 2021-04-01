@@ -95,7 +95,9 @@
 | mote://shot         |             |{"t1":24,"t2":48}|
 | mote://bash         |             |{"command":"scrot"}     |
 | mote://xs_setconfig |             |{"method": "setConfig","catalog": "test","idname": "fisher22","data": {"123": "33"}}|
-| mote://xs_getConfig |             |{"method": "getConfig","catalog": "test","idname": "fisher22"}|    
+| mote://xs_getConfig |             |{"method": "getConfig","catalog": "test","idname": "fisher22"}|
+| mote://xs_changeEIName|           |{"method": "changeEIName","catalog": "test-app","data": "test02"}|
+| mote://xs_getBucket |             |{"method": "getBucket","catalog": "schedule","idname": "flowbot","datatype": "binary","__note*type": "//'hex', 'ascii', 'utf8', 'base64', or 'binary'"}|       
 | mote://measure      |             |"method":"info"      |
 | mote://time         |             |"method":"now"     |
 | mote://fbotSchedule |             |"operate": "start","svcName": "test01"|
