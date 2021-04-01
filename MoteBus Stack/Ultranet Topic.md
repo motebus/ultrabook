@@ -94,8 +94,7 @@
 | mote://nearby       |             |{"qq":"12 3"}|
 | mote://shot         |             |{"t1":24,"t2":48}|
 | mote://bash         |             |{"command":"scrot"}     |
-| mote://xsetconfig   |             |{"method": "setConfig","catalog": "test",|
-                                    |   "idname": "fisher22","data": {"123": "33"}}|
+| mote://xsetconfig   |             |{"method": "setConfig","catalog": "test","idname": "fisher22","data": {"123": "33"}}|
 | mote://measure      |             |"method":"info"      |
 | mote://time         |             |"method":"now"     |
 | mote://fbotSchedule |             |"operate": "start","svcName": "test01"|
