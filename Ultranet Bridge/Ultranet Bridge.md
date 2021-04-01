@@ -1,4 +1,4 @@
-# Ultranet Gateway
+# Ultranet Bridge
 
 * create(model, data)
     <br>Function Description: Create records
