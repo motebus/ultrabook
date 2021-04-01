@@ -103,7 +103,7 @@
 | mote://xs_removeBucket|           |{"method": "removeBucket","catalog": "animal","idname": "image01"}|
 | mote://sys_measure_info|          |{"method":"info"}|
 | mote://sys_measure_status |       |{}|
-| mote://sys_time_now|      |       |{"method":"now"}|
+| mote://sys_time_now|              |{"method":"now"}|
 | mote://fbotSchedule |             |"operate": "start","svcName": "test01"|
 | mote://drop         |             |"method": "ls","DDN": ">>xxxx-mote","path": "|
 | mote://setUser      |             |"EiTag": "#fisher","EiLoc": "Taipei"    |
