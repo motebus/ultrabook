@@ -91,15 +91,28 @@
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
 |:------------------- |:----------- |:------- |
-| mote://nearby       |             |sadsaad   |
-| mote://shot         |             |         |
-| mote://bash         |             |         |
-| mote://xstorage     |             |         |
-| mote://measure      |             |         |
-| mote://time         |             |         |
-| mote://fbotSchedule |             |         |
-| mote://drop         |             |         |
-| mote://setUser      |             |         |
+| mote://nearby       |             |{"qq":"12 3"}  |
+| mote://shot         |             |    {"t1":24,"t2":48}     |
+| mote://bash         |             |    {"command":"scrot"}     |
+| mote://xstorage     |             |    {
+    "method": "setConfig",
+    "catalog": "test",
+    "idname": "fisher22",
+    "data": {
+        "123": "33"
+    }
+}     |
+| mote://measure      |             |   {"method":"info"}      |
+| mote://time         |             |    {"method":"now"}     |
+| mote://fbotSchedule |             |     {
+    "operate": "start",
+    "svcName": "test01"
+}    |
+| mote://drop         |             |      "method": "ls",
+    "DDN": ">>xxxx-mote",
+    "path": ""    |
+| mote://setUser      |             |     "EiTag": "#fisher",
+    "EiLoc": "Taipei"    |
 
 
 ## kanban
