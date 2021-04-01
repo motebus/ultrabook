@@ -93,7 +93,8 @@
 |:------------------- |:----------- |:------- |
 | mote://nearby       |             |{"qq":"12 3"}|
 | mote://shot         |             |{"t1":24,"t2":48}|
-| mote://bash         |             |{"command":"scrot"}     |
+| mote://bash         |             |{"command":"scrot"}|
+### XS
 | mote://xs_setconfig |             |{"method": "setConfig","catalog": "test","idname": "fisher22","data": {"123": "33"}}|
 | mote://xs_getConfig |             |{"method": "getConfig","catalog": "test","idname": "fisher22"}|
 | mote://xs_changeEIName|           |{"method": "changeEIName","catalog": "test-app","data": "test02"}|
