@@ -95,6 +95,7 @@
 | mote://shot         |             |{"t1":24,"t2":48}|
 | mote://bash         |             |{"command":"scrot"}|
 ### XS
+|:------------------- |:----------- |:------- |
 | mote://xs_setconfig |             |{"method": "setConfig","catalog": "test","idname": "fisher22","data": {"123": "33"}}|
 | mote://xs_getConfig |             |{"method": "getConfig","catalog": "test","idname": "fisher22"}|
 | mote://xs_changeEIName|           |{"method": "changeEIName","catalog": "test-app","data": "test02"}|
@@ -102,6 +103,8 @@
 | mote://xs_setBucket |             |{"method": "setBucket","catalog": "animal","idname": "image01","data": "qq"}|
 | mote://xs_listBucket|             |{"method": "listBucket","catalog": "animal"}|
 | mote://xs_removeBucket|           |{"method": "removeBucket","catalog": "animal","idname": "image01"}|
+### SYS
+|:------------------- |:----------- |:------- |   
 | mote://sys_measure_info|          |{"method":"info"}|
 | mote://sys_measure_status |       |{}|
 | mote://sys_time_now|              |{"method":"now"}|
