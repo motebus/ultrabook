@@ -91,7 +91,7 @@
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
 |:------------------- |:----------- |:------- |
-| mote://nearby       |             |         |
+| mote://nearby       |             |sadsaad   |
 | mote://shot         |             |         |
 | mote://bash         |             |         |
 | mote://xstorage     |             |         |
