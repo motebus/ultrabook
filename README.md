@@ -11,7 +11,8 @@
 * [Application Note](#application-note)
 
 
-#### [UltraPost](https://ultrapost.ypcloud.com/)
+## UltraPost
+#### Head to [UltraPost](https://ultrapost.ypcloud.com/).
 
 ## <h2 id="1">Hello! UltraDesk</h2>
 #### [Welcome to UltraDesk](https://github.com/motebus/ultranet/blob/main/Hello%20UltraDesk/Welcome%20to%20UltraDesk.md)
