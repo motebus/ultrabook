@@ -98,8 +98,12 @@
 | mote://xs_getConfig |             |{"method": "getConfig","catalog": "test","idname": "fisher22"}|
 | mote://xs_changeEIName|           |{"method": "changeEIName","catalog": "test-app","data": "test02"}|
 | mote://xs_getBucket |             |{"method": "getBucket","catalog": "schedule","idname": "flowbot","datatype": "binary","__note*type": "//'hex', 'ascii', 'utf8', 'base64', or 'binary'"}|       
-| mote://measure      |             |"method":"info"      |
-| mote://time         |             |"method":"now"     |
+| mote://xs_setBucket |             |{"method": "setBucket","catalog": "animal","idname": "image01","data": "qq"}|
+| mote://xs_listBucket|             |{"method": "listBucket","catalog": "animal"}|
+| mote://xs_removeBucket|           |{"method": "removeBucket","catalog": "animal","idname": "image01"}|
+| mote://sys_measure_info|          |{"method":"info"}|
+| mote://sys_measure_status |       |{}|
+| mote://sys_time_now|      |       |{"method":"now"}|
 | mote://fbotSchedule |             |"operate": "start","svcName": "test01"|
 | mote://drop         |             |"method": "ls","DDN": ">>xxxx-mote","path": "|
 | mote://setUser      |             |"EiTag": "#fisher","EiLoc": "Taipei"    |
