@@ -1,7 +1,7 @@
 # Table of Contents
 * [UltraDesk](#1)
 * [UltraPost](#ultrapost)
-* [Ultra Topic](#ultranet-bridge)
+* [Ultra Topic](#ultra-topic)
 * [Ultra Apps](#2)
 * [MoteBus Stack](#motebus-stack)
 * [Mote Sphere](#mote-sphere)
@@ -16,6 +16,7 @@
 #### Head to [UltraPost](https://ultrapost.ypcloud.com/)
 * [Ultranet Bridge](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Bridge/Ultranet%20Bridge.md)
 
+## Ultra Topic
 
 ## <h2 id="2">Ultra Apps</h2>
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/08/smartscreen_256x256.png" />
@@ -86,11 +87,6 @@ Flow designer based on node-red with motechat config nodes.
 #### [app-jujue](https://snapcraft.io/app-jujue)
 The Mote Browser. 
 
-## Jujue Apps
-
-## Snap Apps
-
-## Topic and Microservices
 
 ## <h2 id="3">MoteBus Stack</h2>
 * [Ultranet Topic](https://github.com/motebus/ultranet/blob/main/MoteBus%20Stack/Ultranet%20Topic.md)
@@ -100,8 +96,9 @@ The Mote Browser.
 ## Mote Sphere
 * [moted-install](https://github.com/motebus/ultrabook/blob/main/Mote%20Sphere/moted-install.md)
 
+## Jujue Apps
 
-## Application Note
+## Appendix
 * [autostart](https://github.com/motebus/ultranet/blob/main/Application%20Note/autostart.md)
 * [setup RPi autorun](https://github.com/motebus/ultranet/blob/main/Application%20Note/setup%20RPI%20autorun.md)
 * [Parallel SmartScreen Install Guide](https://github.com/motebus/ultranet/blob/main/Application%20Note/Parallel%20SmartScreens%20Install%20Guide.md)
