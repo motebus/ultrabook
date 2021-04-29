@@ -7,6 +7,7 @@ URL: <https://github.com/motebus/moted-snap/releases>
 ![markdown](https://i.imgur.com/z8K5hCA.png)
 * 如果是使用x86系統的，就download moted_amd64.snap這個file(ex:windows, linux)
 * 如果是使用arm系列的，就download moted_armhf.snap這個file(ex:respiberry)
+* please confirm whether your file is in the Downloads directory
 
 ## 3. Open Terminal:
 <br>在Terminal輸入指令 cd Downloads
