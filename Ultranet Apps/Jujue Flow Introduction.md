@@ -29,18 +29,16 @@ we can set the telegarm group id in the send node. (remember to let pinponboy in
 
 2. smartscreen flow
 function: display with smartscreen the material like
- image(sticker)
- screenshot(sanpshot demo)
- upper notification (notify demo)
- applocation demo (app demo)
- lower notification (toast demo )
- youtube search  ( youtube demo)
- marquee (marquee demo)
- else eith url (drop demo)
-
- most of them can be complete by changing the detail in the payload node. For example. the url link or the text  in msg.
-
- Also, we can set the smartscreen we want to display on by changinng the  DDN in the send node. 
+<br>image(sticker)
+<br>screenshot(sanpshot demo)
+<br>upper notification (notify demo)
+<br>applocation demo (app demo)
+<br>lower notification (toast demo )
+<br>youtube search  ( youtube demo)
+<br>marquee (marquee demo)
+<br>else eith url (drop demo)
+<br>most of them can be complete by changing the detail in the payload node. For example. the url link or the text  in msg.
+<br>Also, we can set the smartscreen we want to display on by changinng the  DDN in the send node. 
 
 3. comm flow & console flow
 function: use the fbuider to deliver things to your email, telegram and so on...
