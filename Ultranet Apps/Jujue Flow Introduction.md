@@ -38,9 +38,9 @@ function: display with smartscreen the material like
  marquee (marquee demo)
  else eith url (drop demo)
 
-most of them can be complete by changing the detail in the payload node. For example. the url link or the text  in msg.
+ most of them can be complete by changing the detail in the payload node. For example. the url link or the text  in msg.
 
-Also, we can set the smartscreen we want to display on by changinng the  DDN in the send node. 
+ Also, we can set the smartscreen we want to display on by changinng the  DDN in the send node. 
 
 3. comm flow & console flow
 function: use the fbuider to deliver things to your email, telegram and so on...
