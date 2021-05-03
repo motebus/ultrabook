@@ -130,7 +130,7 @@ Replace "NAME" with your name. Click "Done" to save.
 Your flow now should look similar to this.
 ![image](https://user-images.githubusercontent.com/20572126/111123353-3086b080-85aa-11eb-88d7-d0b998e5305c.png)
 
-10) Add one more **Inject** node, and set it to inject once after 0.1 seconds with no repeats. This is your initial clockinㄕ node.  
+10) Add one more **Inject** node and **payload** node, and set it to inject once after 0.1 seconds with no repeats and also the content```{"type": "message", "content": "NAME initial clocking", "bot": "pinponboy"}.``` This is your initial clocking node. 
 ![截圖 2021-04-27 下午4 24 46](https://user-images.githubusercontent.com/32254088/116835818-b2807680-abf6-11eb-869c-a748005dcf87.png)
 11) When you're all done, click Deploy. 
 12) Next, click the button on the top right corner and select "QRun". Choose any server to deploy. Your fBuilder should continue to clock in even if you close the webpage, logout, or shutdown your computer. 
