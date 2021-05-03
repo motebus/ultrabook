@@ -100,6 +100,7 @@ The Mote Browser.
 
 ## Appendix
 * [autostart](https://github.com/motebus/ultranet/blob/main/Application%20Note/autostart.md)
+* [setup RPi for boot from LAN](https://github.com/motebus/ultrabook/blob/main/Application%20Note/setup%20RPi%20for%20boot%20from%20LAN)
 * [setup RPi autorun](https://github.com/motebus/ultranet/blob/main/Application%20Note/setup%20RPI%20autorun.md)
 * [Parallel SmartScreen Install Guide](https://github.com/motebus/ultranet/blob/main/Application%20Note/Parallel%20SmartScreens%20Install%20Guide.md)
 * [Power On Boot](https://github.com/motebus/ultrabook/blob/main/Application%20Note/Power%20On%20Boot.md)
