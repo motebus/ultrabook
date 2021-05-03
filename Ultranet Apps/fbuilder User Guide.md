@@ -131,11 +131,12 @@ Your flow now should look similar to this.
 ![image](https://user-images.githubusercontent.com/20572126/111123353-3086b080-85aa-11eb-88d7-d0b998e5305c.png)
 
 10) Add one more **Inject** node, and set it to inject once after 0.1 seconds with no repeats. This is your initial clockinㄕ node.  
-![截圖 2021-04-29 下午12 03 16](https://user-images.githubusercontent.com/32254088/116835761-7f3de780-abf6-11eb-9799-6932944c7649.png)
+![截圖 2021-04-27 下午4 24 46](https://user-images.githubusercontent.com/32254088/116835818-b2807680-abf6-11eb-869c-a748005dcf87.png)
 11) When you're all done, click Deploy. 
 12) Next, click the button on the top right corner and select "QRun". Choose any server to deploy. Your fBuilder should continue to clock in even if you close the webpage, logout, or shutdown your computer. 
 ![image](https://imgur.com/yMwn7ic.png)
-![image](https://imgur.com/TLrGUqO.png)
+![截圖 2021-04-29 下午12 03 30](https://user-images.githubusercontent.com/32254088/116835834-c1ffbf80-abf6-11eb-9288-c2e1c564043a.png)
+
 
 ## Telegram Bots 
 Implementing a Telegram bot enables you to activate a running fBuilder / Node-RED flow if you type certain commands either directly to a Telegram bot, or to a Telegram channel which the bot is a member of. If this is something you’re interested in doing, here are some basics you should know. 
