@@ -1,4 +1,4 @@
-Setup RPi for boot from LAN
+# Setup RPi for boot from LAN
 
 1.  Prepare one SD card.
   ```
