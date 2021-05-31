@@ -1,13 +1,13 @@
 # How to install and use Ansible
 
-## step 1. Installation on Ubuntu 20.04
-open terminal enter 
+## Step 1. Installation on Ubuntu 20.04
+<br> Open terminal enter 
 ``sudo apt update``
 <br> ``sudo apt install software-properties-common``
-sudo apt-add-repository --yes --update ppa:ansible/ansible
-sudo apt install ansible``
-confim if ansible is correctly installed 
-open terminal and enter
+<br> ``sudo apt-add-repository```` --yes```` --update ppa:ansible/ansible``
+<br> ``sudo apt install ansible``
+<br> Confim if ansible is correctly installed 
+<br> Open terminal and enter
 ``ansible --version``
 
 ## step 2
