@@ -6,6 +6,7 @@
 <br> sudo apt install software-properties-common
 <br> sudo apt-add-repository --yes --update ppa:ansible/ansible
 <br> sudo apt install ansible
+
 <br> Confim if ansible is correctly installed 
 <br> Open terminal and enter
 <br> ``ansible --version``
