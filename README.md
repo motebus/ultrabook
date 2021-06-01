@@ -7,7 +7,7 @@
 
 
 ## <h2 id="1">Ultra</h2>
-### Ultra Desk
+### * Ultra Desk
 #### [Hello Ultranet](https://github.com/motebus/ultranet/blob/main/Hello%20UltraDesk/Welcome%20to%20UltraDesk.md)
 
 ### Ultra Post
@@ -16,7 +16,7 @@
 
 ### Ultra Topic
 
-### <h2 id="2">Ultra Apps</h2>
+### Ultra Apps
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/08/smartscreen_256x256.png" />
 
 #### [Smartscreen](https://snapcraft.io/smartscreen)
