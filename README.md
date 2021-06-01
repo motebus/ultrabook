@@ -7,8 +7,10 @@
 
 
 ## <h2 id="1">Ultra</h2>
-### * Ultra Desk
+### Ultra Desk
 #### [Hello Ultranet](https://github.com/motebus/ultranet/blob/main/Hello%20UltraDesk/Welcome%20to%20UltraDesk.md)
+
+-------
 
 ### Ultra Post
 #### Head to [UltraPost](https://ultrapost.ypcloud.com/)
