@@ -14,9 +14,14 @@
 
 ### Ultra Post
 #### Head to [UltraPost](https://ultrapost.ypcloud.com/)
-* [Ultranet Bridge](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Bridge/Ultranet%20Bridge.md)
+[Ultranet Bridge](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Bridge/Ultranet%20Bridge.md)
+
+---
 
 ### Ultra Topic
+[Ultranet Topic](https://github.com/motebus/ultranet/blob/main/MoteBus%20Stack/Ultranet%20Topic.md)
+
+---
 
 ### Ultra Apps
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/08/smartscreen_256x256.png" />
@@ -91,7 +96,6 @@ The Mote Browser.
 
 ## <h2 id="3">Mote</h2>
 ### MoteBus Stack
-* [Ultranet Topic](https://github.com/motebus/ultranet/blob/main/MoteBus%20Stack/Ultranet%20Topic.md)
 * [MoteChat API](https://github.com/motebus/ultranet/blob/main/MoteBus%20Stack/MoteChat%20API.md)
 * [MoteBus-Error-Code](https://github.com/motebus/ultranet/blob/main/MoteBus%20Stack/MoteBus-Error-Code.md)
 
