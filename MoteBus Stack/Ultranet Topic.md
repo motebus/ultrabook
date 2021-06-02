@@ -86,11 +86,11 @@
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
 |:------------ |:-----------|:-------|   
-| portal://log   | create the log record into odoo including 4 fields(name, time, fm, and mesaage) | { "model":"",<br>"voucher":"",<br>"vid": ,<br>"cmd":"",<br>"act":"",<br>"data":{<br>"name":"",<br>"message":""}<br>}  |
-| portal://event | create the event record into odoo |        |
-| portal://cost  | create the cost record  |        |
-| portal://form  | create detail data list of device or equipment into odoo |        |
-| query://model  | query data  |        |
+| portal://log   | create the log record into odoo including 4 fields(name, time, fm, and mesaage) | { "model":"","voucher":"","vid": ,"cmd":"","act":"","data":{"name":"","message":""}}  |
+| portal://event | create the event record into odoo |{"model":"","voucher":"","vid": ,"cmd":"","act":"","data":{...}} |
+| portal://cost  | create the cost record  | { "model":"","voucher":"","vid": ,"cmd":"","act":"","data":{...}}  |
+| portal://form  | create detail data list of device or equipment into odoo | { "model":"","voucher":"","vid": ,"cmd":"","act":"","data":{...}}  |
+| query://model  | query data  | { "model":"","voucher":"","vid": ,"cmd":"","act":"","data":{"query_str":[...],"query_rst":[...]}}  |
    
    
    
