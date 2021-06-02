@@ -92,7 +92,23 @@
 | portal://form  | create detail data list of device or equipment into odoo | { "model":"","voucher":"","vid": ,"cmd":"","act":"","data":{...}}  |
 | query://model  | query data  | { "model":"","voucher":"","vid": ,"cmd":"","act":"","data":{"query_str":[...],"query_rst":[...]}}  |
    
-   
+## Jujue
+
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
+|:------------ |:-----------|:-------|   
+| ss://          |            |        |
+| watch://event  |            |        |
+| comm://tg      |            |        |
+| mod://play     |            |        |
+| filter://chart |            |        |
+
+## Others
+ 
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
+|:------------ |:-----------|:-------|   
+| auto://      |            |        |
+| pd://        |            |        |
+| play://      |            |        |
    
    
 ## object store
@@ -119,8 +135,6 @@
 | obj://delete |             |         |
 | obj://list   |             |         |
    
-
-
 
 
 ## comm
