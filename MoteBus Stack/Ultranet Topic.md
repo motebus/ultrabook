@@ -44,6 +44,47 @@
    | kubectl://deleteNamespace | Delete a Namespace | {"namespace":"system"} |
    | kubectl://getNamespace | read the specified Namespace | {"namespace":"system"} |
    | kubectl://listNamespace | list or watch objects of kind Namespace | {} |   
+  
+**qman**
+1. qbix
+
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
+|:------------------ | ----------- | ------- |
+| qbix://list   | list objects kind of qbix | { "site_name": "h1-qbix", "qbix_type": "qoci", "payload": {} } |
+| qbix://run    | run a qbix | { "site_name": "h2-qbix", "qbix_type": "qoci", "payload": {  } } |
+| qbix://add    | add a qbix | { "site_name": "h2-qbix", "qbix_type": "qoci", "payload": {  } } |
+| qbix://delete | delete specified qbix | { "site_name": "h2-qbix", "qbix_type": "qoci", "payload": {  } } |
+| qbix://get    | read the specified qbix | { "site_name": "twcc-qbix", "qbix_type": "twcc", "payload": { } } |
+| qbix://pod    | read the pod info of specified qbix | { "site_name": "twcc-qbix", "qbix_type": "twcc", "payload": { } } |
+| qbix://image  | list objects kind of image | { "site_name": "twcc-qbix", "qbix_type": "twcc", "payload": { } } |
+| qbix://size   | list object kind of size | { "site_name": "twcc-qbix", "qbix_type": "twcc", "payload": { } } |
+| qbix://notify | notify qbix | {"container":"","status":""} |
+
+2. qman
+
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
+|:------------------ | ----------- | ------- |
+| qman://list   | list objects kind of qsite | {} |
+| qman://run    | run a qbix | { "site_name": "any-qbix", "qbix_type": "any", "payload": { } } |
+| qman://delete | delete specified qbix | { "site_name": "any-qbix", "qbix_type": "any", "payload": { } } |
+
+3. qociman
+
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
+|:------------------ | ----------- | ------- |
+| qociman://run | run a new container | {"image":"motebus/fbots:latest","container_name":"test","network_mode":"host","restart":"always","env":{"MCHAT_WATCHLEVEL":1,"MCHAT_APPNAME":"test-app","MCHAT_EINAME":"test","FBOT_QNAME":"test_flows","FBOT_QDATA":null,"FBOT_QTYPE":"projectflows","FBOT_UID":null,"FBOT_MANY":1,"FBOT_CLUSTER":0,"FBOT_MODE":"xstorage","FBOT_UI":"0","TZ":"Asia/Taipei"}} |
+| qociman://add | add a new container | {"image":"motebus/fbuilder:1.1.2","network_mode":"host","restart":"always","env":{"TEST":"123"},"ports":{"2020":"2020"}} |
+| qociman://delete | remove one container | {"container":"qx-xxx-jujue"} |
+| qociman://get | read the specified container | {"container":"qx-xxx-jujue"} |
+| qociman://list | list containers | {"filters":{"name":["free"]}} |
+| qociman://restart | restart the specified container | {"container":"qx-xxx-jujue"} |   
+| qociman://start | start the specified container | {"container":"qx-xxx-jujue"} |   
+| qociman://stop | stop the specified container | {"container":"qx-xxx-jujue"} |   
+| qociman://status | read status of specified container | {"container":"qx-xxx-jujue"} |      
+
+   
+   
+   
    
    
 ## object store
@@ -72,26 +113,6 @@
    
 
 
-## mpodman
-
-   | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-   |:---------------- |:----------- |:------- |
-   | helm://list      | list releases (= mpod_name)| {"namespace":"default"} |
-   | helm://create    | create a new chart_name with the given mpod_name. There are **5** kinds of chart_name  written in "mpodman/xxxx". (xxxx can be **fbuilder, sscreen, ioc, fbots** or **webmms-srv**) | { "releaseName": "fbots", "chartName": "mpodman/fbots", "namespace": "default", "values": { "MCHAT_EINAME": "fbots-example", "MCHAT_APPNAME": "fbots-example-app", "FBOT_QNAME": "comm", "fbots.ingress.enabled": "true", "fbots.ingress.hosts[0]": "yh.ypcloud.com", "fbots.ingress.path": "/fbots/(.*)" } } |
-   | helm://delete    |  uninstall a release | { "releaseName": "fbots", "namespace": "default" } |
-   | helm://update    | update a new chart_name with the given mpod_name. There are **5** kinds of chart_name  written in "mpodman/xxxx". (xxxx can be **fbuilder, sscreen, ioc, fbots** or **webmms-srv**) | { "releaseName": "fbots", "chartName": "mpodman/fbots", "namespace": "default", "values": { "MCHAT_EINAME": "fbots-example", "MCHAT_APPNAME": "fbots-example-app", "FBOT_QNAME": "comm", "fbots.ingress.enabled": "true", "fbots.ingress.hosts[0]": "yh.ypcloud.com", "fbots.ingress.path": "/fbots/(.*)" } } |
-   | helm://get       | download extended information of a named release  | { "releaseName": "fbuilder", "namespace": "default", "subCommand": "all" } |
-   | helm://history   | fetch release history | { "releaseName": "fbuilder", "namespace": "default" } |
-   | helm://rollback  | roll back a release to a previous revision | { "releaseName": "fbuilder", "namespace": "default" } |
-   | helm://status    | display the status of the named release  | { "releaseName": "fbuilder", "namespace": "default" } |
-   | kubectl://deletePod | delete resources by filenames, stdin, resources and names, or by resources and label selector | { "pod_name": "mpod-810moj7dp6e-0", "namespace": "default" } |
-   | kubectl://getPod | read the specified Pod | { "pod_name": "mpod-810moj7dp6e-0", "namespace": "default" } |
-   | kubectl://getPodLog | read log of the specified Pod | {"pod_name":"mpod-810moj7dp6e-0","namespace":"default","container":""} |
-   | kubectl://listPod | list or watch objects of kind Pod | {"namespace":"default"} |
-   | kubectl://createNamespace | create a Namespace | {"namespace":"system"} |
-   | kubectl://deleteNamespace | Delete a Namespace | {"namespace":"system"} |
-   | kubectl://getNamespace | read the specified Namespace | {"namespace":"system"} |
-   | kubectl://listNamespace | list or watch objects of kind Namespace | {} |
 
 
 ## comm
