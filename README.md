@@ -102,9 +102,18 @@ The Mote Browser.
 ### Mote Sphere
 * [moted-install](https://github.com/motebus/ultrabook/blob/main/Mote%20Sphere/moted-install.md)
 
+### Mote Topic
+
 ## Qbix
+### Qbix Topic
+
+### Qbix Application Notes
+
 
 ## Jujue
+### Jujue Topic
+
+### Jujue Application Notes
 
 ## Appendix
 * [autostart](https://github.com/motebus/ultranet/blob/main/Application%20Note/autostart.md)
