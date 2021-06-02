@@ -82,7 +82,15 @@
 | qociman://stop | stop the specified container | {"container":"qx-xxx-jujue"} |   
 | qociman://status | read status of specified container | {"container":"qx-xxx-jujue"} |      
 
-   
+## Ultra
+
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
+|:------------ |:-----------|:-------|   
+| portal://log   | create the log record into odoo including 4 fields(name, time, fm, and mesaage) |        |
+| portal://event | create the event record into odoo |        |
+| portal://cost  | create the cost record  |        |
+| portal://form  | create detail data list of device or equipment into odoo |        |
+| query://model  | query data  |        |
    
    
    
@@ -256,51 +264,3 @@
 | twcc://getToken    |             |         |
 
 
-## qman
-1. qbix
-
-| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-|:------------------ | ----------- | ------- |
-| qbix://list   | list objects kind of qbix | { "site_name": "h1-qbix", "qbix_type": "qoci", "payload": {} } |
-| qbix://run    | run a qbix | { "site_name": "h2-qbix", "qbix_type": "qoci", "payload": {  } } |
-| qbix://add    | add a qbix | { "site_name": "h2-qbix", "qbix_type": "qoci", "payload": {  } } |
-| qbix://delete | delete specified qbix | { "site_name": "h2-qbix", "qbix_type": "qoci", "payload": {  } } |
-| qbix://get    | read the specified qbix | { "site_name": "twcc-qbix", "qbix_type": "twcc", "payload": { } } |
-| qbix://pod    | read the pod info of specified qbix | { "site_name": "twcc-qbix", "qbix_type": "twcc", "payload": { } } |
-| qbix://image  | list objects kind of image | { "site_name": "twcc-qbix", "qbix_type": "twcc", "payload": { } } |
-| qbix://size   | list object kind of size | { "site_name": "twcc-qbix", "qbix_type": "twcc", "payload": { } } |
-| qbix://notify | notify qbix | {"container":"","status":""} |
-
-2. qman
-
-| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-|:------------------ | ----------- | ------- |
-| qman://list   | list objects kind of qsite | {} |
-| qman://run    | run a qbix | { "site_name": "any-qbix", "qbix_type": "any", "payload": { } } |
-| qman://delete | delete specified qbix | { "site_name": "any-qbix", "qbix_type": "any", "payload": { } } |
-
-4. qociman
-
-| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-|:------------------ | ----------- | ------- |
-| qociman://run | run a new container | {"image":"motebus/fbots:latest","container_name":"test","network_mode":"host","restart":"always","env":{"MCHAT_WATCHLEVEL":1,"MCHAT_APPNAME":"test-app","MCHAT_EINAME":"test","FBOT_QNAME":"test_flows","FBOT_QDATA":null,"FBOT_QTYPE":"projectflows","FBOT_UID":null,"FBOT_MANY":1,"FBOT_CLUSTER":0,"FBOT_MODE":"xstorage","FBOT_UI":"0","TZ":"Asia/Taipei"}} |
-| qociman://add | add a new container | {"image":"motebus/fbuilder:1.1.2","network_mode":"host","restart":"always","env":{"TEST":"123"},"ports":{"2020":"2020"}} |
-| qociman://delete | remove one container | {"container":"qx-xxx-jujue"} |
-| qociman://get | read the specified container | {"container":"qx-xxx-jujue"} |
-| qociman://list | list containers | {"filters":{"name":["free"]}} |
-| qociman://restart | restart the specified container | {"container":"qx-xxx-jujue"} |   
-| qociman://start | start the specified container | {"container":"qx-xxx-jujue"} |   
-| qociman://stop | stop the specified container | {"container":"qx-xxx-jujue"} |   
-| qociman://status | read status of specified container | {"container":"qx-xxx-jujue"} |   
-
-5. mote
-
-| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-|:------------------ | ----------- | ------- |
-| mote://run |             |         |
-| mote://delete |             |         |
-| mote://start |             |         |
-| mote://stop |             |         |
-| mote://restart |              |          |   
-| mote://list |              |      |   
-| mote://checkAlive |              |      |   
