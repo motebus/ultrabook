@@ -181,36 +181,6 @@
   | redixs://get   |             |         |
 
 
-
-
-## moted
-
-| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-|:------------------- |:----------- |:------- |
-| mote://nearby       |             |{"qq":"12 3"}|
-| mote://shot         |             |{"t1":24,"t2":48}|
-| mote://bash         |             |{"command":"scrot"}|
-### XS
-| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-|:------------------- |:----------- |:------- |
-| mote://xs_setconfig |             |{"method": "setConfig","catalog": "test","idname": "fisher22","data": {"123": "33"}}|
-| mote://xs_getConfig |             |{"method": "getConfig","catalog": "test","idname": "fisher22"}|
-| mote://xs_changeEIName|           |{"method": "changeEIName","catalog": "test-app","data": "test02"}|
-| mote://xs_getBucket |             |{"method": "getBucket","catalog": "schedule","idname": "flowbot","datatype": "binary","__note*type": "//'hex', 'ascii', 'utf8', 'base64', or 'binary'"}|       
-| mote://xs_setBucket |             |{"method": "setBucket","catalog": "animal","idname": "image01","data": "qq"}|
-| mote://xs_listBucket|             |{"method": "listBucket","catalog": "animal"}|
-| mote://xs_removeBucket|           |{"method": "removeBucket","catalog": "animal","idname": "image01"}|
-### SYS
-| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-|:------------------- |:----------- |:------- |   
-| mote://sys_measure_info|          |{"method":"info"}|
-| mote://sys_measure_status |       |{}|
-| mote://sys_time_now|              |{"method":"now"}|
-| mote://fbotSchedule |             |"operate": "start","svcName": "test01"|
-| mote://drop         |             |"method": "ls","DDN": ">>xxxx-mote","path": "|
-| mote://setUser      |             |"EiTag": "#fisher","EiLoc": "Taipei"    |
-
-
 ### kanban
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
@@ -231,50 +201,5 @@
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
 |:---------- | ----------- |:-------|
 | blog://mms |             |         |
-
-
-
----
-
-### TWCC
-**twapi-data**
-   | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-   |:-------------------- |:----------:|:------- |
-   | twcc://packageList   |            |         |
-   | twcc://packageSearch |            |         |
-   | twcc://packageShow   |            |         |
-   | twcc://resourceShow  |            |         |
-   | twcc://groupList     |            |         |
-   | twcc://groupShow     |            |         |
-   | twcc://tagList       |            |         |
-   | twcc://tagShow       |            |         |
-
-
-**twapi-oci**
-
-   | topic | description | payload |
-   |:------------------------- | ---------- | ------- |
-   | twcc://getToken           |            |         |
-   | twcc://getUser            |            |         |
-   | twcc://getProject         |            |         |
-   | twcc://listSolution       |            |         |
-   | twcc://getSolution        |            |         |
-   | twcc://getContainer       |            |         |
-   | twcc://listContainer      |            |         |
-   | twcc://deleteContainer    |            |         |
-   | twcc://createContainer    |            |         |
-   | twcc://showContainer      |            |         |
-   | twcc://associateContainer |            |         |
-
-
-**twapi-man**
-
-| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-|:------------------ | ----------- | ------- |
-| twcc://createImage |             |         |
-| twcc://deleteImage |             |         |
-| twcc://getLog      |             |         |
-| twcc://getUserLog  |             |         |
-| twcc://getToken    |             |         |
 
 
