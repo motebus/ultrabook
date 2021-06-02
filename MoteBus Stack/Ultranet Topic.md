@@ -3,8 +3,24 @@
 ## Mote
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
 |:------------ |:-----------|:-------|
-| mote://bash  |            |        |
-
+| mote://bash            |            |        |
+| mote://xstorage        |            |        |
+| mote://nearby          |            |        |
+| mote://drop            |            |        | 
+| mote://shot            |            |        |
+| mote://measure         |            |        |
+| mote://qsnap           |            |        |
+| mote://apt             |            |        |
+| mote://time            |            |        |
+| mote://setUser         |            |        |
+| mote://getUser         |            |        |
+| mote://listPeripherals |            |        |
+| mote://env             |            |        |
+| mote://schedule        |            |        |
+| mote://window          |            |        |
+| mote://keybot          |            |        |
+| mote://audio           |            |        |
+| mote://shortcut        |            |        |
 
 
 ## object store
