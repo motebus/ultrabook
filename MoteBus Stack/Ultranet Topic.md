@@ -30,15 +30,16 @@
 
    | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
    |:---------------- |:----------- |:------- |
-   | helm://list      | list releases (= mpod_name)|         |
+   | helm://list      | list releases (= mpod_name)| {"namespace":"default"} |
    | helm://create    | create a new chart_name with the given mpod_name. There are **5** kinds of chart_name  written in "mpodman/xxxx". (xxxx can be **fbuilder, sscreen, ioc, fbots** or **webmms-srv**) | { "releaseName": "fbots", "chartName": "mpodman/fbots", "namespace": "default", "values": { "MCHAT_EINAME": "fbots-example", "MCHAT_APPNAME": "fbots-example-app", "FBOT_QNAME": "comm", "fbots.ingress.enabled": "true", "fbots.ingress.hosts[0]": "yh.ypcloud.com", "fbots.ingress.path": "/fbots/(.*)" } } |
-   | helm://delete    |  uninstall a release |         |
-   | helm://update    | update a new chart_name with the given mpod_name. There are **5** kinds of chart_name  written in "mpodman/xxxx". (xxxx can be **fbuilder, sscreen, ioc, fbots** or **webmms-srv**) |         |
-   | helm://get       | download extended information of a named release  |         |
-   | helm://history   | fetch release history |         |
-   | helm://rollback  | roll back a release to a previous revision |         |
-   | helm://status    | display the status of the named release  |         |
-   | kubectl://delete | Delete resources by filenames, stdin, resources and names, or by resources and label selector |         |
+   | helm://delete    |  uninstall a release | { "releaseName": "fbots", "namespace": "default" } |
+   | helm://update    | update a new chart_name with the given mpod_name. There are **5** kinds of chart_name  written in "mpodman/xxxx". (xxxx can be **fbuilder, sscreen, ioc, fbots** or **webmms-srv**) | { "releaseName": "fbots", "chartName": "mpodman/fbots", "namespace": "default", "values": { "MCHAT_EINAME": "fbots-example", "MCHAT_APPNAME": "fbots-example-app", "FBOT_QNAME": "comm", "fbots.ingress.enabled": "true", "fbots.ingress.hosts[0]": "yh.ypcloud.com", "fbots.ingress.path": "/fbots/(.*)" } } |
+   | helm://get       | download extended information of a named release  | { "releaseName": "fbuilder", "namespace": "default", "subCommand": "all" } |
+   | helm://history   | fetch release history | { "releaseName": "fbuilder", "namespace": "default" } |
+   | helm://rollback  | roll back a release to a previous revision | { "releaseName": "fbuilder", "namespace": "default" } |
+   | helm://status    | display the status of the named release  | { "releaseName": "fbuilder", "namespace": "default" } |
+   | kubectl://deletePod | Delete resources by filenames, stdin, resources and names, or by resources and label selector | { "pod_name": "mpod-810moj7dp6e-0", "namespace": "default" } |
+   | kubectl://deletePod | Delete resources by filenames, stdin, resources and names, or by resources and label selector | { "pod_name": "mpod-810moj7dp6e-0", "namespace": "default" } |
 
 
 ## comm
