@@ -146,7 +146,7 @@
 
 ### comm
 
-| <div style="width: 200pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
+| <div style="width: 230pt">topic | <div style="width: 250pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
 | mail://address     | Send msg by mail |{ "content":"(mail content)", "subject":"(mail subject)" } |   |
 | sms://phone number | Send msg by sms | { "text":"(sms content)" } |   |
