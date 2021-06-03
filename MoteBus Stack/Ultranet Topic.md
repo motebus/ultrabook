@@ -103,7 +103,9 @@
 | ss://text | Show text to screen | {"cmd":"text","msg":"(text)","duration":"(duration)","color":"(color)","size":"(siz e)","bgcolor":"(background color)","align":"(text alignment)","frame":"(frame)","animate":"(animate)","aniduration":"(animate duration), "bgcolor":"(background color)"} |     |
 | ss://app | Show a website on screen | {"cmd":"app","url":"(url1)","duration":"(duration)","frame":"(frame)"} |   |
 | ss://youtube | Show a youtube program on screen | {"cmd":"youtube","search":"(search string","duration":"(duration)","frame":"(frame)","pmode":"(play mode)"} |   |
-| ss://touch | 
+| ss://touch | Control sscreen | {"cmd":"touch","option":"(arg) ","value":"(argv)"} |   |
+| ss://status | Show status of sscreen | {"cmd":"status","option":"(arg) ","value":"(argv)"} |  |
+| ss://dj |   | {"cmd":"dj","option":"(arg) ","value":"(argv)"} | |
 | watch://event  |            |        |      |
 | comm://tg      | send message to tg group with pinponboy |{"type": "message","content": "","from": "pinponboy"} |
 | mod://play     |            |        |      |
