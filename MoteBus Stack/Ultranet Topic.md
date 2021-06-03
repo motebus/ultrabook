@@ -148,19 +148,16 @@
 
   | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
-  | mail:// *address*      |             |         |
-  | sms :// *phone number* |             |         |
-  | tg:// *chat id*        |             |         |
-  | ioc:// *chat id*       |             |         |
-  | git:// *chat id*       |             |         |
-  | console:// *chat id*   |             |         |
-  | watch:// *chat id*     |             |         |
-  | mpod:// *chat id*      |             |         |
-  | line:// *line id*      |             |         |
-  | fb:// *fb id*          |             |         |
-  | sip://                 |             |         |
-  | mqtt://*mqtt topic*    |             |         |
-  | echo                   |             |         |
+  | mail://address     | Send msg by mail |         |
+  | sms ://phone number | Send msg by sms |         |
+  | tg://chat id      | Send msg by tg |         |
+  | ioc://chat id      | Send msg by tg with IOC format |         |
+  | git://chat id     | Send msg to tg from git |         |
+  | console://chat id | Send object msg |         |
+  | watch://chat id     | Send msg from watch |         |
+  | mpod://chat id     | Send msg from mpod |         |
+  | log://username   | Send msg to logmms |    |
+  | view://username  | Send msg to page://view |    |
 
 
 ### sys
