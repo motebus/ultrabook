@@ -73,7 +73,7 @@
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
 |:------------------ | ----------- | ------- |
 | qociman://run | run a new container | {"image": "","container_name": "","network_mode": "host","restart": "always","env": {}} |
-| qociman://add | add a new container | |
+| qociman://add | add a new container | {"image": "","container_name": "","network_mode": "host","restart": "always","env": {}} |
 | qociman://delete | remove one container | {"container":"qx-xxx-jujue"} |
 | qociman://get | read the specified container | {"container":"qx-xxx-jujue"} |
 | qociman://list | list containers | {"filters":{"name":["free"]}} |
