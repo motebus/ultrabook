@@ -148,16 +148,17 @@
 
   | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
-  | mail://address     | Send msg by mail |         |
-  | sms ://phone number | Send msg by sms |         |
-  | tg://chat id      | Send msg by tg |         |
-  | ioc://chat id      | Send msg by tg with IOC format |         |
-  | git://chat id     | Send msg to tg from git |         |
-  | console://chat id | Send object msg |         |
-  | watch://chat id     | Send msg from watch |         |
-  | mpod://chat id     | Send msg from mpod |         |
-  | log://username   | Send msg to logmms |    |
-  | view://username  | Send msg to page://view |    |
+  | mail://address     | Send msg by mail |{ "content":"(mail content)", "subject":"(mail subject)" } |
+  | sms ://phone number | Send msg by sms | { "text":"(sms content)" } |
+  | tg://chat id      | Send msg by tg | { "content":"(telegram content)", "type":"(send method)", available type:["message", "photo", "audio", "document", "video", "animation", "voice", "sticker"], default is "message", "from":"(telegram bot name)", available bot:["pinponboybot", "jujuebot", "lovetubebot", "ypcloudbot", "ultravisorbot", "smartscreenbot"], default is "pinponboy", "cc": "(chat_id of cc)"(optional), "parse_mode":"MarkdownV2" (optional) } |
+  | ioc://chat id      | Send msg by tg with IOC format |{ "content":"(telegram content)", "from":"(telegram bot name)", "to":"(to_name)",
+"cc": "(chat_id of cc,options)" } |
+  | git://chat id     | Send msg to tg from git |{ "content":"(telegram content)", "from":"(telegram bot name)", "to": "(to_name)", "cc": "(chat_id of cc,options)" }|
+  | console://chat id | Send object msg | { "content":"(telegram content)", "from":"(telegram bot name)", "to":"(to_name)", "cc":"(chat_id of cc,options)" } |
+  | watch://chat id     | Send msg from watch | { "sub":"(watch sub)", "data":"(telegram content)" }|
+  | mpod://chat id     | Send msg from mpod | { "content":"(telegram content)", "from":"(telegram bot name)", "to":"(to_name)", "cc":"(chat_id of cc,options)" } |
+  | log://username   | Send msg to logmms | { "text":"content", "uid":"user id(optional)" }|
+  | view://username  | Send msg to page://view |{ "text":"content" }|
 
 
 ### sys
