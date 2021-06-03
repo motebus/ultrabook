@@ -26,8 +26,8 @@
 ## Qbix
 **mpodman**
    
- | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-   |:---------------- |:----------- |:------- |
+ | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
+|:------------ |:-----------|:-------|:-------|   
    | helm://list      | list releases (= mpod_name)| {"namespace":"default"} |
    | helm://create    | create a new chart_name with the given mpod_name. There are **5** kinds of chart_name  written in "mpodman/xxxx". (xxxx can be **fbuilder, sscreen, ioc, fbots** or **webmms-srv**) | { "releaseName": "fbots", "chartName": "mpodman/fbots", "namespace": "default", "values": { "MCHAT_EINAME": "fbots-example", "MCHAT_APPNAME": "fbots-example-app", "FBOT_QNAME": "comm", "fbots.ingress.enabled": "true", "fbots.ingress.hosts[0]": "yh.ypcloud.com", "fbots.ingress.path": "/fbots/(.*)" } } |
    | helm://delete    |  uninstall a release | { "releaseName": "fbots", "namespace": "default" } |
@@ -48,8 +48,8 @@
 **qman**
 1. qbix
 
-| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-|:------------------ | ----------- | ------- |
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
+|:------------ |:-----------|:-------|:-------|   
 | qbix://list   | list objects kind of qbix | { "site_name": "h1-qbix", "qbix_type": "qoci", "payload": {} } |
 | qbix://run    | run a qbix | { "site_name": "h2-qbix", "qbix_type": "qoci", "payload": {  } } |
 | qbix://add    | add a qbix | { "site_name": "h2-qbix", "qbix_type": "qoci", "payload": {  } } |
@@ -62,16 +62,16 @@
 
 2. qman
 
-| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-|:------------------ | ----------- | ------- |
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
+|:------------ |:-----------|:-------|:-------|   
 | qman://list   | list objects kind of qsite | {} |
 | qman://run    | run a qbix | { "site_name": "any-qbix", "qbix_type": "any", "payload": { } } |
 | qman://delete | delete specified qbix | { "site_name": "any-qbix", "qbix_type": "any", "payload": { } } |
 
 3. qociman
 
-| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-|:------------------ | ----------- | ------- |
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
+|:------------ |:-----------|:-------|:-------|   
 | qociman://run | run a new container | {"image": "motebus/fbots:latest","container_name": "test","network_mode": "host","restart": "always","ports": {"1880": "1880"},"env": {"MCHAT_MBGWIP": "127.0.0.1","MCHAT_DC": "dc","MCHAT_IOC": "ioc","MCHAT_UDID": "0","MCHAT_WATCHLEVEL": "1","MCHAT_APPNAME": "test-app","MCHAT_EINAME": "test","FBOT_QNAME": "","FBOT_QDATA": "","FBOT_QTYPE": "","FBOT_QCODE": "","FBOT_UID": "","FBOT_MANY": "1","FBOT_CLUSTER": "0","FBOT_MULTI": "0","FBOT_MODE": "xstorage","FBOT_UI": "0","FBOT_FLOWFILE": "","FBOT_REST": "1","FBOT_PORT": "1880","TZ": "Asia/Taipei"}} |
 | qociman://add | add a new container | {"image": "motebus/fbots:latest","container_name": "test","network_mode": "host","restart": "always","ports": {"1880": "1880"},"env": {"MCHAT_MBGWIP": "127.0.0.1","MCHAT_DC": "dc","MCHAT_IOC": "ioc","MCHAT_UDID": "0","MCHAT_WATCHLEVEL": "1","MCHAT_APPNAME": "test-app","MCHAT_EINAME": "test","FBOT_QNAME": "","FBOT_QDATA": "","FBOT_QTYPE": "","FBOT_QCODE": "","FBOT_UID": "","FBOT_MANY": "1","FBOT_CLUSTER": "0","FBOT_MULTI": "0","FBOT_MODE": "xstorage","FBOT_UI": "0","FBOT_FLOWFILE": "","FBOT_REST": "1","FBOT_PORT": "1880","TZ": "Asia/Taipei"}} |
 | qociman://delete | remove one container | {"container":"qx-xxx-jujue"} |
@@ -84,8 +84,8 @@
 
 ## Ultra
 
-| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-|:------------ |:-----------|:-------|   
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
+|:------------ |:-----------|:-------|:-------|   
 | portal://log   | create the log record into odoo including 4 fields(name, time, fm, and mesaage) | { "model":"","voucher":"","vid": ,"cmd":"","act":"","data":{"name":"","message":""}}  |
 | portal://event | create the event record into odoo |{"model":"","voucher":"","vid": ,"cmd":"","act":"","data":{...}} |
 | portal://cost  | create the cost record  | { "model":"","voucher":"","vid": ,"cmd":"","act":"","data":{...}}  |
@@ -111,8 +111,8 @@
 
 ## Others
  
-| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-|:------------ |:-----------|:-------|   
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
+|:------------ |:-----------|:-------|:-------|   
 | auto://      |            |        |
 | pd://        |            |        |
 | play://      |            |        |
@@ -121,8 +121,8 @@
 ### object store
 1. file://topic: function
 
-| <div style="width: 150px">topic | <div style="width: 230px">description | <div style="width: 100px">payload |
-|:------------------- |:-----------|:-------:|
+| <div style="width: 150px">topic | <div style="width: 230px">description | <div style="width: 100px">payload | <div style="width: 100pt">result|
+|:------------ |:-----------|:-------|:-------|   
 | file://addbucket    |             |         |
 | file://deletebucket |             |         |
 | file://listbucket   |             |         |
@@ -135,8 +135,8 @@
 
 2. obj://topic: function
 
-| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-|:------------ |:-----------|:-------|
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
+|:------------ |:-----------|:-------|:-------|   
 | obj://add    |             |         |
 | obj://set   |             |         |
 | obj://delete |             |         |
@@ -146,8 +146,8 @@
 
 ### comm
 
-  | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-  |:---------------------- |:----------- |:------- |
+  | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
+|:------------ |:-----------|:-------|:-------|   
   | mail:// *address*      |             |         |
   | sms :// *phone number* |             |         |
   | tg:// *chat id*        |             |         |
@@ -165,8 +165,8 @@
 
 ### sys
 
-| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-|:----------- |:----------- | ------- |
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
+|:------------ |:-----------|:-------|:-------|   
 | in://local  |             |         |
 | xs://config |             |         |
 | xs://bucket |             |         |
@@ -177,8 +177,8 @@
 
 ### redixs
 
-  | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-  |:-------------- | ----------- | ------- |
+  | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
+|:------------ |:-----------|:-------|:-------|   
   | redis://sadd   |             |         |
   | redis://sget   |             |         |
   | redis://delete |             |         |
@@ -190,23 +190,23 @@
 
 ### kanban
 
-| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-|:--------------------- | ----------- | ------- |
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
+|:------------ |:-----------|:-------|:-------|   
 | kanban://*kanban tag* |             |         |
 
 
 ### UC
 
-| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-|:---------- | ----------- | ------- |
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
+|:------------ |:-----------|:-------|:-------|   
 | uc://login |             |         |
 
 
 
 ### MUSTME
 
-| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
-|:---------- | ----------- |:-------|
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
+|:------------ |:-----------|:-------|:-------|   
 | blog://mms |             |         |
 
 
