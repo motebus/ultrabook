@@ -107,7 +107,9 @@ The Mote Browser.
 ## Qbix
 
 ### Qbix Application Notes
-
+* [motebus and mpodman](https://github.com/motebus/ultrabook/blob/main/Qbix/motebus%20and%20mpodman.md)
+* [qbixctl](https://github.com/motebus/ultrabook/blob/main/Qbix/qbixctl.md)
+* [qman](https://github.com/motebus/ultrabook/blob/main/Qbix/qman.md)
 
 ## Jujue
 
