@@ -98,7 +98,7 @@
 |:------------ |:-----------|:-------|   
 | ss://          |            |        |
 | watch://event  |            |        |
-| comm://tg      |            |        |
+| comm://tg      | send message to tg group with pinponboy |{"type": "message","content": "","from": "pinponboy"} |
 | mod://play     |            |        |
 | filter://chart |            |        |
 
