@@ -121,7 +121,8 @@
 
 | <div style="width: 150px">topic | <div style="width: 230px">description | <div style="width: 100px">payload |
 |:------------------- |:-----------|:-------:|
-| file://addbucket    |             |         |
+| file://addbucket    | create bucket | {“bucket”:bucket name}![image](https://user-images.githubusercontent.com/78195517/120592798-03db8a00-c471-11eb-922d-bc873ce0567b.png)
+|
 | file://deletebucket |             |         |
 | file://listbucket   |             |         |
 | file://set          |             |         |
