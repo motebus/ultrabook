@@ -95,12 +95,12 @@
 ## Jujue
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
-|:------------ |:-----------|:-------|   
-| ss://          |            |        |
-| watch://event  |            |        |
+|:------------ |:-----------|:-------|:-------|   
+| ss://          |            |        |      |
+| watch://event  |            |        |      |
 | comm://tg      | send message to tg group with pinponboy |{"type": "message","content": "","from": "pinponboy"} |
-| mod://play     |            |        |
-| filter://chart |            |        |
+| mod://play     |            |        |      |
+| filter://chart |            |        |      |
 
 ## Others
  
