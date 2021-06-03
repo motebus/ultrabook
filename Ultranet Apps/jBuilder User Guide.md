@@ -1,5 +1,7 @@
 # jBuilder User Guide
 
+<img src="https://i.imgur.com/pU8UaJB.png" img alt="jbuilder icon" width=100 height=100> 
+
 jBuilder is a digital display board and dashboard creator. 
 
 ## Table of Contents
@@ -7,7 +9,7 @@ jBuilder is a digital display board and dashboard creator.
 * [The Basics](#The-Basics)
   * [What is a jBoard](#What-is-a-jBoard)
   * [jBuilder and Dock Builder](#jBuilder-and-Dock-Builder)
-  * [How to access Dock Builder](#How-to-access-Dock-Builder:)
+  * [How to access Dock Builder](#How-to-access-Dock-Builder)
   * [jBuilder UI](#jBuilder-Work-Area-UI)
   * [Dock Builder UI](#Dock-Builder-UI)
   * [Board/jBoard Library List](#Board/jBoard-Library-List)
@@ -22,10 +24,11 @@ jBuilder is a digital display board and dashboard creator.
   * [Create a TV Channel Dock Page](#Create-a-TV-Channel-Dock-Page)
 
 ## How to access jBuilder: 
-jBuilder can be accessed via the web version https://jbuilder.ypcloud.com, or the Linux app version downloadable from the [Snap Store](https://snapcraft.io/jbuilder).
+jBuilder can be accessed via the web version at https://jbuilder.ypcloud.com, <br> 
+or downloaded as a Linux app from the [Snap Store](https://snapcraft.io/jbuilder).
 
 1. To login to jbuilder, you need a Jujue account. If you don't have one yet, register at account.ypcloud.com
-2. Go to jbuilder.ypcloud.com and sign in. <br>
+2. Go to https://jbuilder.ypcloud.com and sign in. <br>
 If you are unable to sign in, please contact YP Customer Support for assistance. 
 
 ## The Basics
@@ -40,7 +43,7 @@ Example of an indivudal board created with jBuilder:
 
 ![](https://i.imgur.com/aISUXNM.png)
 
-An example of what a jBoard with a dock can look like: 
+An example of a jBoard with a dock: 
 
 ![](https://i.imgur.com/gBYGHpz.png)
 
@@ -53,12 +56,12 @@ From the default jBuilder work area, click on the <img src="https://i.imgur.com/
 To leave Dock Builder and return to jBuilder, click the <img src="https://i.imgur.com/HopFYkU.png" width=35 height=30> icon. 
 
 ### jBuilder Work Area UI
+<img src="https://i.imgur.com/fuglHd7.png" width=760 height=475>
+
 On the left hand side <img src="https://i.imgur.com/66dK5wO.png" width=30 height=30> sidebar, the user can define the board grid by specifying the number of columns and rows, as well as enable/disable the header and footer of the board frame. 
 The board grid serves as the framework for the board’s layout and helps us manage the proportions between elements for responsive web design. 
 
 Next to this on the top tool bar, is <img src="https://i.imgur.com/BwmKrTz.png" width=33 height=30> which leads to Dock Builder. 
-
-<img src="https://i.imgur.com/fuglHd7.png" width=760 height=475>
 
 The icons at the right of the top tool bar have the following functions:
 * Save board <img src="https://i.imgur.com/TJUZUG1.png" width=35 height=30>
@@ -69,6 +72,8 @@ The icons at the right of the top tool bar have the following functions:
 * Logout from your account <img src="https://i.imgur.com/EvC18xA.png" width=32 height=30>
 
 ### Dock Builder UI
+![](https://i.imgur.com/NOzmfEH.png)
+
 In the top left corner, the <img src="https://i.imgur.com/HopFYkU.png" width=35 height=30> icon on the tool bar leads back to the default jBuilder work area.
 
 Icons at the right of the top tool bar have the following functions: 
@@ -137,59 +142,46 @@ You can save your jBoard data in json format.
 ![](https://i.imgur.com/yJR5ynR.png)
 
 #### Available Types of Frame-Style 
-##### Web Page 
-1. Type`page://url` into the App Field and {"url":"YourURL"} into the Params field, replacing `YourURL` with the actual url of the website. 
-
-##### YouTube Video 
-1. Paste the url into the App Field. 
-  Note: Use the address bar url, e.g. https://www.youtube.com/watch?v=VIDEOID, not the video sharing link https://youtu.be/VIDEOID. 
+  - **Web Page** 
+    1. Type`page://url` into the App Field and {"url":"YourURL"} into the Params field, replacing `YourURL` with the actual url of the website. 
+  - **YouTube Video**
+    1. Paste the url into the App Field. 
+       Note: Use the address bar url, e.g. https://www.youtube.com/watch?v=VIDEOID, not the video sharing link https://youtu.be/VIDEOID. 
+  - **Image**
+    1. Type `page://url` into the App Field.
+    2. Enter {"url":"<url>"} into the Params field, replacing <url> with the actual url of the website. 
+  - Slider 
+    1. Type `page://slider` into the App Field
+    2. Enter {"json":["<url>","<url>",..."<url>"]} into the Params field, replacing <url> with the actual url of the image. 
+  - **Charts**<br> 
+    Currently there are 6 available chart types: bar, hbar, line, linearea, pie and circle. 
+    1. Type `page://chart` into the App Field
+    2. Enter into the Data Field: 
+       > {"chart":{"type":"line","title":"Sample Chart","data":{"columns":[{"type":"x","field":"field name","name":"Course name"},{"type":"y","field":"numerical weight","name":"measured aspect"}],"rows":[{"numerical weight":450,"field name":"A"},{"numerical weight":350,"field name":"B"},{"numerical weight":300,"field name":"C"},{"numerical weight":370,"field name":"D"},{"numerical weight":400,"field name":"E"}]}}}
+    3. Replace ”type”,“numerical_weight”, “field_name” and other content to make your customized charts. 
+       ![](https://i.imgur.com/Rht0Sxn.png)
+       https://git.page/jj/board?qname=chart for charts demo.
   
-##### Image 
-1. Type `page://url` into the App Field.
-2. Enter {"url":"<url>"} into the Params field, replacing <url> with the actual url of the website. 
-
-##### Slider 
-1. Type `page://slider` into the App Field
-2. Enter {"json":["<url>","<url>",..."<url>"]} into the Params field, replacing <url> with the actual url of the image. 
-
-##### Charts 
-Currently there are 6 available chart types: bar, hbar, line, linearea, pie and circle. 
-1. Type `page://chart` into the App Field
-2. Enter into the Data Field: `{"chart":{"type":"line","title":"Sample Chart","data":{"columns":[{"type":"x","field":"field name","name":"Course name"},{"type":"y","field":"numerical weight","name":"measured aspect"}],"rows":[{"numerical weight":450,"field name":"A"},{"numerical weight":350,"field name":"B"},{"numerical weight":300,"field name":"C"},{"numerical weight":370,"field name":"D"},{"numerical weight":400,"field name":"E"}]}}}`
-3. Replace ”type”,“numerical_weight”, “field_name” and other content to make your customized charts. 
-
-![](https://i.imgur.com/Rht0Sxn.png)
-https://git.page/jj/board?qname=chart for charts demo.
-  
-To view the panels data content samples, refer to these boards that can be found in the public board list:
-- QName= chartpractice, QCode=1611802967946
-- QName=011121, QCode=
-
-##### Cloud Room Display 
-* Type `page://room` into the App Field and {"tag":"<tag>"} into the 
-Params field, replacing <tag> with your own room flow tag or 
-
-* Type `page://panel` into the App Field and {"tag":"<tag>"} into the 
-Params field, replacing <tag> with your own panel flow tag. 
-#### Bricks 
-Just paste the url of the brick into the App Field. 
-
-See the jboard with the QName jbrick and go to https://git.page/jj/board?qname=jbrick for bricks demo 
-
-![](https://i.imgur.com/xXEWyUx.png)
-
-##### View  (log)
-1. Create a flow in fbuilder and set the destination to your view name 
-2. Type `page://view` into the App Field.
-3. Enter {"tag":"<view name>"} into the Params field, replacing <view name> with your view name 
-
-##### Header 
-1. Type `page://header` into the App Field.
-2. Enter {"title":"<title>","logo":"<url>"} into the Params field, replacing <title> with the title you want for the header and <url> with the url of the logo icon. 
-
-##### Kanban
-1. Type `page://kanban` into the App Field.
-2. Enter {"tag":"YourTAG"} into the Params field, replacing <view name> with your view name 
+       To view the panels data content samples, refer to these boards that can be found in the public board list:
+       - QName= chartpractice, QCode=1611802967946
+       - QName=011121, QCode=
+  - **Cloud Room Display** 
+    * Type `page://room` into the App Field and {"tag":"<tag>"} into the Params field, replacing <tag> with your own room flow tag or 
+    * Type `page://panel` into the App Field and {"tag":"<tag>"} into the Params field, replacing <tag> with your own panel flow tag. 
+  - **Bricks**
+    Just paste the url of the brick into the App Field. 
+    See the jboard with the QName jbrick and go to https://git.page/jj/board?qname=jbrick for bricks demo. <br>
+    ![](https://i.imgur.com/xXEWyUx.png)
+  - **View (log)**
+    1. Create a flow in fbuilder and set the destination to your view name 
+    2. Type `page://view` into the App Field.
+    3. Enter {"tag":"<view name>"} into the Params field, replacing <view name> with your view name 
+  - **Header** 
+    1. Type `page://header` into the App Field.
+    2. Enter {"title":"<title>","logo":"<url>"} into the Params field, replacing <title> with the title you want for the header and <url> with the url of the logo icon. 
+  - **Kanban**
+    1. Type `page://kanban` into the App Field.
+    2. Enter {"tag":"YourTAG"} into the Params field, replacing <view name> with your view name 
 
 ### Add/Edit/Remove Dock Pages
 #### Add a new dock page
