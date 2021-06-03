@@ -96,7 +96,7 @@
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
-| ss://          |            |        |      |
+| ss://drop |Show image or video on screen |{"cmd":"drop","type":"url","src":["(url1)","(url2)"],"duration":"(duration)","frame":"(frame)","animate":"(animate)","aniduration":"(animate duration)","pmode":"(play mode)" ,"bgcolor":"(background color)"} |      |
 | watch://event  |            |        |      |
 | comm://tg      | send message to tg group with pinponboy |{"type": "message","content": "","from": "pinponboy"} |
 | mod://play     |            |        |      |
