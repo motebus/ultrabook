@@ -72,70 +72,8 @@
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
 |:------------------ | ----------- | ------- |
-| qociman://run | run a new container | {
-    "image": "motebus/fbots:latest",
-    "container_name": "test",
-    "network_mode": "host",
-    "restart": "always",
-    "ports": {
-        "1880": "1880"
-    },
-    "env": {
-        "MCHAT_MBGWIP": "127.0.0.1",
-        "MCHAT_DC": "dc",
-        "MCHAT_IOC": "ioc",
-        "MCHAT_UDID": "0",
-        "MCHAT_WATCHLEVEL": "1",
-        "MCHAT_APPNAME": "test-app",
-        "MCHAT_EINAME": "test",
-        "FBOT_QNAME": "",
-        "FBOT_QDATA": "",
-        "FBOT_QTYPE": "",
-        "FBOT_QCODE": "",
-        "FBOT_UID": "",
-        "FBOT_MANY": "1",
-        "FBOT_CLUSTER": "0",
-        "FBOT_MULTI": "0",
-        "FBOT_MODE": "xstorage",
-        "FBOT_UI": "0",
-        "FBOT_FLOWFILE": "",
-        "FBOT_REST": "1",
-        "FBOT_PORT": "1880",
-        "TZ": "Asia/Taipei"
-    }
-} |
-| qociman://add | add a new container | {
-    "image": "motebus/fbots:latest",
-    "container_name": "test",
-    "network_mode": "host",
-    "restart": "always",
-    "ports": {
-        "1880": "1880"
-    },
-    "env": {
-        "MCHAT_MBGWIP": "127.0.0.1",
-        "MCHAT_DC": "dc",
-        "MCHAT_IOC": "ioc",
-        "MCHAT_UDID": "0",
-        "MCHAT_WATCHLEVEL": "1",
-        "MCHAT_APPNAME": "test-app",
-        "MCHAT_EINAME": "test",
-        "FBOT_QNAME": "",
-        "FBOT_QDATA": "",
-        "FBOT_QTYPE": "",
-        "FBOT_QCODE": "",
-        "FBOT_UID": "",
-        "FBOT_MANY": "1",
-        "FBOT_CLUSTER": "0",
-        "FBOT_MULTI": "0",
-        "FBOT_MODE": "xstorage",
-        "FBOT_UI": "0",
-        "FBOT_FLOWFILE": "",
-        "FBOT_REST": "1",
-        "FBOT_PORT": "1880",
-        "TZ": "Asia/Taipei"
-    }
-} |
+| qociman://run | run a new container | {"image": "motebus/fbots:latest","container_name": "test","network_mode": "host","restart": "always","ports": {"1880": "1880"},"env": {"MCHAT_MBGWIP": "127.0.0.1","MCHAT_DC": "dc","MCHAT_IOC": "ioc","MCHAT_UDID": "0","MCHAT_WATCHLEVEL": "1","MCHAT_APPNAME": "test-app","MCHAT_EINAME": "test","FBOT_QNAME": "","FBOT_QDATA": "","FBOT_QTYPE": "","FBOT_QCODE": "","FBOT_UID": "","FBOT_MANY": "1","FBOT_CLUSTER": "0","FBOT_MULTI": "0","FBOT_MODE": "xstorage","FBOT_UI": "0","FBOT_FLOWFILE": "","FBOT_REST": "1","FBOT_PORT": "1880","TZ": "Asia/Taipei"}} |
+| qociman://add | add a new container | {"image": "motebus/fbots:latest","container_name": "test","network_mode": "host","restart": "always","ports": {"1880": "1880"},"env": {"MCHAT_MBGWIP": "127.0.0.1","MCHAT_DC": "dc","MCHAT_IOC": "ioc","MCHAT_UDID": "0","MCHAT_WATCHLEVEL": "1","MCHAT_APPNAME": "test-app","MCHAT_EINAME": "test","FBOT_QNAME": "","FBOT_QDATA": "","FBOT_QTYPE": "","FBOT_QCODE": "","FBOT_UID": "","FBOT_MANY": "1","FBOT_CLUSTER": "0","FBOT_MULTI": "0","FBOT_MODE": "xstorage","FBOT_UI": "0","FBOT_FLOWFILE": "","FBOT_REST": "1","FBOT_PORT": "1880","TZ": "Asia/Taipei"}} |
 | qociman://delete | remove one container | {"container":"qx-xxx-jujue"} |
 | qociman://get | read the specified container | {"container":"qx-xxx-jujue"} |
 | qociman://list | list containers | {"filters":{"name":["free"]}} |
