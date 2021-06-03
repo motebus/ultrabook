@@ -70,7 +70,7 @@
 
 3. qociman
 
-| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
+| <div style="width: 150pt">topic | <div style="width: 100pt">description | <div style="width: 100pt">payload |
 |:------------------ | ----------- | ------- |
 | qociman://run | run a new container | {"image":"motebus/fbots:latest","container_name":"test","network_mode":"host","restart":"always","env":{"MCHAT_WATCHLEVEL":1,"MCHAT_APPNAME":"test-app","MCHAT_EINAME":"test","FBOT_QNAME":"test_flows","FBOT_QDATA":null,"FBOT_QTYPE":"projectflows","FBOT_UID":null,"FBOT_MANY":1,"FBOT_CLUSTER":0,"FBOT_MODE":"xstorage","FBOT_UI":"0","TZ":"Asia/Taipei"}} |
 | qociman://add | add a new container | {"image":"motebus/fbuilder:1.1.2","network_mode":"host","restart":"always","env":{"TEST":"123"},"ports":{"2020":"2020"}} |
