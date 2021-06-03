@@ -121,14 +121,13 @@
 
 | <div style="width: 150px">topic | <div style="width: 230px">description | <div style="width: 100px">payload |
 |:------------------- |:-----------|:-------:|
-| file://addbucket    | create bucket | {“bucket”:bucket name}![image](https://user-images.githubusercontent.com/78195517/120592798-03db8a00-c471-11eb-922d-bc873ce0567b.png)
-|
-| file://deletebucket |             |         |
-| file://listbucket   |             |         |
-| file://set          |             |         |
-| file://get          |             |         |
-| file://delete       |             |         |
-| file://list         |             |         |
+| file://addbucket    | create bucket | {"bucket":"(bucket name)"} |
+| file://deletebucket | delete bucket | {"bucket":"(bucket name)"} |
+| file://listbucket   | list bucket | {} |
+| file://set          | update object |         |
+| file://get          | get object | {"bucket":"(bucket)","object":"(object name)","filetype":"url"}  |
+| file://delete       | delete object | {"bucket":"(bucket name)","object":"(object name)"}  |
+| file://list         | list objects | {"bucket":"(bucket name)","object":"(object name)"} |
 
 
 
@@ -136,10 +135,11 @@
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload |
 |:------------ |:-----------|:-------|
-| obj://add    |             |         |
-| obj://set   |             |         |
-| obj://delete |             |         |
-| obj://list   |             |         |
+| obj://add    | insert object | {"name":"(object name)","date":{}} |
+| obj://set   | update object |{"oid":"(object oid)","name":"object name","data":{}} |
+| obj://delete | delete object | {"oid":"(object oid)"} |
+| obj://list   | list object | {"oid":"(object oid)"} |
+| obj://get   | get object | {"oid":"(object oid)"} |  
    
 
 
