@@ -123,13 +123,13 @@
 
 | <div style="width: 150px">topic | <div style="width: 230px">description | <div style="width: 100px">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
-| file://addbucket    | Create bucket | {"bucket":"(bucket name)" }       |
-| file://deletebucket | Delete bucket | {"bucket":"(bucket name)" } } |
+| file://addbucket    | Create bucket | { "bucket":"(bucket name)" }       |
+| file://deletebucket | Delete bucket | { "bucket":"(bucket name)" } } |
 | file://listbucket   | List bucket | {} |
 | file://set          | Update bucket |         |
-| file://get          | Get object | {"bucket":"(bucket name)", "object":"(object name)", "filetype":"url" } |
-| file://delete       | Delete object | {"bucket":"(bucket name)", "object":"(object name)" }        |
-| file://list         | List object | {"bucket":"(bucket name)", "object":"(object name)" }   |
+| file://get          | Get object | { "bucket":"(bucket name)", "object":"(object name)", "filetype":"url" } |
+| file://delete       | Delete object | { "bucket":"(bucket name)", "object":"(object name)" }        |
+| file://list         | List object | { "bucket":"(bucket name)", "object":"(object name)" }   |
 
 
 
@@ -137,11 +137,11 @@
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
-| obj://add    |             |         |
-| obj://set   |             |         |
-| obj://delete |             |         |
-| obj://list   |             |         |
-   
+| obj://add    | Insert object | { "name":"(object name)", "data":{} } |
+| obj://set   | Update object |{ "oid":"(object oid)", "name":"(object name)", "data":{} }|
+| obj://delete | Delete object | { "oid":"(object oid)" } |
+| obj://list   | List object | { "oid":"(object oid)" } |
+| obj://get   | Get object | { "oid":"(object oid)" } |  
 
 
 ### comm
