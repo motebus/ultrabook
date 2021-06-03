@@ -16,10 +16,10 @@
 | mote://getUser         | User information getting | {} |
 | mote://listPeripherals | List peripherals | {"device":"usb,camera,ip,screen","update":true} |
 | mote://env             | Process environment parameter | {"method":"read,create,append,update,delete","path":"fbot/test.env","content":["QQ=123","WW=123"]} |
-| mote://schedule        | Make schedule | {"operate":"list|create|delete|start|stop","type":"once|routine|boot","hour":"2","minute":"1","month":"1","day":"1","week":"1","command":"ls","job":"qq","workspace":"0","terminal":"0"} |
+| mote://schedule        | Make schedule | {"operate":"list,create,delete,start,stop","type":"once,routine,boot","hour":"2","minute":"1","month":"1","day":"1","week":"1","command":"ls","job":"qq","workspace":"0","terminal":"0"} |
 | mote://window          | Operate window | {"operate":"list,assign,move,change","service":"0x123","key":"pointer","workspace":"0"} |
 | mote://keybot          | Define keybot shortcut | {"device": "numPad","shortcuts": {"0": "Mic","1": "Workspace1","2": "Workspace2","3": "Workspace3","4": "Workspace4","5": "Super","6": "Workspace0","7": "Sceenshot","8": "Window","9": "Screencast","/": "Switch","*": "Mute","+": "Volume+","-": "Volume-"}} |
-| mote://audio           | Operate audio | {"operate":"adjust,list,change","volume":"+5|50","device":"alsa_xxx","port":"linein","audio":"sink,source"} |
+| mote://audio           | Operate audio | {"operate":"adjust,list,change","volume":"+5,50","device":"alsa_xxx","port":"linein","audio":"sink,source"} |
 | mote://shortcut        | Manage GNOME shortcut | {"operate":"list,get,set,reset","func":"mic-mute","key":"KP_1"} |
    
 
