@@ -99,6 +99,9 @@
 | ss://drop | Show image or video on screen | {"cmd":"drop","type":"url","src":["(url1)","(url2)"],"duration":"(duration)","frame":"(frame)","animate":"(animate)","aniduration":"(animate duration)","pmode":"(play mode)" ,"bgcolor":"(background color)"} |      |
 | ss://notify | Show a notification message | {"cmd":"notify","msg":"(message)","duration":"(duration)","color":"(color)":"size":"(size)"} |      |
 | ss://toast | Show a toast message | {"cmd":"toast","msg":"(message)","heading":"(heading)","icon":"(icon)":"transition":"(transition)","duration":"(duration)"} |   |   
+| ss://marquee | Show a marquee text | {"cmd":"marquee","msg":"(message)","duration":"(duration)","color":"(color)":" size":"(size)","bgcolor","(background color)"} |     |
+| ss://text | Show text to screen | {"cmd":"text","msg":"(text)","duration":"(duration)","color":"(color)","size":"(siz e)","bgcolor":"(background color)","align":"(text alignment)","frame":"(frame)","animate":"(animate)","aniduration":"(animate duration), "bgcolor":"(background color)"} |     |
+| ss://app | Show a website on screen | {"cmd":"app","url":"(url1)","duration":"(duration)","frame":"(frame)"} |   |
 | watch://event  |            |        |      |
 | comm://tg      | send message to tg group with pinponboy |{"type": "message","content": "","from": "pinponboy"} |
 | mod://play     |            |        |      |
