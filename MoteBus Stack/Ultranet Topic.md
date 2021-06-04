@@ -191,16 +191,16 @@
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
-| kanban://disp | Display msg on page://kanban?mqname=kanban_tag | { "tag":"(kanban tag)", "kanban":[{ "name":"(item name)", "data":{}}] } | |
-| kanban://create  | Create kanban | { "tag":"(kanban tag)" } | |
-| kanban://clear  | Clear kanban | { "tag":"(kanban tag)" } | |
-| kanban://delete  | Delete kanban | { "tag":"(kanban tag)" } | |  
+| kanban://disp | Display msg on page://kanban?mqname=kanban_tag | { "tag":"(kanban tag)", "kanban":[{ "name":"(item name)", "data":{}}] } | {<br>"ErrCode": 0,<br>"ErrMsg": "OK"<br>}  |
+| kanban://create  | Create kanban | { "tag":"(kanban tag)" } | {<br>"ErrCode": 0,<br>"ErrMsg": "OK"<br>}  |
+| kanban://clear  | Clear kanban | { "tag":"(kanban tag)" } | {<br>"ErrCode": 0,<br>"ErrMsg": "OK"<br>}  |
+| kanban://delete  | Delete kanban | { "tag":"(kanban tag)" } | {<br>"ErrCode": 0,<br>"ErrMsg": "OK"<br>}  |
 
 ## UC
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
-| uc://login |  Login  | { "UserName":"jujuetv@gmail.com", "Password":"02********" }    |  |
+| uc://login |  Login  | { "UserName":"jujuetv@gmail.com", "Password":"02********" }    | {<br>"ErrCode": 0,<br>"ErrMsg": "OK",<br>"func": "ucLogin",<br>"UserInfo": {<br>"UToken": "g8VMouyj",<br>"Uid": "e4wUQWQc",<br>"UserName": "jujuetv@gmail.com",<br>"MobileNo": null,<br>"NickName": "jujue tv",<br>"FirstName": "jujue",<br>"LastName": "tv",<br>"Sex": null,<br>"EmailVerified": null,<br>"MobileVerified": null<br>},<br>"UseTime": 939<br>} |
 
 
 
@@ -208,6 +208,6 @@
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
-| blog://mms |  Mustme get blog data  | { "tags": ["#photo"] }  |  |
+| blog://mms |  Mustme get blog data  | { "tags": ["#photo"] }  |"Reply": [<br>{<br>"id": 4928,<br>"date": "2021-06-02T17:24:51",<br>"date_gmt": "2021-06-02T09:24:51",<br>"guid": {<br>"rendered": "https://blog.mustme.ypcloud.com/?p=4928"<br>},<br>"modified": "2021-06-02T17:24:51",<br>"modified_gmt": "2021-06-02T09:24:51",<br>"slug": "is-black-coffee-good-to-lose-weight",<br>"status": "publish",<br>"type": "post",<br>"link": "https://blog.mustme.ypcloud.com/4928/",<br>"title": {<br>"rendered": "Is black coffee good to lose weight"<br>},<br>"content": {<br>"rendered": ,<br>"protected": false<br>},<br>"excerpt": {<br>"rendered": "",<br>"protected": false<br>},<br>"author": 6,<br>"featured_media": 0,<br>"comment_status": "open",<br>"ping_status": "open",<br>"sticky": false,<br>"template": "",<br>"format": "standard",<br>"meta": [<br>],<br>"categories": [<br>13<br>],<br>"tags": [<br>],<br>"_links": {<br>"self": [...], // 1 items<br>"collection": [...], // 1 items<br>"about": [...], // 1 items<br>"author": [...], // 1 items<br>"replies": [...], // 1 items<br>"version-history": [...], // 1 items<br>"predecessor-version": [...], // 1 items<br>"wp:attachment": [...], // 1 items<br>"wp:term": [...], // 2 items<br>"curies": [...] // 1 items<br>}<br>}<br>]|
 
 
