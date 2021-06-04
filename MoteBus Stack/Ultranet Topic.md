@@ -164,13 +164,41 @@
 
 ## sys
 
+**In Function List**
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
-| in://local  |             |         |
-| xs://config |             |         |
-| xs://bucket |             |         |
-| xs://secret |             |         |
-| xs://cached |             |         |
+| in://local | Ping to local motechat | ping | [{IN:{From,To,State},Reply}] |
+| in://dc |	Ping to DC | ping | [{IN:{From,To,State},Reply}] |
+| in://mnL6QHsd	| Ping to device which DDN is mnL6QHsd | Ping | [{IN:{From,To,State},Reply}] |
+| in://local |  Trace to local motechat | trace | [{IN:{From,To,State},Reply}] |
+| in://dc |	Trace to DC | trace | [{IN:{From,To,State},Reply}] |
+| in://mnL6QHsd | Trace to device which DDN is mnL6QHsd | trace | [{IN:{From,To,State},Reply}] |
+| in://local | Get my register data | whois | [{IN:{From,To,State},Reply}] |
+   
+**XS Function list**
+
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
+|:------------ |:-----------|:-------|:-------|   
+| xs://config |	Get the contents of config of motebus xstoage | {catalog, idname} | get | {ErrCode,ErrMsg,result} |
+| xs://config |	Set the contents of config of motebus xstoage | {catalog, idname, data} | set | {ErrCode,ErrMsg} |
+| xs://cached |	Get the contents of cached of motebus xstoage | {catalog, idname} | get | {ErrCode,ErrMsg,result} |
+| xs://cached |	Set the contents of cached of motebus xstoage | {catalog, idname, data} | set | {ErrCode,ErrMsg} |
+| xs://cached |	Remove the contents of cached of motebus xstoage | {catalog, idname} | remove | {ErrCode,ErrMsg} |
+| xs://cached |	Clear the contents of cached of motebus xstoage | {catalog} | clear | {ErrCode,ErrMsg} |
+| xs://bucket |	Get the contents of bucket of motebus xstoage | {catalog, idname, datatype} | get | {ErrCode,ErrMsg,result} |
+| xs://bucket |	Set the contents of bucket of motebus xstoage | {catalog, idname, data} | set | {ErrCode,ErrMsg} |
+| xs://bucket |	List bucket of motebus xstoage | {catalog} | list | {ErrCode,ErrMsg,result} |
+| xs://bucket | Remove bucket of motebus xstoage | {catalog, idname} | remove | {ErrCode,ErrMsg} |
+| xs://secret | Get the contents of secret of motebus xstoage | {catalog, idname, password} | get | {ErrCode,ErrMsg,result} |
+| xs://secret | Set the contents of secret of motebus xstoage | {catalog, idname, data, password} | set | {ErrCode,ErrMsg} |
+
+## Logmms
+
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
+|:------------ |:-----------|:-------|:-------|   
+| log://save | Save log record to log DB | {"msg":"(msg)","tag":"(tag)","uid":"(uid)"} | {ErrCode,ErrMsg} |
+| log://search | Search log records | {"srhtype":"(search type)","srhtext":"(search text)","srhtime":"(search time)","option":"(query option) ,"queryfield":"(query field)"} | {ErrCode,ErrMsg,result} |
+
 
 
 
