@@ -120,8 +120,8 @@
 | play://      |            |        |
    
    
-## object store
-## 1. file://topic: function
+### Object store
+**1. file**
 
 | <div style="width: 150px">topic | <div style="width: 230px">description | <div style="width: 100px">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
@@ -133,9 +133,7 @@
 | file://delete       | Delete object | { "bucket":"(bucket name)", "object":"(object name)" } |  {"ErrMsg":"OK"}  |
 | file://list         | List object | { "bucket":"(bucket name)", "object":"(object name)" }   |  {"ErrMsg":"OK","Data":[{"name":"","creationDate":"2020-07-21T03:16:01.841Z"}]}  |
 
-
-
-## 2. obj://topic: function
+**2. obj**
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
@@ -146,7 +144,7 @@
 | obj://get   | Get object | { "oid":"(object oid)" } |  {"ErrMsg":"OK","Data”:{}}} |
 
 
-## comm
+### comm
 
 | <div style="width: 230pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
@@ -162,7 +160,7 @@
 | view://username  | Send msg to page://view |{ "text":"content" } |{<br>"ErrCode": 0,<br>"ErrMsg": "OK"<br>} |
 
 
-## sys
+### sys
 
 **In Function List**
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
@@ -192,7 +190,7 @@
 | xs://secret | Get the contents of secret of motebus xstoage | {catalog, idname, password} | get | {ErrCode,ErrMsg,result} |
 | xs://secret | Set the contents of secret of motebus xstoage | {catalog, idname, data, password} | set | {ErrCode,ErrMsg} |
 
-## Logmms
+### Logmms
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
@@ -202,7 +200,7 @@
 
 
 
-## redixs
+### redixs
 
   | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
@@ -215,7 +213,7 @@
   | redixs://get   |             |         |
 
 
-## kanban
+### kanban
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
@@ -224,7 +222,7 @@
 | kanban://clear  | Clear kanban | { "tag":"(kanban tag)" } | {<br>"ErrCode": 0,<br>"ErrMsg": "OK"<br>}  |
 | kanban://delete  | Delete kanban | { "tag":"(kanban tag)" } | {<br>"ErrCode": 0,<br>"ErrMsg": "OK"<br>}  |
 
-## UC
+### UC
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
@@ -232,7 +230,7 @@
 
 
 
-## MUSTME
+### MUSTME
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
