@@ -86,11 +86,11 @@
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
-| portal://log   | Create the log record into odoo including 4 fields(name, time, fm, and mesaage) |  { "voucher":"(voucher of model)","act":"(tg id)","data":{"name":"(your name)","message":"(message)"} } | {ErrCode,ErrMsg,Reply} |
-| portal://event | Create the event record into odoo | { "voucher":"(voucher of model)","act":"(tg id)","data":{"(model field)":"(data)"} }  | {ErrCode,ErrMsg,Reply} |
-| portal://cost  | Create the cost record  | { "voucher":"(voucher of model)","act":"(tg id)","data":{"(model field)":"(data)"} }  | {ErrCode,ErrMsg,Reply} |
-| portal://form  | Create detail data list of device or equipment into odoo |  { "voucher":"(voucher of model)","act":"(tg id)","data":{"(model field)":"(data)"} }  | {ErrCode,ErrMsg,Reply} |
-| query://model  | Query data  | { "voucher":"(voucher of model)","act":"(tg id)","data":{"query_str":["(model field)","=","(data value)"],"query_rst":["(field name you want to query)"]} }   |   {ErrCode,ErrMsg,Reply{id:(id number),"(field name you typing)":"(data)"}} 
+| portal://log   | Create the log record into odoo including 4 fields(name, time, fm, and mesaage) |  { "voucher":"(voucher of model)","act":"(tg id)","data":{"name":"(your name)","message":"(message)"} } | {ErrCode:0,ErrMsg:"OK",Reply} |
+| portal://event | Create the event record into odoo | { "voucher":"(voucher of model)","act":"(tg id)","data":{"(model field)":"(data)"} }  | {ErrCode:0,ErrMsg:"OK",Reply} |
+| portal://cost  | Create the cost record  | { "voucher":"(voucher of model)","act":"(tg id)","data":{"(model field)":"(data)"} }  |{ErrCode:0,ErrMsg:"OK",Reply} |
+| portal://form  | Create detail data list of device or equipment into odoo |  { "voucher":"(voucher of model)","act":"(tg id)","data":{"(model field)":"(data)"} }  | {ErrCode:0,ErrMsg:"OK",Reply} |
+| query://model  | Query data  | { "voucher":"(voucher of model)","data":{"query_str":["(model field)","=","(data value)"],"query_rst":["(field name you want to query)"]} }   |   {ErrCode:0,ErrMsg:"OK",Reply{id:(id number),"(field name you typing)":"(data)"}} |
    
 ## Jujue
 
