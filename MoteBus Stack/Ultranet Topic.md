@@ -86,11 +86,11 @@
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
-| portal://log   | create the log record into odoo including 4 fields(name, time, fm, and mesaage) | { "model":"","voucher":"","vid": ,"cmd":"","act":"","data":{"name":"","message":""}}  |
-| portal://event | create the event record into odoo |{"model":"","voucher":"","vid": ,"cmd":"","act":"","data":{...}} |
-| portal://cost  | create the cost record  | { "model":"","voucher":"","vid": ,"cmd":"","act":"","data":{...}}  |
-| portal://form  | create detail data list of device or equipment into odoo | { "model":"","voucher":"","vid": ,"cmd":"","act":"","data":{...}}  |
-| query://model  | query data  | { "model":"","voucher":"","vid": ,"cmd":"","act":"","data":{"query_str":[...],"query_rst":[...]}}  |
+| portal://log   | Create the log record into odoo including 4 fields(name, time, fm, and mesaage) |  { "voucher":"(voucher of model)","act":"(tg id)","data":{"name":"(your name)","message":"(message)"} } | {ErrCode,ErrMsg,Reply} |
+| portal://event | Create the event record into odoo | { "voucher":"(voucher of model)","act":"(tg id)","data":{"(model field)":"(data)"} }  | {ErrCode,ErrMsg,Reply} |
+| portal://cost  | Create the cost record  | { "voucher":"(voucher of model)","act":"(tg id)","data":{"(model field)":"(data)"} }  | {ErrCode,ErrMsg,Reply} |
+| portal://form  | Create detail data list of device or equipment into odoo |  { "voucher":"(voucher of model)","act":"(tg id)","data":{"(model field)":"(data)"} }  | {ErrCode,ErrMsg,Reply} |
+| query://model  | Query data  | { "voucher":"(voucher of model)","act":"(tg id)","data":{"query_str":["(model field)","=","(data value)"],"query_rst":["(field name you want to query)"]} }   |   {ErrCode,ErrMsg,Reply{id:(id number),"(field name you typing)":"(data)"}} 
    
 ## Jujue
 
