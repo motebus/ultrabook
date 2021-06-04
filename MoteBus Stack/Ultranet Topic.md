@@ -125,13 +125,13 @@
 
 | <div style="width: 150px">topic | <div style="width: 230px">description | <div style="width: 100px">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
-| file://addbucket    | Create bucket | { "bucket":"(bucket name)" }       |
-| file://deletebucket | Delete bucket | { "bucket":"(bucket name)" } } |
-| file://listbucket   | List bucket | {} |
-| file://set          | Update bucket |         |
-| file://get          | Get object | { "bucket":"(bucket name)", "object":"(object name)", "filetype":"url" } |
-| file://delete       | Delete object | { "bucket":"(bucket name)", "object":"(object name)" }        |
-| file://list         | List object | { "bucket":"(bucket name)", "object":"(object name)" }   |
+| file://addbucket    | Create bucket | { "bucket":"(bucket name)" }   |  {"ErrMsg":"OK"} |
+| file://deletebucket | Delete bucket | { "bucket":"(bucket name)" } } |  {"ErrMsg":"OK"} |
+| file://listbucket   | List bucket | {} |  {"ErrMsg":"OK","Data":[{"name":"","creationDate":"2020-07-21T03:16:01.841Z"}]} |
+| file://set          | Create object |         | {"ErrMsg":"OK","Data":"545c3ce0b22b570d3073e3b15ba9d157"} |
+| file://get          | Get object | { "bucket":"(bucket name)", "object":"(object name)", "filetype":"url" } | {"ErrMsg":"OK","Data":"https://s3.ypcloud.com/bucket name/..... "} |
+| file://delete       | Delete object | { "bucket":"(bucket name)", "object":"(object name)" } |  {"ErrMsg":"OK"}  |
+| file://list         | List object | { "bucket":"(bucket name)", "object":"(object name)" }   |  {"ErrMsg":"OK","Data":[{"name":"","creationDate":"2020-07-21T03:16:01.841Z"}]}  |
 
 
 
