@@ -46,7 +46,7 @@
    | kubectl://listNamespace | list or watch objects of kind Namespace | {} |   
   
 ### qman
-### 1. qbix
+**1. qbix**
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
@@ -60,7 +60,7 @@
 | qbix://size   | list object kind of size | { "site_name": "twcc-qbix", "qbix_type": "twcc", "payload": { } } |
 | qbix://notify | notify qbix | {"container":"","status":""} |
 
-### 2. qman
+**2. qman**
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
@@ -68,7 +68,7 @@
 | qman://run    | run a qbix | { "site_name": "any-qbix", "qbix_type": "any", "payload": { } } |
 | qman://delete | delete specified qbix | { "site_name": "any-qbix", "qbix_type": "any", "payload": { } } |
 
-### 3. qociman
+**3. qociman**
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
