@@ -139,18 +139,21 @@
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
-| obj://add    | Insert object | { "name":"(object name)", "data":{} } |
-| obj://set   | Update object |{ "oid":"(object oid)", "name":"(object name)", "data":{} }|
-| obj://delete | Delete object | { "oid":"(object oid)" } |
-| obj://list   | List object | { "oid":"(object oid)" } |
-| obj://get   | Get object | { "oid":"(object oid)" } |  
+| obj://add    | Insert object | { "name":"(object name)", "data":{} } | {"ErrMsg":"OK","Data":{"oid":"object oid","access":"public","_id":"","name":"object name","data":{}, updateDate":"2021-06-03T08:17:01.996Z","insertDate":"2021-06-03T08:17:02.004Z","__v":0}} |
+| obj://set   | Update object |{ "oid":"(object oid)", "name":"(object name)", "data":{} }| {"ErrMsg":"OK","Data":{}}  |
+| obj://delete | Delete object | { "oid":"(object oid)" } |  {"ErrMsg":"OK","Data":{"n":0,"ok":1,"deletedCount":0}} |
+| obj://list   | List object | { "oid":"(object oid)" } | {"ErrMsg":"OK","Data”:{[]}}} |
+| obj://get   | Get object | { "oid":"(object oid)" } |  {"ErrMsg":"OK","Data”:{}}} |
 
 
 ## comm
 
 | <div style="width: 230pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
-| mail://address     | Send msg by mail |{ "content":"(mail content)", "subject":"(mail subject)" } |   |
+| mail://address     | Send msg by mail |{ "content":"(mail content)", "subject":"(mail subject)" } | {
+"ErrCode": 0,
+"ErrMsg": "OK"
+}  |
 | sms://phone number | Send msg by sms | { "text":"(sms content)" } |   |
 | tg://chat id      | Send msg by tg | { "content":"(telegram content)", "type":"(send method)", available type:["message", "photo", "audio", "document", "video", "animation", "voice", "sticker"], default is "message", "from":"(telegram bot name)", available bot:["pinponboybot", "jujuebot", "lovetubebot", "ypcloudbot", "ultravisorbot", "smartscreenbot"], default is "pinponboy", "cc": "(chat_id of cc)"(optional), "parse_mode":"MarkdownV2" (optional) } |   |
 | ioc://chat id      | Send msg by tg with IOC format |{ "content":"(telegram content)", "from":"(telegram bot name)", "to":"(to_name)", "cc": "(chat_id of cc,options)" } |   |
