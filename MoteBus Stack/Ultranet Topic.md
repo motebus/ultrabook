@@ -177,8 +177,8 @@
    
 **XS Function list**
 
-| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
-|:------------ |:-----------|:-------|:-------|   
+| <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">func|<div style="width: 100pt">result|
+|:------------ |:-----------|:-------|:-------|:-------|     
 | xs://config |	Get the contents of config of motebus xstoage | {catalog, idname} | get | {ErrCode,ErrMsg,result} |
 | xs://config |	Set the contents of config of motebus xstoage | {catalog, idname, data} | set | {ErrCode,ErrMsg} |
 | xs://cached |	Get the contents of cached of motebus xstoage | {catalog, idname} | get | {ErrCode,ErrMsg,result} |
