@@ -96,16 +96,16 @@
 
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
-| ss://drop | Show image or video on screen | {"cmd":"drop","type":"url","src":["(url1)","(url2)"],"duration":"(duration)","frame":"(frame)","animate":"(animate)","aniduration":"(animate duration)","pmode":"(play mode)" ,"bgcolor":"(background color)"} |      |
-| ss://notify | Show a notification message | {"cmd":"notify","msg":"(message)","duration":"(duration)","color":"(color)":"size":"(size)"} |      |
-| ss://toast | Show a toast message | {"cmd":"toast","msg":"(message)","heading":"(heading)","icon":"(icon)":"transition":"(transition)","duration":"(duration)"} |   |   
-| ss://marquee | Show a marquee text | {"cmd":"marquee","msg":"(message)","duration":"(duration)","color":"(color)":" size":"(size)","bgcolor","(background color)"} |     |
-| ss://text | Show text to screen | {"cmd":"text","msg":"(text)","duration":"(duration)","color":"(color)","size":"(siz e)","bgcolor":"(background color)","align":"(text alignment)","frame":"(frame)","animate":"(animate)","aniduration":"(animate duration), "bgcolor":"(background color)"} |     |
-| ss://app | Show a website on screen | {"cmd":"app","url":"(url1)","duration":"(duration)","frame":"(frame)"} |   |
-| ss://youtube | Show a youtube program on screen | {"cmd":"youtube","search":"(search string","duration":"(duration)","frame":"(frame)","pmode":"(play mode)"} |   |
-| ss://touch | Control sscreen | {"cmd":"touch","option":"(arg) ","value":"(argv)"} |   |
-| ss://status | Show status of sscreen | {"cmd":"status","option":"(arg) ","value":"(argv)"} |  |
-| ss://dj |   | {"cmd":"dj","option":"(arg) ","value":"(argv)"} | |
+| ss://drop | Show image or video on screen | {"cmd":"drop","type":"url","src":["(url1)","(url2)"],"duration":"(duration)","frame":"(frame)","animate":"(animate)","aniduration":"(animate duration)","pmode":"(play mode)" ,"bgcolor":"(background color)"} | result = {ErrCode:0,ErrMsg:"OK"} |
+| ss://notify | Show a notification message | {"cmd":"notify","msg":"(message)","duration":"(duration)","color":"(color)":"size":"(size)"} | result = {ErrCode:0,ErrMsg:"OK"} |
+| ss://toast | Show a toast message | {"cmd":"toast","msg":"(message)","heading":"(heading)","icon":"(icon)":"transition":"(transition)","duration":"(duration)"} | result = {ErrCode:0,ErrMsg:"OK"} |   
+| ss://marquee | Show a marquee text | {"cmd":"marquee","msg":"(message)","duration":"(duration)","color":"(color)":" size":"(size)","bgcolor","(background color)"} | result = {ErrCode:0,ErrMsg:"OK"}    |
+| ss://text | Show text to screen | {"cmd":"text","msg":"(text)","duration":"(duration)","color":"(color)","size":"(siz e)","bgcolor":"(background color)","align":"(text alignment)","frame":"(frame)","animate":"(animate)","aniduration":"(animate duration), "bgcolor":"(background color)"} | result = {ErrCode:0,ErrMsg:"OK"}    |
+| ss://app | Show a website on screen | {"cmd":"app","url":"(url1)","duration":"(duration)","frame":"(frame)"} | result = {ErrCode:0,ErrMsg:"OK"}  |
+| ss://youtube | Show a youtube program on screen | {"cmd":"youtube","search":"(search string","duration":"(duration)","frame":"(frame)","pmode":"(play mode)"} | result = {ErrCode:0,ErrMsg:"OK"}  |
+| ss://touch | Control sscreen | {"cmd":"touch","option":"(arg) ","value":"(argv)"} | result = {ErrCode:0,ErrMsg:"OK"}  |
+| ss://status | Show status of sscreen | {"cmd":"status","option":"(arg) ","value":"(argv)"} | result = {ErrCode:0,ErrMsg:"OK"} |
+| ss://dj |   | {"cmd":"dj","option":"(arg) ","value":"(argv)"} | result = {ErrCode:0,ErrMsg:"OK"} |
 | watch://event  |            |        |      |
 | comm://tg      | send message to tg group with pinponboy |{"type": "message","content": "","from": "pinponboy"} |
 | mod://play     |            |        |      |
