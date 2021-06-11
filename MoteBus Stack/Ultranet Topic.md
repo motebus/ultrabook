@@ -3,24 +3,24 @@
 ## Mote
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
-| mote://bash            | Control the device sudch like ssh | {"token":"xxx", "command":"ls"} |
-| mote://xstorage        | Operate xstorage | {"method":"setConfig,getConfig,changeEiName,getBucket,setBucket,listBucket,removeBucket", "catalog":"CatalogName", "idname": "IDName", "data":"Content"} |
-| mote://nearby          | Search near device | {} |
-| mote://drop            | Drop file to other device | {"method":"ls,cp,rcp,cat,rm", "DDN":"xxxx", "path": "path", "files":"filename", "fsize":"123"} | 
-| mote://shot            | Screen capture | {} |
-| mote://measure         | Check system information | {"method":"info,status"} |
-| mote://qsnap           | Computing deploy | {"type": "fbots,aibots", "operate":"list,run,restart,checkAlive,stop,start,delete,open,close", "svcName":"name", "startTime":"2021/06/04-12:0:0", "stopTime":"2021/06/04-16:0:0", "MCHAT_EINAME":"flowbot", "MCHAT_APPNAME":"flowbot-app", "MCHAT_UDID":"1", "MCHAT_DC":"dc", "MCHAT_IOC":"ioc", "MCHAT_WATCHLEVEL":"0", "FBOT_UI":"1", "FBOT_QCODE":"123", "FBOT_FLOWFILE":"", "FBOT_QNAME":"flowbot", "FBOT_MODE":"xstorage", "FBOT_PORT":"18888", "svcSource":"", "modelName":"", "modelSource":"", "parameter":""} |
-| mote://apt             | Package management | {"operate":"list,remove,install","type":"snap,apt,npm","packageName":"wmctrl","keyword":"w*"} |
-| mote://time            | Timezone setting | {"method":"now,listTimezone,setTimezone","zone":"Asia/Taiwan","keyword":"Asia"} |
-| mote://setUser         | User information setting | {"EiTag":"#YP","EiLoc":"Taiwan"} |
-| mote://getUser         | User information getting | {} |
-| mote://listPeripherals | List peripherals | {"device":"usb,camera,ip,screen","update":true} |
-| mote://env             | Process environment parameter | {"method":"read,create,append,update,delete","path":"fbot/test.env","content":["QQ=123","WW=123"]} |
-| mote://schedule        | Make schedule | {"operate":"list,create,delete,start,stop","type":"once,routine,boot","hour":"2","minute":"1","month":"1","day":"1","week":"1","command":"ls","job":"qq","workspace":"0","terminal":"0"} |
-| mote://window          | Operate window | {"operate":"list,assign,move,change","service":"0x123","key":"pointer","workspace":"0"} |
-| mote://keybot          | Define keybot shortcut | {"device": "numPad","shortcuts": {"0": "Mic","1": "Workspace1","2": "Workspace2","3": "Workspace3","4": "Workspace4","5": "Super","6": "Workspace0","7": "Sceenshot","8": "Window","9": "Screencast","/": "Switch","*": "Mute","+": "Volume+","-": "Volume-"}} |
-| mote://audio           | Operate audio | {"operate":"adjust,list,change","volume":"+5,50","device":"alsa_xxx","port":"linein","audio":"sink,source"} |
-| mote://shortcut        | Manage GNOME shortcut | {"operate":"list,get,set,reset","func":"mic-mute","key":"KP_1"} |
+| mote://bash            | Control the device sudch like ssh | {"token":"xxx", "command":"ls"} | {"ErrCode":0, "ErrMsg":"OK","Data":"123"} |
+| mote://xstorage        | Operate xstorage | {"method":"setConfig,getConfig,changeEiName,getBucket,setBucket,listBucket,removeBucket", "catalog":"CatalogName", "idname": "IDName", "data":"Content"} | {"ErrCode":0, "ErrMsg":"OK","Data":"123"} |
+| mote://nearby          | Search near device | {} | {"ErrCode":0, "ErrMsg":"OK","Data":""} |
+| mote://drop            | Drop file to other device | {"method":"ls,cp,rcp,cat,rm", "DDN":"xxxx", "path": "path", "files":"filename", "fsize":"123"} | {"ErrCode":0, "ErrMsg":"OK","Data":"OK"} |
+| mote://shot            | Screen capture | {} | { "ErrCode": 0, "ErrMsg": "OK", "Data": "data:https://s3.ypcloud.com/udid/PUJGRGSv/2021-06-10-12-50-26.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=mikiypcloud%2F20210610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210610T045100Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5fc23027506f3d4186e4b846561ec5e01c1f84720c14b9e6ac441028fff718e2"} |
+| mote://measure         | Check system information | {"method":"info,status"} | {"ErrCode":0, "ErrMsg":"OK","Data":{"Device":"PERSONAL","System":{},"CPU":{},"OS":{},"GPU":{},"Memory":{},"Disk":[],"Network":[]}} |
+| mote://qsnap           | Computing deploy | {"type": "fbots,aibots", "operate":"list,run,restart,checkAlive,stop,start,delete,open,close", "svcName":"name", "startTime":"2021/06/04-12:0:0", "stopTime":"2021/06/04-16:0:0", "MCHAT_EINAME":"flowbot", "MCHAT_APPNAME":"flowbot-app", "MCHAT_UDID":"1", "MCHAT_DC":"dc", "MCHAT_IOC":"ioc", "MCHAT_WATCHLEVEL":"0", "FBOT_UI":"1", "FBOT_QCODE":"123", "FBOT_FLOWFILE":"", "FBOT_QNAME":"flowbot", "FBOT_MODE":"xstorage", "FBOT_PORT":"18888", "svcSource":"", "modelName":"", "modelSource":"", "parameter":""} | {"ErrCode":0, "ErrMsg":"OK","Data":"Start name"} |
+| mote://apt             | Package management | {"operate":"list,remove,install","type":"snap,apt,npm","packageName":"wmctrl","keyword":"w*"} | {"ErrCode":0, "ErrMsg":"OK","Data":"Start to install xx"} |
+| mote://time            | Timezone setting | {"method":"now,listTimezone,setTimezone","zone":"Asia/Taiwan","keyword":"Asia"} | {"ErrCode":0, "ErrMsg":"OK","Data":"Fri 11 Jun 2021 11:51:24 AM CST"} |
+| mote://setUser         | User information setting | {"EiTag":"#YP","EiLoc":"Taiwan"} | {"ErrCode":0, "ErrMsg":"OK","Data":{"EiTag":"#123","EiLoc":"Taipei"}} |
+| mote://getUser         | User information getting | {} | {"ErrCode":0, "ErrMsg":"OK","Data":{"EiTag":"#123","EiLoc":"Taipei","EiName":"123","EiType":".mote"}} |
+| mote://listPeripherals | List peripherals | {"device":"usb,camera,ip,screen","update":true} | {"ErrCode":0, "ErrMsg":"OK","Data":{"Virtual1":{"resolution":"2256x1361"}}} |
+| mote://env             | Process environment parameter | {"method":"read,create,append,update,delete","path":"fbot/test.env","content":["QQ=123","WW=123"]} | {"ErrCode":0, "ErrMsg":"OK","Data":"OK"} |
+| mote://schedule        | Make schedule | {"operate":"list,create,delete,start,stop","type":"once,routine,boot","hour":"2","minute":"1","month":"1","day":"1","week":"1","command":"ls","job":"qq","workspace":"0","terminal":"0"} | {"ErrCode":0, "ErrMsg":"OK","Data":"OK"} |
+| mote://window          | Operate window | {"operate":"list,assign,move,change","service":"0x123","key":"pointer","workspace":"0"} | {"ErrCode":0, "ErrMsg":"OK","Data":{"WorkSpace0":{"0x02400007":{"service":"xx"},"0x0240da91":{"service":"xx"}}}} |
+| mote://keybot          | Define keybot shortcut | {"device": "numPad","shortcuts": {"0": "Mic","1": "Workspace1","2": "Workspace2","3": "Workspace3","4": "Workspace4","5": "Super","6": "Workspace0","7": "Sceenshot","8": "Window","9": "Screencast","/": "Switch","*": "Mute","+": "Volume+","-": "Volume-"}} | {"ErrCode":0, "ErrMsg":"OK","Data":"OK"} |
+| mote://audio           | Operate audio | {"operate":"adjust,list,change","volume":"+5,50","device":"alsa_xxx","port":"linein","audio":"sink,source"} | {"ErrCode":0, "ErrMsg":"OK","Data":"Set volume +5"} |
+| mote://shortcut        | Manage GNOME shortcut | {"operate":"list,get,set,reset","func":"mic-mute","key":"KP_1"} | {"ErrCode":0, "ErrMsg":"OK","Data":"OK"} |
    
 
 ## Qbix
