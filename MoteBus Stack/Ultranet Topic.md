@@ -106,7 +106,7 @@
 | ss://touch | Control sscreen | {"cmd":"touch","option":"(arg) ","value":"(argv)"} | result = {ErrCode:0,ErrMsg:"OK"}  |
 | ss://status | Show status of sscreen | {"cmd":"status","option":"(arg) ","value":"(argv)"} | result = {ErrCode:0,ErrMsg:"OK"} |
 | ss://dj |   | {"cmd":"dj","option":"(arg) ","value":"(argv)"} | result = {ErrCode:0,ErrMsg:"OK"} |
-| watch://event  | Watch subscriber | {<br>"catalog": "watchbot",<br>"idname": “sub”,<br>"data": {<br>"topic": “sub”,<br>"mma": “mma”,<br>"to": “chatid”<br>}<br>} | {<br>"ErrCode": 0,<br>"ErrMsg": "OK"<br>} |
+| watch://event  | Watch subscriber | { "catalog": "watchbot", "idname": “sub”, "data": { "topic": "sub", "mma": "mma", "to": "chatid" } | { "ErrCode": 0, "ErrMsg": "OK" } |
 | comm://tg      | send message to tg group with pinponboy |{"type": "message","content": "","from": "pinponboy"} |
 | mod://play     |            |        |      |
 
