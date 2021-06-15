@@ -100,11 +100,11 @@ The Mote Browser.
 
 ## <h2 id="3">Mote</h2>
 ### MoteBus Stack
-* [MoteChat API](https://github.com/motebus/ultranet/blob/main/MoteBus%20Stack/MoteChat%20API.md)
-* [MoteBus-Error-Code](https://github.com/motebus/ultranet/blob/main/MoteBus%20Stack/MoteBus-Error-Code.md)
+* [MoteChat API](https://github.com/motebus/ultrabook/blob/main/Mote/MoteChat%20API.md)
+* [MoteBus-Error-Code](https://github.com/motebus/ultrabook/blob/main/Mote/MoteBus-Error-Code.md)
 
 ### Mote Sphere
-* [moted-install](https://github.com/motebus/ultrabook/blob/main/Mote%20Sphere/moted-install.md)
+* [moted-install](https://github.com/motebus/ultrabook/blob/main/Mote/moted-install.md)
 
 
 
