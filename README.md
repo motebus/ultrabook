@@ -126,6 +126,6 @@ The Mote Browser.
 * [Power On Boot](https://github.com/motebus/ultrabook/blob/main/Application%20Note/Power%20On%20Boot.md)
 * [keyboard shortcuts](https://github.com/motebus/ultrabook/blob/main/Application%20Note/keyboard%20shortcuts.md)
 * [Konga](https://github.com/motebus/ultrabook/blob/main/Application%20Note/Konga.md)
-* [How to install and use Ansible](https://github.com/motebus/ultrabook/blob/main/Application%20Note/How%20to%20install%20and%20use%20Ansible.md)
+* [How to install and use Ansible](https://github.com/motebus/ultrabook/blob/main/Appendix/How%20to%20install%20and%20use%20Ansible.md)
 * [How to send playbook](https://github.com/motebus/ultrabook/blob/main/Application%20Note/How%20to%20send%20playbook.md)
 * [How to set host of playbook](https://github.com/motebus/ultrabook/blob/main/Application%20Note/How%20to%20set%20host%20of%20playbook.md)
