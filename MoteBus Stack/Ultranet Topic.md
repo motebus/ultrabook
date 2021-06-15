@@ -228,7 +228,13 @@
 | <div style="width: 150pt">topic | <div style="width: 230pt">description | <div style="width: 100pt">payload | <div style="width: 100pt">result|
 |:------------ |:-----------|:-------|:-------|   
 | uc://login |  Login  | { "UserName":"jujuetv@gmail.com", "Password":"02********" }    | {<br>"ErrCode": 0,<br>"ErrMsg": "OK",<br>"func": "ucLogin",<br>"UserInfo": {<br>"UToken": "g8VMouyj",<br>"Uid": "e4wUQWQc",<br>"UserName": "jujuetv@gmail.com",<br>"MobileNo": null,<br>"NickName": "jujue tv",<br>"FirstName": "jujue",<br>"LastName": "tv",<br>"Sex": null,<br>"EmailVerified": null,<br>"MobileVerified": null<br>},<br>"UseTime": 939<br>} |
-
+| uc://logout | Logout | {} | {<br>"ErrCode": 0,<br>"ErrMsg": "OK",<br>"func": "ucLogout",<br>"UseTime": 1089<br>}
+| uc://signup | Sign up | { "UserName":"jujuetv@gmail.com", "Password":"02********" } |  |
+| uc://checkuser | Check user | { "UserName":"jujuetv@gmail.com" } |  {<br>"ErrCode": 0,<br>"ErrMsg": "OK",<br>"func": "ucCheckUser",<br>"UseTime": 304<br>} |
+| uc://getuserinfo | Get user info | {} | {<br>"ErrCode": 0,<br>"ErrMsg": "OK",<br>"func": "ucGetUserInfo",<br>"UserInfo": {<br>"UToken": "kjCAtRKh",<br>"Uid": "e4wUQWQc",<br>"UserName": "jujuetv@gmail.com",<br>"MobileNo": null,<br>"NickName": "jujue tv",<br>"FirstName": "jujue",<br>"LastName": "tv",<br>"Sex": null<br>},<br>"UseTime": 364<br>} |
+| uc://setuserinfo | Set user info | { userinfo }, Ex:{MobileNo,NickName,FirstName,LastName,Sex} |{<br>"ErrCode": 0,<br>"ErrMsg": "OK",<br>"func": "ucSetUserInfo",<br>"UseTime": 304<br>} |
+| uc://getusersetting | Get user setting | { KeyName } | {<br>"ErrCode": 0,<br>"ErrMsg": "OK",<br>"Reply": "",<br>"UseTime": 364<br>}
+| uc://setusersetting | Set user setting | { KeyName,Setting } | {<br>"ErrCode": 0,<br>"ErrMsg": "OK",<br>"Reply": "",<br>"UseTime": 364<br>}
 
 
 ### MUSTME
