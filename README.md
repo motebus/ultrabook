@@ -119,13 +119,13 @@ The Mote Browser.
 
 
 ## Appendix
-* [autostart](https://github.com/motebus/ultranet/blob/main/Application%20Note/autostart.md)
-* [setup RPi for boot from LAN](https://github.com/motebus/ultrabook/blob/main/Application%20Note/setup%20RPi%20for%20boot%20from%20LAN.md)
-* [setup RPi autorun](https://github.com/motebus/ultranet/blob/main/Application%20Note/setup%20RPI%20autorun.md)
-* [Parallel SmartScreen Install Guide](https://github.com/motebus/ultranet/blob/main/Application%20Note/Parallel%20SmartScreens%20Install%20Guide.md)
-* [Power On Boot](https://github.com/motebus/ultrabook/blob/main/Application%20Note/Power%20On%20Boot.md)
-* [keyboard shortcuts](https://github.com/motebus/ultrabook/blob/main/Application%20Note/keyboard%20shortcuts.md)
-* [Konga](https://github.com/motebus/ultrabook/blob/main/Application%20Note/Konga.md)
+* [autostart](https://github.com/motebus/ultranet/blob/main/Appendix/autostart.md)
+* [setup RPi for boot from LAN](https://github.com/motebus/ultrabook/blob/main/Appendix/setup%20RPi%20for%20boot%20from%20LAN.md)
+* [setup RPi autorun](https://github.com/motebus/ultranet/blob/main/Appendix/setup%20RPI%20autorun.md)
+* [Parallel SmartScreen Install Guide](https://github.com/motebus/ultranet/blob/main/Appendix/Parallel%20SmartScreens%20Install%20Guide.md)
+* [Power On Boot](https://github.com/motebus/ultrabook/blob/main/Appendix/Power%20On%20Boot.md)
+* [keyboard shortcuts](https://github.com/motebus/ultrabook/blob/main/Appendix/keyboard%20shortcuts.md)
+* [Konga](https://github.com/motebus/ultrabook/blob/main/Appendix/Konga.md)
 * [How to install and use Ansible](https://github.com/motebus/ultrabook/blob/main/Appendix/How%20to%20install%20and%20use%20Ansible.md)
-* [How to send playbook](https://github.com/motebus/ultrabook/blob/main/Application%20Note/How%20to%20send%20playbook.md)
-* [How to set host of playbook](https://github.com/motebus/ultrabook/blob/main/Application%20Note/How%20to%20set%20host%20of%20playbook.md)
+* [How to send playbook](https://github.com/motebus/ultrabook/blob/main/Appendix/How%20to%20send%20playbook.md)
+* [How to set host of playbook](https://github.com/motebus/ultrabook/blob/main/Appendix/How%20to%20set%20host%20of%20playbook.md)
