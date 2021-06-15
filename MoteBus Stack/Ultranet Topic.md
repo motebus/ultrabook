@@ -106,10 +106,10 @@
 | ss://touch | Control sscreen | {"cmd":"touch","option":"(arg) ","value":"(argv)"} | result = {ErrCode:0,ErrMsg:"OK"}  |
 | ss://status | Show status of sscreen | {"cmd":"status","option":"(arg) ","value":"(argv)"} | result = {ErrCode:0,ErrMsg:"OK"} |
 | ss://dj |   | {"cmd":"dj","option":"(arg) ","value":"(argv)"} | result = {ErrCode:0,ErrMsg:"OK"} |
-| watch://event  |            |        |      |
+| watch://event  | Watch subscriber | {<br>"catalog": "watchbot",<br>"idname": “sub”,<br>"data": {<br>"topic": “sub”,<br>"mma": “mma”,<br>"to": “chatid”<br>}<br>} | {<br>"ErrCode": 0,<br>"ErrMsg": "OK"<br>} |
 | comm://tg      | send message to tg group with pinponboy |{"type": "message","content": "","from": "pinponboy"} |
 | mod://play     |            |        |      |
-| filter://chart |            |        |      |
+
 
 ## Others
  
@@ -117,7 +117,7 @@
 |:------------ |:-----------|:-------|:-------|   
 | auto://      |            |        |
 | pd://        |            |        |
-| play://      |            |        |
+
    
    
 ### Object store
