@@ -14,12 +14,12 @@
 
 ### Ultra Post
 #### Head to [UltraPost](https://ultrapost.ypcloud.com/)
-[Ultranet Bridge](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Bridge/Ultranet%20Bridge.md)
+[Ultranet Bridge](https://github.com/motebus/ultrabook/blob/main/Ultra/Ultranet%20Bridge.md)
 
 ---
 
 ### Ultra Topic
-[Ultranet Topic](https://github.com/motebus/ultranet/blob/main/MoteBus%20Stack/Ultranet%20Topic.md)
+[Ultranet Topic](https://github.com/motebus/ultrabook/blob/main/Ultra/Ultranet%20Topic.md)
 
 ---
 
