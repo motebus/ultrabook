@@ -48,4 +48,4 @@ function: use the fbuider to deliver things to your email, telegram and so on...
 function: use YPcloude xstrorage tech to do communication.
 
 5. onevent 
-function: deploy the script onth system and receive the  retport.
+function: deploy the script on the system and receive the  report.
