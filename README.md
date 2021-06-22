@@ -118,6 +118,9 @@ The Mote Browser.
 ## Jujue
 
 
+## OTSI
+
+
 ## Appendix
 * [autostart](https://github.com/motebus/ultranet/blob/main/Appendix/autostart.md)
 * [setup RPi for boot from LAN](https://github.com/motebus/ultrabook/blob/main/Appendix/setup%20RPi%20for%20boot%20from%20LAN.md)
