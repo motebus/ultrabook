@@ -120,6 +120,11 @@ The Mote Browser.
 
 ## OTSI
 
+### Installation
+
+### Configuration
+
+### Remote Management
 
 ## Appendix
 * [autostart](https://github.com/motebus/ultranet/blob/main/Appendix/autostart.md)
