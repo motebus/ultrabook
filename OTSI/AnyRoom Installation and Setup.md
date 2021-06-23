@@ -8,7 +8,7 @@
     sudo apt-get upgrade
 ```
 
-### 2.Install flowbot from snap
+### 2. Install flowbot from snap
 flowbot
 ```
     sudo snap install flowbot
@@ -19,12 +19,11 @@ wmctrl
     sudo apt install  wmctrl
 ```
 ## Stage 2 moted sphere
-### 1.
-#### sphere
+### 1. sphere
 ``` 
     sudo snap install sphere 
 ```
-#### moted
+### 2. moted
 ``` 
     cd Downloads 
 ```
@@ -37,7 +36,7 @@ wmctrl
 ``` 
     cd 
 ```
-#### keybot
+### 3. keybot
 ```
     cd Downloads 
 ```
@@ -51,7 +50,7 @@ wmctrl
     cd 
 ```
 ## Stage 3 program manager
-### 1.After installing spehre &moted reopen the terminal you should see your udid on your hostsname 
+### 1. After installing spehre &moted reopen the terminal you should see your udid on your hostsname 
 if not then
 ```
     sudo snap restart sphere
@@ -60,5 +59,5 @@ if not then
     sudo snap restart moted
 ```
 and reopen the terminal again 
-### 2.Use pmbot to install rest of the thing including apps(curl,logmms etc) keyboard shortcut
+### 2. Use pmbot to install rest of the thing including apps(curl,logmms etc) keyboard shortcut
 # Tour guide
