@@ -126,6 +126,7 @@ The Mote Browser.
 ### Configuration
 
 ### Remote Management
+* [AnyRoom Quick User Guide](https://github.com/motebus/ultrabook/blob/main/OTSI/AnyRoom%20Quick%20User%20Guide.md)
 
 ## Appendix
 * [autostart](https://github.com/motebus/ultranet/blob/main/Appendix/autostart.md)
