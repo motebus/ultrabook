@@ -1,5 +1,5 @@
 # Follow all the steps with terminal(cmd)
-## Stage1 play remote by chrome
+## Stage 1 play remote by chrome
 ### 1. Update apt
 ```
     sudo apt-get update
