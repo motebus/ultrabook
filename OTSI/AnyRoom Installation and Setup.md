@@ -7,18 +7,12 @@
 ```
     sudo apt-get upgrade
 ```
-
-### 2. Install flowbot from snap
-flowbot
-```
-    sudo snap install flowbot
-```
-### 3. Install wmctrl from apt
+### 2. Install wmctrl from apt
 wmctrl
 ```
     sudo apt install  wmctrl
 ```
-## Stage 2 moted sphere
+## Stage 2 Install snap
 ### 1. sphere
 ``` 
     sudo snap install sphere 
@@ -28,10 +22,10 @@ wmctrl
     cd Downloads 
 ```
 ``` 
-    wget https://github.com/motebus/moted-snap/releases/download/v1.5.0/moted_amd64.snap ```
+    wget https://github.com/motebus/moted-snap/releases/download/v1.5.0/moted_amd64.snap
 ```
 ``` 
-    sudo snap install moted_amd64.snap --dangerous --classic```
+    sudo snap install moted_amd64.snap --dangerous --classic
 ```
 ``` 
     cd 
@@ -41,23 +35,20 @@ wmctrl
     cd Downloads 
 ```
 ```
-    wget https://github.com/motebus/keybot-snap/releases/download/v0.0.5/keybot_amd64.snap ```
+    wget https://github.com/motebus/keybot-snap/releases/download/v0.0.5/keybot_amd64.snap 
 ```
 ```
-    sudo snap install keybot_amd64.snap --dangerous --classic```
+    sudo snap install keybot_amd64.snap --dangerous --classic
 ```
 ```
     cd 
 ```
+### 4. fbots 
+```
+    sudo snap install fbots
+```
+#### Please reboot your pc
 ## Stage 3 program manager
 ### 1. After installing spehre &moted reopen the terminal you should see your udid on your hostsname 
-if not then
-```
-    sudo snap restart sphere
-```
-```
-    sudo snap restart moted
-```
-and reopen the terminal again 
+
 ### 2. Use pmbot to install rest of the thing including apps(curl,logmms etc) keyboard shortcut
-# Tour guide
