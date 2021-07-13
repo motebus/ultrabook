@@ -24,6 +24,6 @@ Your flow now should look similar to this.
 10) Add one more **Inject** node and **payload** node, and set it to inject once after 0.1 seconds with no repeats and also the content```{"type": "message", "content": "NAME initial clocking", "bot": "pinponboy"}.``` This is your initial clocking node. 
 ![截圖 2021-04-27 下午4 24 46](https://user-images.githubusercontent.com/32254088/116835818-b2807680-abf6-11eb-869c-a748005dcf87.png)
 11) When you're all done, click Deploy. 
-12) Next, click the button on the top right corner and select "QRun". Choose any server to deploy. Your fBuilder should continue to clock in even if you close the webpage, logout, or shutdown your computer. 
+12) Next, click the button on the top right corner and select "QRun". Choose "h2-qbix" to deploy. Your twin should continue to clock in even if you close the webpage, logout, or shutdown your computer. 
 ![image](https://imgur.com/yMwn7ic.png)
 ![截圖 2021-04-29 下午12 03 30](https://user-images.githubusercontent.com/32254088/116835834-c1ffbf80-abf6-11eb-9288-c2e1c564043a.png)
