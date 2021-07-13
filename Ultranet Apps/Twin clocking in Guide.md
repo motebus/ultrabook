@@ -18,11 +18,12 @@ If you are asked to clock in, follow these steps:
 }
 ```
 Replace "xxxxx" with your name. Click "Done" to save.
-5) Drag in a **Send** node and connect it to the output end of the **Payload** node. Double click the Send node and set both DDN and Topic fields to strings, and then type `>>comm` for DDN and `ioc://xxxxx` for Topic, where "xxxxx" is replaced with the channelID number of the target Telegram channel. Usually the channel ID is the 9-digit part coming right after "p=" in the url bar.
-6) Connect both outputs of the **Send** node to a **Debug** node, and then click Deploy.
-7) Click on the button in front of the **Inject** node. Then go to the target channel on Telegram. You should see a message saying "NAME clocking". 
-8) If the message sends successfully, drag in 3 more **Inject** nodes and connect them all to your **Payload**. There should now be 4 **Inject** nodes connected to your **Payload** node. 
-9) For each **Inject** node, double click it and scroll to the bottom. Set Repeat every day (with Monday to Sunday checked) "at a specific time". The times of each **Inject** node should be set to 00:00, 09:00, 12:00, and 18:00, respectively. 
+
+* 5 Drag in a **Send** node and connect it to the output end of the **Payload** node. Double click the Send node and set both DDN and Topic fields to strings, and then type `>>comm` for DDN and `ioc://xxxxx` for Topic, where "xxxxx" is replaced with the channelID number of the target Telegram channel. Usually the channel ID is the 9-digit part coming right after "p=" in the url bar.
+* 6 Connect both outputs of the **Send** node to a **Debug** node, and then click Deploy.
+* 7 Click on the button in front of the **Inject** node. Then go to the target channel on Telegram. You should see a message saying "NAME clocking". 
+* 8 If the message sends successfully, drag in 3 more **Inject** nodes and connect them all to your **Payload**. There should now be 4 **Inject** nodes connected to your **Payload** node. 
+* 9 For each **Inject** node, double click it and scroll to the bottom. Set Repeat every day (with Monday to Sunday checked) "at a specific time". The times of each **Inject** node should be set to 00:00, 09:00, 12:00, and 18:00, respectively. 
 
 Your flow now should look similar to this.
 ![image](https://user-images.githubusercontent.com/20572126/111123353-3086b080-85aa-11eb-88d7-d0b998e5305c.png)
