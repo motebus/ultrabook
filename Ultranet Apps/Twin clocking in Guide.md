@@ -10,7 +10,13 @@ If you are asked to clock in, follow these steps:
 2) Drag in an **Inject** node and a **Payload** node from the left column.
 3) Connect the **Inject** node to the input end of the **Payload** node (left). 
 4) Double click the **Payload** node and type the following string into the second input line with an e-mail icon.
-```{"type": "message", "content": "NAME clocking", "bot": "pinponboy"}.```
+```
+{
+    "type": "message", 
+    "content": "NAME clocking", 
+    "bot": "pinponboy"
+}
+```
 Replace "NAME" with your name. Click "Done" to save.
 5) Drag in a **Send** node and connect it to the output end of the **Payload** node. Double click the Send node and set both DDN and Topic fields to strings, and then type `>>comm` for DDN and `ioc://-CHANNELID` for Topic, where "`CHANNELID`" is replaced with the ID number of the target Telegram channel to which all clock-in messages are sent. To check the CHANNELID, you can login on [Telegram Web Version](https://web.telegram.org/) and click your target channel. Usually the channel ID is the 9-digit part coming right after "p=" in the url bar.
 6) Connect both outputs of the **Send** node to a **Debug** node, and then click Deploy.
