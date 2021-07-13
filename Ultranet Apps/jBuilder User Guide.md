@@ -18,7 +18,7 @@ jBuilder is a digital display board and dashboard creator.
     * [jBoard Display Options: QRCode, Tools shortcut, Collections shortcut](#jBoard-Display-Options)
   * [View/Display a jBoard](#View/Display-a-jBoard)
   * [Copy and Pasting jBoard Data](#Copy-and-Pasting-jBoard-Data)
-  * [Add board content](#Add-board-content)
+  * [Add board content: panels](#Add-board-content)
     * Available Types of Panel Frames
   * [Add/Edit/Remove Dock Pages](#Add/Edit/Remove-Dock-Pages)
   * [Create a TV Channel Dock Page](#Create-a-TV-Channel-Dock-Page)
@@ -139,49 +139,55 @@ You can save your jBoard data in json format.
 6. Add in parameters and/or data. 
 7. Hit Confirm once you are done. 
 
+- Change the grid position of your panel by clicking on its title bar (holding down your mouse) and dragging it to a new position.
+- Panel dimensions can also be changed by clicking and dragging the bottom-right corner of a panel. 
+
 ![](https://i.imgur.com/yJR5ynR.png)
 
-#### Available Types of Frame-Style 
+### Available Types of Panel Frame-Styles 
   - **Web Page** 
-    1. Type`page://url` into the App Field and {"url":"YourURL"} into the Params field, replacing `YourURL` with the actual url of the website. 
+    1. Type`page://url` into the App Field.
+    2. Enter `{"url":"https://xxx"}` into the Params field, replacing `https://xxx` with the actual url of the website. 
   - **YouTube Video**
-    1. Paste the url into the App Field. 
+    1. Type`page://url` into the App Field.
+    2. Enter `{"url":"https://xxx"}` into the Params field, replacing `https://xxx` with the url of your video.
        Note: Use the address bar url, e.g. https://www.youtube.com/watch?v=VIDEOID, not the video sharing link https://youtu.be/VIDEOID. 
   - **Image**
-    1. Type `page://url` into the App Field.
-    2. Enter {"url":"<url>"} into the Params field, replacing <url> with the actual url of the website. 
+    1. Type `page://image` into the App Field.
+    2. Enter `{"url":"https://xxx"}` into the Params field, replacing `https://xxx` with your image address. 
   - Slider 
     1. Type `page://slider` into the App Field
-    2. Enter {"json":["<url>","<url>",..."<url>"]} into the Params field, replacing <url> with the actual url of the image. 
+    2. Enter `{"json":["https://xxx","https://xxx",..."https://xxx"]} into the Params field, replacing `https://xxx` with the actual url of the image. 
   - **Charts**<br> 
     Currently there are 6 available chart types: bar, hbar, line, linearea, pie and circle. 
     1. Type `page://chart` into the App Field
     2. Enter into the Data Field: 
        > {"chart":{"type":"line","title":"Sample Chart","data":{"columns":[{"type":"x","field":"field name","name":"Course name"},{"type":"y","field":"numerical weight","name":"measured aspect"}],"rows":[{"numerical weight":450,"field name":"A"},{"numerical weight":350,"field name":"B"},{"numerical weight":300,"field name":"C"},{"numerical weight":370,"field name":"D"},{"numerical weight":400,"field name":"E"}]}}}
-    3. Replace ”type”,“numerical_weight”, “field_name” and other content to make your customized charts. 
+    3. Replace ”type”,“numerical_weight”, “field_name” and other content to customise your chart.
        ![](https://i.imgur.com/Rht0Sxn.png)
-       https://git.page/jj/board?qname=chart for charts demo.
-  
-       To view the panels data content samples, refer to these boards that can be found in the public board list:
+       https://git.page/jj/board?qname=chart for charts demo. In jBuilder, search in the Public board list for `chart`. Select the board with the qname `chart` and qcode `1604544476104`.
+       Other Samples:
        - QName= chartpractice, QCode=1611802967946
-       - QName=011121, QCode=
-  - **Cloud Room Display** 
-    * Type `page://room` into the App Field and {"tag":"<tag>"} into the Params field, replacing <tag> with your own room flow tag or 
-    * Type `page://panel` into the App Field and {"tag":"<tag>"} into the Params field, replacing <tag> with your own panel flow tag. 
-  - **Bricks**
-    Just paste the url of the brick into the App Field. 
+       - QName=011121, QCode=1610357672283
+   - **Bricks** (currently unavailable)
+    1. Type`page://url` into the App Field.
+    2. Enter `{"url":"https://xxx"}` into the Params field, replacing `https://xxx` with the url of the brick.
     See the jboard with the QName jbrick and go to https://git.page/jj/board?qname=jbrick for bricks demo. <br>
     ![](https://i.imgur.com/xXEWyUx.png)
+ #### Dashboard panels customised with fBuilder
+  - **Cloud Room Display** 
+    * Type `page://room` into the App Field and enter `{"tag":"TAG"}` into the Params field, replacing `TAG` with your own room flow tag or 
+    * Type `page://panel` into the App Field and enter `{"tag":"TAG"}` into the Params field, replacing `TAG` with your own panel flow tag. 
   - **View (log)**
     1. Create a flow in fbuilder and set the destination to your view name 
     2. Type `page://view` into the App Field.
-    3. Enter {"tag":"<view name>"} into the Params field, replacing <view name> with your view name 
+    3. Enter `{"tag":"<VIEW>"}` into the Params field, replacing `VIEW` with your view name.
   - **Header** 
     1. Type `page://header` into the App Field.
-    2. Enter {"title":"<title>","logo":"<url>"} into the Params field, replacing <title> with the title you want for the header and <url> with the url of the logo icon. 
+    2. Enter `{"title":"TITLE","logo":"https://xxx"}` into the Params field, replacing `TITLE` with the title you want for the header and `https://xxx` with the url of the logo icon. 
   - **Kanban**
     1. Type `page://kanban` into the App Field.
-    2. Enter {"tag":"YourTAG"} into the Params field, replacing <view name> with your view name 
+    2. Enter `{"tag":"YourTAG"}` into the Params field, replacing `YourTAG` with your kanban name.
 
 ### Add/Edit/Remove Dock Pages
 #### Add a new dock page
@@ -191,7 +197,7 @@ You can save your jBoard data in json format.
 
 2. Assign a name to the dock page inside the Title field. 
 3. In the Icon Url field enter the url of icon image you want to use for the dock page when it is unselected. We recommend finding icons on https://www.flaticon.com. Once you have found your icon, right-click on the icon image and select ‘Copy Image Address’, then paste into the Icon Url field. <br>
-   Alternatively, click `FileBrowser` and select an image from the s3 Icon Library. The file path for the icon image will be put in the url field. 
+   Alternatively, click `FileBrowser` and select an image from the Icon Center in the s3 File Browser. The file path for the icon image will be put in the url field. 
 4. Optional: in the Active Icon Url field enter the url/file path of the icon image you want to use for the page when it is selected. If left empty, the image from the Icon Image field above will be used.
 5. Hit Confirm after you are done. Your new dock page icon should now be visible on the dock at the bottom of the jBoard.
 
@@ -218,6 +224,16 @@ There are two ways to remove a dock page:
 * Right-click on the dock page icon on the dock, select `Delete Dock`. 
 
 ### Create a TV Channel Dock Page
-You can make a dock page a TV channel, i.e. a page with a collection of Youtube Videos, through the `As Tv Channel` checkbox on the Dock Add window page. 
-* Thumbnail image
-* Autoplay
+A jBoard TV channel is a dock page with a playlist collection of Youtube Videos.
+1. Add a new dock page, assigning its title and icons like usual.
+2. Select the `As Tv Channel` checkbox. 
+3. Click `Add Channel`.
+
+<img src="https://i.imgur.com/CUizWx7.png" width=550 height=400>
+
+4. Assign a title to the video. (This title will only be visible in jBuilder Dock Builder)
+5. Enter the Youtube video URL to the `Url` Field. 
+6. Leave the `Use thumbnail` checkbox as the default setting, or unselect the checkbox and use the `Icon Url` field to replace the video thumbnail with an image of your choice. 
+7. Repeat steps 3-6 as many times as desired. 
+8. Hit Confirm after you are done.
+- Note: Disregard the `Autoplay` checkbox. This option is now available in jBoard Settings for each viewer to change (rather than just the jBoard creator). 
