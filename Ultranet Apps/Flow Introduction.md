@@ -1,8 +1,8 @@
-# Jujue Flow Introduction
+# Flow Introduction
 
 **Introduction**
   
-Jujue flow (jujue) is a practical, powerful, and user-friendly function flow package, in which YPCloud build many strong flow function with precise logic node series. It conclude different function flow, like smartscreen, motechat, and clocking in flow...etc.
+Flow is a practical, powerful, and user-friendly function flow package, in which YPCloud build many strong flow function with precise logic node series. It conclude different function flow, like smartscreen, motechat, and clocking in flow...etc.
   
 **Noun Cleaness**
   
