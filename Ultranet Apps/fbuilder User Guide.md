@@ -201,4 +201,4 @@ Repeat time, start hour, and end hour dictate when the scans will be performed e
 After you have saved the file as a .ppb file, upload it to the Object Store by going to https://git.page/jj/object. Select “scanwatch” as the bucket and upload the file. Then, open fBuilder, load this flow, and double-click on the “insert name” function node. Simply change the “qname” to match the qname of your .ppb file, hit Deploy, and you’re all set. Reports will be sent to the Telegram channel identified within your .ppb file at intervals of your choice.
 
 
-###### tags: `yp-md`
+
