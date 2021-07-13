@@ -10,10 +10,11 @@ URL: <https://github.com/motebus/moted-snap/releases>
 * Please confirm whether your file is in the "Downloads" directory
 
 ## 3. Open Terminal:
+type in
 ```
 cd Downloads
 ```
-then enter in terminal
+then enter type in
 ```
 sudo snap install xxxx.snap --dangerous --classic
 ```
