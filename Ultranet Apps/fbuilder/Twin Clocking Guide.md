@@ -78,7 +78,7 @@ If you are asked to clock in, follow these steps:
 
 <img src="https://i.imgur.com/4EayyVC.png" width=700 height=300> 
 
-* Before doing the next step your flow should somehow look like this
+### Before doing the next step your flow should somehow look like this
 
 <img src="https://i.imgur.com/DS4ZGwy.png" width=700 height=300> 
 
