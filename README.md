@@ -24,7 +24,6 @@
 ---
 
 ### Ultra Apps
----
 
 ----
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/10/jujue_320x320.png" />
