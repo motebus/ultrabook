@@ -5,14 +5,14 @@ You should clock in 4 times a day: 00:00, 09:00, 12:00, and 18:00.
 If you are asked to clock in, follow these steps: 
 
 * Click <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button in the top right corner and select Create a new Project. 
-* In project details: type "twin" for Name & QName.
-
 <img src="https://i.imgur.com/i8YrWeI.jpg" width=1000 height=700>
+
+* In project details: type "twin" for Name & QName
 <img src="https://i.imgur.com/dgwFKdL.png" width=700 height=700>
 
 ### Drag in nodes form the left column to workspace
 
-* Drag in 4x <img src="https://i.imgur.com/dcq5SnC.png" width=100 height=30> node, they become <img src="https://i.imgur.com/UOdTwVI.png" width=100 height=40>. 
+* Drag in 4x <img src="https://i.imgur.com/dcq5SnC.png" width=100 height=30> node, they become <img src="https://i.imgur.com/UOdTwVI.png" width=100 height=40>
 * Drag in 2x Payload node
 * Drag in 1x Send node
 * Drag in 1x Debug node
