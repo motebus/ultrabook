@@ -24,9 +24,17 @@ If you are asked to clock in, follow these steps:
  
 ### Each Node contents
 #### timestamp
+
+* You can set name for timestamp 
+* For 1st timestamp content
+
 <img src="https://i.imgur.com/XSxu5vX.png" width=700 height=900>
+
+* For 2nd timestamp content
+
 <img src="https://i.imgur.com/kAmxGdU.png" width=700 height=900>
-*
+
+* Try to modify rest of the timestamps yourself
 
 #### Payload
 <img src="https://i.imgur.com/1M8lEsY.png" width=700 height=300> 
