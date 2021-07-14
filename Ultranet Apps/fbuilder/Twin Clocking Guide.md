@@ -4,7 +4,7 @@ Clouder interns are usually requested to set up a clock-in flow on fBuilder. The
 You should clock in 4 times a day: 00:00, 09:00, 12:00, and 18:00. 
 If you are asked to clock in, follow these steps: 
 
-* Click <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button in the top right corner and select Create a new Project. 
+* Click <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button in the top right corner and select "Create Project" 
 <img src="https://i.imgur.com/i8YrWeI.jpg" width=1000 height=500>
 
 * In project details: type "twin" for Name & QName
