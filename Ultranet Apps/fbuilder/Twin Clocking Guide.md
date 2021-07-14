@@ -44,7 +44,7 @@ If you are asked to clock in, follow these steps:
 
 <img src="https://i.imgur.com/1M8lEsY.png" width=700 height=300> 
 
-* The first "payload" node and fill the following codes in mail-box icon
+* Fill the following codes in mail-box icon for 1st payload node
 
 ```
 {
@@ -54,7 +54,7 @@ If you are asked to clock in, follow these steps:
 }
 ```
 
-* For the second payload
+* For the 2nd payload node
 
 ```
 {
