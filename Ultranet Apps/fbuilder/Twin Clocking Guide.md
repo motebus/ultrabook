@@ -1,4 +1,4 @@
-## Twin Clocking
+# Twin Clocking
 Clouder interns are usually requested to set up a clock-in flow on fBuilder. The main purpose of clocking in is not to check if you arrive on time to work. It’s to test the qrun system, and make it is easier for the maintainer at YPCloud to identify bugs and make improvements. 
 
 You should clock in 4 times a day: 00:00, 09:00, 12:00, and 18:00. 
@@ -78,7 +78,7 @@ If you are asked to clock in, follow these steps:
 
 <img src="https://i.imgur.com/4EayyVC.png" width=700 height=300> 
 
-### Before doing the next step your flow should somehow look like this
+## Before doing the next step your flow should somehow look like this
 
 <img src="https://i.imgur.com/DS4ZGwy.png" width=700 height=300> 
 
