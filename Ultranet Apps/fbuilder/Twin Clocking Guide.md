@@ -14,7 +14,7 @@ If you are asked to clock in, follow these steps:
 
 * Drag in 4x <img src="https://i.imgur.com/dcq5SnC.png" width=100 height=30> node, they become <img src="https://i.imgur.com/UOdTwVI.png" width=100 height=30>
 * Drag in 2x <img src="https://i.imgur.com/Qzisc1K.png" width=100 height=30> node,they become <img src="https://i.imgur.com/hpUnuGs.png" width=100 height=30>
-* Drag in 1x Send node
+* Drag in 1x <img src="https://i.imgur.com/1664YQI.png" width=100 height=30> node, it becomes 
 * Drag in 1x Debug node
  
 * Double click the **Payload** node and type the following string into the second input line with an e-mail icon.
