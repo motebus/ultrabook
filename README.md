@@ -24,6 +24,14 @@
 ---
 
 ### Ultra Apps
+---
+
+----
+<img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/10/jujue_320x320.png" />
+
+#### [app-jujue](https://snapcraft.io/app-jujue)
+The Mote Browser. 
+
 -----
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/08/smartscreen_256x256.png" />
 
@@ -91,12 +99,6 @@ moteOS Background Services.
 Flow designer based on node-red with motechat config nodes.
 
 -----
-<img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/10/jujue_320x320.png" />
-
-#### [app-jujue](https://snapcraft.io/app-jujue)
-The Mote Browser. 
-
----
 
 ### Ultranet Application Notes
 * [portal](https://github.com/motebus/ultrabook/blob/main/Ultra/portal.md)
