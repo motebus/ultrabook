@@ -23,6 +23,9 @@ If you are asked to clock in, follow these steps:
 <img src="https://i.imgur.com/uDfxHLv.png" width=800 height=400>
  
 ### Each Node contents
+
+* Double click on every node to modify contents
+
 #### timestamp
 
 * You can set name for timestamp 
@@ -37,9 +40,10 @@ If you are asked to clock in, follow these steps:
 * Try to modify rest of the timestamps yourself
 
 #### Payload
+
 <img src="https://i.imgur.com/1M8lEsY.png" width=700 height=300> 
 
-* Double click the first "payload" node and fill the following codes in mail-box icon
+* The first "payload" node and fill the following codes in mail-box icon
 
 ```
 {
@@ -48,7 +52,9 @@ If you are asked to clock in, follow these steps:
     "bot": "pinponboy"
 }
 ```
-for the second payload
+
+* For the second payload
+
 ```
 {
     "type": "message", 
@@ -56,6 +62,7 @@ for the second payload
     "bot": "pinponboy"
 }
 ```
+
 * Replace xxxxx with your English name
 
 #### Send
