@@ -87,6 +87,12 @@ If you are asked to clock in, follow these steps:
 
 <img src="https://i.imgur.com/Q6b3Ljd.png" width=300 height=50> 
 
+* Press the red "Deploy" button on the top right corner to deploy your flow
+
+<img src="https://i.imgur.com/TBBg4ZD.png" width=300 height=500>
+
+* If your Errmsg is "OK" & you do see your message in the clocking group it means success
+
 ### Qrun your twin
 
 
