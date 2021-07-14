@@ -73,3 +73,11 @@ If you are asked to clock in, follow these steps:
 
 #### Debug
 
+* For debug content
+
+<img src="https://i.imgur.com/4EayyVC.png" width=700 height=200> 
+
+
+### Qrun your twin
+
+
