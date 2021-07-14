@@ -45,6 +45,13 @@ A web-based screening service.The display contents can be manipulated by Jujue, 
 mote is an OS for edge IoT device.
 
 -----
+<img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/08/7A7FE9FD-366E-43A5-8006-69EDFFF2548E.jpeg.png" />
+
+#### [moted](https://github.com/motebus/moted-snap/releases)
+moteOS Background Services.
+* [moted-install](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/moted-install.md)
+
+-----
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/05/FB.png" />
 
 #### [fbuilder](https://snapcraft.io/fbuilder)
@@ -85,12 +92,6 @@ It acts as the domain controller to your IoT Edge device, providing layers of pr
 #### [logmms](https://snapcraft.io/logmms)
 logmms is a logging system service for your EI device. 
 
------
-<img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/08/7A7FE9FD-366E-43A5-8006-69EDFFF2548E.jpeg.png" />
-
-#### [moted](https://github.com/motebus/moted-snap/releases)
-moteOS Background Services.
-* [moted-install](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/moted-install.md)
 -----
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/03/fbuilder.jpeg_IMnAKHn.png" />
 
