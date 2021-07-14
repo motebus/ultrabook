@@ -75,7 +75,7 @@ If you are asked to clock in, follow these steps:
 
 * For debug content
 
-<img src="https://i.imgur.com/4EayyVC.png" width=700 height=200> 
+<img src="https://i.imgur.com/4EayyVC.png" width=700 height=300> 
 
 
 ### Qrun your twin
