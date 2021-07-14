@@ -67,5 +67,7 @@ If you are asked to clock in, follow these steps:
 
 #### Send
 
+<img src="https://i.imgur.com/qzP16RF.png" width=700 height=300> 
+
 #### Debug
 
