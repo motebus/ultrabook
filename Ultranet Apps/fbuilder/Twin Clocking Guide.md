@@ -10,7 +10,7 @@ If you are asked to clock in, follow these steps:
 * In project details: type "twin" for Name & QName
 <img src="https://i.imgur.com/jspv6Fy.png" width=800 height=400>
 
-### Drag in nodes form the left column to workspace
+### Drag in nodes form left handside column to workspace
 
 * Drag in 5x <img src="https://i.imgur.com/dcq5SnC.png" width=100 height=30> node, they become <img src="https://i.imgur.com/UOdTwVI.png" width=100 height=30>
 * Drag in 2x <img src="https://i.imgur.com/Qzisc1K.png" width=100 height=30> node,they become <img src="https://i.imgur.com/hpUnuGs.png" width=100 height=30>
@@ -91,7 +91,7 @@ If you are asked to clock in, follow these steps:
 
 <img src="https://i.imgur.com/TBBg4ZD.png" width=300 height=500>
 
-* If your Errmsg is "OK" in the debug window on the right & you do see your message in the telegram clocking group it means success
+* If your Errmsg is "OK" in the debug window on right hand side & you do see your message in the telegram clocking group it means success
 
 ### Qrun your twin
 
