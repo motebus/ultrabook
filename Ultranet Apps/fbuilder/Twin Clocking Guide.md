@@ -4,7 +4,7 @@ Clouder interns are usually requested to set up a clock-in flow on fBuilder. The
 You should clock in 4 times a day: 00:00, 09:00, 12:00, and 18:00. 
 If you are asked to clock in, follow these steps: 
 
-* Click <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button in the top right corner and select "Create Project" 
+* Click on <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button in the top right corner and select "Create Project" 
 <img src="https://i.imgur.com/i8YrWeI.jpg" width=1000 height=500>
 
 * In project details: type "twin" for Name & QName
@@ -95,7 +95,16 @@ If you are asked to clock in, follow these steps:
 
 ### Qrun your twin
 
+*  Click on <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button again in the top right corner and select "Qrun" 
 
 <img src="https://i.imgur.com/drivpK5.png" width=500 height=500>
+
+* Choose "h2-qbix" to deploy
+* If it shows this on your page
+
+<img src="https://i.imgur.com/2cFUJHH.png" width=700 height=100>
+
+* It means success deploying to "h2-qibx"
+* Congrats you have finish the Guide
 
 
