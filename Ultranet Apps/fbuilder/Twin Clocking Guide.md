@@ -27,7 +27,8 @@ If you are asked to clock in, follow these steps:
 *
 #### Payloads
 <img src="https://i.imgur.com/1M8lEsY.png" width=500 height=500> 
-* Double click the first "payload" node and fill in the following codes.
+* Double click the first "payload" node and fill the following codes in mail-box icon
+
 ```
 {
     "type": "message", 
