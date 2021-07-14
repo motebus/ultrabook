@@ -24,8 +24,8 @@ If you are asked to clock in, follow these steps:
  
 ### Each Node contents
 #### timestamp
-<img src="https://i.imgur.com/XSxu5vX.png" width=700 height=300>
-<img src="https://i.imgur.com/kAmxGdU.png" width=700 height=300>
+<img src="https://i.imgur.com/XSxu5vX.png" width=700 height=900>
+<img src="https://i.imgur.com/kAmxGdU.png" width=700 height=900>
 *
 
 #### Payload
