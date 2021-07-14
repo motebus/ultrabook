@@ -37,6 +37,6 @@ If you are asked to clock in, follow these steps:
     "bot": "pinponboy"
 }
 ```
-#### Sends
+#### Send
 #### Debug
 
