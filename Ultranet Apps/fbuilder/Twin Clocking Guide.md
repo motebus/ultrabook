@@ -17,12 +17,12 @@ If you are asked to clock in, follow these steps:
 * Drag in 1x <img src="https://i.imgur.com/1664YQI.png" width=100 height=30> node, it becomes <img src="https://i.imgur.com/BUNoE2p.png" width=100 height=30>
 * Drag in 1x <img src="https://i.imgur.com/6vCZIev.png" width=100 height=30> node, it becomes <img src="https://i.imgur.com/ocPKneJ.png" width=120 height=50>
  
- ### Connect nodes
+### Connect nodes
  
-* Connect your nodes like this
+* Connect your nodes like this:
 <img src="https://i.imgur.com/uDfxHLv.png" width=800 height=400>
  
-### Each Node contents
+### Modify each Node contents
 
 * Double click on every node to modify each content
 * Remember to click "Done" to save every node's modify
@@ -78,7 +78,7 @@ If you are asked to clock in, follow these steps:
 
 <img src="https://i.imgur.com/4EayyVC.png" width=700 height=300> 
 
-## Before doing the next step your flow should somehow look like this
+## Before doing the next step your flow should somehow look like this:
 
 <img src="https://i.imgur.com/DS4ZGwy.png" width=700 height=300> 
 
@@ -90,6 +90,8 @@ If you are asked to clock in, follow these steps:
 * Press the red "Deploy" button on the top right corner to deploy your flow
 
 <img src="https://i.imgur.com/TBBg4ZD.png" width=300 height=500>
+
+* Press the small blue button in front of "initail" to inject the "timestamp" node
 
 * If your Errmsg is "OK" in the debug window on right hand side & you do see your message in the telegram clocking group it means success
 
