@@ -91,20 +91,23 @@ If you are asked to clock in, follow these steps:
 
 <img src="https://i.imgur.com/TBBg4ZD.png" width=300 height=500>
 
-* If your Errmsg is "OK" in the debug window on the right & you do see your message in the clocking group it means success
+* If your Errmsg is "OK" in the debug window on the right & you do see your message in the telegram clocking group it means success
 
 ### Qrun your twin
 
 *  Click on <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button again in the top right corner and select "Qrun" 
+* Choose "h2-qbix" to deploy
 
 <img src="https://i.imgur.com/drivpK5.png" width=500 height=500>
 
-* Choose "h2-qbix" to deploy
+
 * If it shows this on your page
 
 <img src="https://i.imgur.com/2cFUJHH.png" width=700 height=100>
 
 * It means success deploying to "h2-qibx"
-* Congrats you have finish the Guide
+* Keep watching telegram clocking group to see whether your twin works on recommended time after successfully qurn no matter you log out your fbuilder/shutdown your pc
+
+# Congrats you have finish the Guide
 
 
