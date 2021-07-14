@@ -5,7 +5,7 @@ You should clock in 4 times a day: 00:00, 09:00, 12:00, and 18:00.
 If you are asked to clock in, follow these steps: 
 
 * 1 Click <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button in the top right corner and select Create a new Project. 
-* In project details: type "twin" for Name.
+In project details: type "twin" for Name.
 ![image](https://i.imgur.com/i8YrWeI.jpg)
 ![image](https://i.imgur.com/dgwFKdL.png)
 * 2 Drag in an **Inject** node and a **Payload** node from the left column.
