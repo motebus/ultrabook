@@ -91,8 +91,11 @@ If you are asked to clock in, follow these steps:
 
 <img src="https://i.imgur.com/TBBg4ZD.png" width=300 height=500>
 
-* If your Errmsg is "OK" & you do see your message in the clocking group it means success
+* If your Errmsg is "OK" in the debug window on the right & you do see your message in the clocking group it means success
 
 ### Qrun your twin
+
+
+<img src="https://i.imgur.com/drivpK5.png" width=300 height=500>
 
 
