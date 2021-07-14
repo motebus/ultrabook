@@ -25,6 +25,7 @@ If you are asked to clock in, follow these steps:
 ### Each Node contents
 
 * Double click on every node to modify each content
+* Remember to click "Done" to save every node's modify
 
 #### timestamp
 
