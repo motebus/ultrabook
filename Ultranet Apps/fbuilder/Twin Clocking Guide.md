@@ -18,7 +18,7 @@ If you are asked to clock in, follow these steps:
 * Drag in 1x <img src="https://i.imgur.com/6vCZIev.png" width=100 height=30> node, it becomes <img src="https://i.imgur.com/ocPKneJ.png" width=120 height=40>
  
  ### Connect nodes
- <img src="https://i.imgur.com/uDfxHLv.png" width=700 height=700>
+ <img src="https://i.imgur.com/uDfxHLv.png" width=500 height=500>
  
  ### Node contents
  
