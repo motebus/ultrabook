@@ -5,7 +5,7 @@ You should clock in 4 times a day: 00:00, 09:00, 12:00, and 18:00.
 If you are asked to clock in, follow these steps: 
 
 * Click <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button in the top right corner and select Create a new Project. 
-<img src="https://i.imgur.com/i8YrWeI.jpg" width=1000 height=700>
+<img src="https://i.imgur.com/i8YrWeI.jpg" width=1000 height=500>
 
 * In project details: type "twin" for Name & QName
 <img src="https://i.imgur.com/dgwFKdL.png" width=700 height=700>
