@@ -32,7 +32,7 @@ A web-based screening service.The display contents can be manipulated by Jujue, 
 -----
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/6381ab4a-7e9f-4a98-8749-7399c7485d2f.jpg.png" />
 
-#### [keybot](https://snapcraft.io/keybot)
+#### [keybot](https://github.com/motebus/keybot-snap/releases)
 Connecting your EI device to keyboards, mice, speakers/headsets, sensors, etc.
 
 -----
@@ -80,7 +80,7 @@ logmms is a logging system service for your EI device.
 -----
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/08/7A7FE9FD-366E-43A5-8006-69EDFFF2548E.jpeg.png" />
 
-#### [moted](https://snapcraft.io/moted)
+#### [moted](https://github.com/motebus/moted-snap/releases)
 moteOS Background Services.
 * [moted-install](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/moted-install.md)
 -----
