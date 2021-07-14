@@ -8,7 +8,7 @@ If you are asked to clock in, follow these steps:
 <img src="https://i.imgur.com/i8YrWeI.jpg" width=1000 height=500>
 
 * In project details: type "twin" for Name & QName
-<img src="https://i.imgur.com/dgwFKdL.png" width=700 height=500>
+<img src="https://i.imgur.com/jspv6Fy.png" width=700 height=500>
 
 ### Drag in nodes form the left column to workspace
 
