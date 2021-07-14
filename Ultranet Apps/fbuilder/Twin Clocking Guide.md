@@ -20,14 +20,14 @@ If you are asked to clock in, follow these steps:
  ### Connect nodes
  
 * Connect your nodes like this
-<img src="https://i.imgur.com/uDfxHLv.png" width=500 height=500>
+<img src="https://i.imgur.com/uDfxHLv.png" width=800 height=400>
  
 ### Each Node contents
 #### timestamp
 *
 
 #### Payload
-<img src="https://i.imgur.com/1M8lEsY.png" width=400 height=400> 
+<img src="https://i.imgur.com/1M8lEsY.png" width=700 height=300> 
 
 * Double click the first "payload" node and fill the following codes in mail-box icon
 
