@@ -94,8 +94,8 @@ If you are asked to clock in, follow these steps:
 <img src="https://i.imgur.com/TBBg4ZD.png" width=300 height=500>
 
 ### Qrun your twin
-
-*  Click on <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button again in the top right corner and select "Qrun" 
+* After testing success
+* Click on <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button again in the top right corner and select "Qrun" 
 * Choose "h2-qbix" to deploy
 
 <img src="https://i.imgur.com/drivpK5.png" width=500 height=500>
