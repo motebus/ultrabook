@@ -96,6 +96,6 @@ If you are asked to clock in, follow these steps:
 ### Qrun your twin
 
 
-<img src="https://i.imgur.com/drivpK5.png" width=300 height=500>
+<img src="https://i.imgur.com/drivpK5.png" width=500 height=500>
 
 
