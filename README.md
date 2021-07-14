@@ -43,6 +43,7 @@ mote is an OS for edge IoT device.
 
 -----
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/851a6190-ffb1-461b-a7bc-c675d252038f.jpg.png" />
+-----
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/05/FB.png" />
 -----
 #### [fbuilder](https://snapcraft.io/fbuilder)
