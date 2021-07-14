@@ -105,11 +105,6 @@ The Mote Browser.
 * [MoteChat API](https://github.com/motebus/ultrabook/blob/main/Mote/MoteChat%20API.md)
 * [MoteBus-Error-Code](https://github.com/motebus/ultrabook/blob/main/Mote/MoteBus-Error-Code.md)
 
-### Mote Sphere
-* [moted-install](https://github.com/motebus/ultrabook/blob/main/Mote/moted-install.md)
-
-
-
 ## Qbix
 
 ### Qbix Application Notes
