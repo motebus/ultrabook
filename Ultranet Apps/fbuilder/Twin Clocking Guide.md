@@ -10,7 +10,7 @@ If you are asked to clock in, follow these steps:
 <img src="https://i.imgur.com/i8YrWeI.jpg" width=1000 height=700>
 <img src="https://i.imgur.com/dgwFKdL.png" width=700 height=700>
 
-* Drag in an  <img src="https://i.imgur.com/dcq5SnC.png" width=100 height=30> node &  it becomes <img src="https://i.imgur.com/UOdTwVI.png" width=100 height=30> in the workspace and 
+* Drag in an  <img src="https://i.imgur.com/dcq5SnC.png" width=100 height=30> node, it becomes <img src="https://i.imgur.com/UOdTwVI.png" width=100 height=40> in the workspace 
 * Drag an **Payload** node from the left column.
 * Connect the **Inject** node to the input end of the **Payload** node (left). 
 * Double click the **Payload** node and type the following string into the second input line with an e-mail icon.
