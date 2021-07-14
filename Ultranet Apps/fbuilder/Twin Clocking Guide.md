@@ -25,6 +25,7 @@ If you are asked to clock in, follow these steps:
 ### Each Node contents
 #### timestamp
 *
+
 #### Payload
 <img src="https://i.imgur.com/1M8lEsY.png" width=500 height=500> 
 
@@ -37,6 +38,17 @@ If you are asked to clock in, follow these steps:
     "bot": "pinponboy"
 }
 ```
+for the second payload
+```
+{
+    "type": "message", 
+    "content": "xxxxx clocking", 
+    "bot": "pinponboy"
+}
+```
+* Replace xxxxx with your English name
+
 #### Send
+
 #### Debug
 
