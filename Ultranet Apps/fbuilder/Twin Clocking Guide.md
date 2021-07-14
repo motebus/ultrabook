@@ -7,7 +7,7 @@ If you are asked to clock in, follow these steps:
 * 1 Click <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button in the top right corner and select Create a new Project. 
 * In project details: type "twin" for Name.
 ![image](https://i.imgur.com/i8YrWeI.jpg)
-![image]()
+![image](https://i.imgur.com/dgwFKdL.png)
 * 2 Drag in an **Inject** node and a **Payload** node from the left column.
 * 3 Connect the **Inject** node to the input end of the **Payload** node (left). 
 * 4 Double click the **Payload** node and type the following string into the second input line with an e-mail icon.
