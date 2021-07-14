@@ -1,16 +1,19 @@
-# Flow Introduction
+# Jujue Flow Introduction
 
 **Introduction**
   
-Flow is a practical, powerful, and user-friendly function flow package, in which YPCloud build many strong flow function with precise logic node series. It conclude different function flow, like smartscreen, motechat, and clocking in flow...etc.
+Jujue Flow is a practical, powerful, and user-friendly function flow package, in which YPCloud has built many strong flows following a precise logic. It includes flows with different functions, like sending content to smartscreen, using motechat, clocking in, and more.
   
 **Noun Cleaness**
   
-First of all, the word “ flow “ means the series of nodes that connected one by one  to achieve certain kind of to function.( for example, clocking in flow is used to do the clocking in., and we use series of node connected each other one by one
-  
+First of all, the word “ flow “ refers to a single series of nodes connected to one another that achieves a certain function. 
+More formally, the word "flow" is used describe a tab in the fBuilder/Node-RED editor workspace. These tabs are the main way to organise nodes in a project. (The default name for a tab in a new project is "Flow 1").
+However, in YPCloud ultrabook documentation, "flow" is mostly used in the informal sense, to refer to a single collection of nodes. 
 
-Next , “jujue flow “ is actually a package name of the set of different flow, instead of certain kind of flow.name. In YPclould , it sometime call jujue too. So you would see  “jujue “ in the flow library but hear someone call it jujueflow. Keep in mind that  they are same thing.
-  
+Technically, a flow(tab) can contain multiple flows (series of connected nodes). 
+
+Next, “Jujue flow “ is actually a package of multiple flows with a variety of functions. It can be found in the flow library simply as "Jujue", but is otherwise referred to as "Jujue flow". 
+
 **Load Flow**
 So if you now are interested in jujue(flow), you first click right icon (sign in icon) on the right top corner of jujue browser web page and sign in the jujue account.
 
