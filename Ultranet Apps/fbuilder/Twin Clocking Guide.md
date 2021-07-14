@@ -24,7 +24,7 @@ If you are asked to clock in, follow these steps:
  
 ### Each Node contents
 
-* Double click on every node to modify contents
+* Double click on every node to modify each content
 
 #### timestamp
 
@@ -66,6 +66,8 @@ If you are asked to clock in, follow these steps:
 * Replace xxxxx with your English name
 
 #### Send
+
+* For send content
 
 <img src="https://i.imgur.com/qzP16RF.png" width=700 height=300> 
 
