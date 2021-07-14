@@ -6,8 +6,8 @@ If you are asked to clock in, follow these steps:
 
 * 1 Click <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button in the top right corner and select Create a new Project. 
 * 2 In project details: type "twin" for Name & QName.
-![image](https://i.imgur.com/i8YrWeI.jpg)
-![image](https://i.imgur.com/dgwFKdL.png)
+<img src="https://i.imgur.com/i8YrWeI.jpg" width=300 height=300>
+<img src="https://i.imgur.com/dgwFKdL.png" width=300 height=300>
 * 3 Drag in an  <img src="https://i.imgur.com/dcq5SnC.png" width=100 height=30> node & it becomes <img src="https://i.imgur.com/dcq5SnC.png" width=100 height=30> in the workspace and drag an **Payload** node from the left column.
 * 4 Connect the **Inject** node to the input end of the **Payload** node (left). 
 * 5 Double click the **Payload** node and type the following string into the second input line with an e-mail icon.
