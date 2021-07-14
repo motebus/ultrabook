@@ -9,7 +9,9 @@ If you are asked to clock in, follow these steps:
 
 <img src="https://i.imgur.com/i8YrWeI.jpg" width=1000 height=700>
 <img src="https://i.imgur.com/dgwFKdL.png" width=700 height=700>
+
 ### Drag in nodes form the left column
+
 * Drag in an  <img src="https://i.imgur.com/dcq5SnC.png" width=100 height=40> node, it becomes <img src="https://i.imgur.com/UOdTwVI.png" width=100 height=40> in workspace. 
 * Drag an **Payload** node from the left column.
 * Connect the **Inject** node to the input end of the **Payload** node (left). 
