@@ -13,7 +13,7 @@ If you are asked to clock in, follow these steps:
 ### Drag in nodes form the left column to workspace
 
 * Drag in 4x <img src="https://i.imgur.com/dcq5SnC.png" width=100 height=30> node, they become <img src="https://i.imgur.com/UOdTwVI.png" width=100 height=40>
-* Drag in 2x Payload node
+* Drag in 2x Payload node,they become <img src="https://i.imgur.com/hpUnuGs.png" width=100 height=40>
 * Drag in 1x Send node
 * Drag in 1x Debug node
  
