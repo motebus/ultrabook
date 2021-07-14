@@ -87,13 +87,11 @@ If you are asked to clock in, follow these steps:
 
 <img src="https://i.imgur.com/Q6b3Ljd.png" width=300 height=50> 
 
-* Press the red "Deploy" button on the top right corner to deploy your flow
+* Press the red "Deploy" button on the top right corner to deploy your flow 
+* Press the small blue button in front of "initails" to inject the "timestamp" node for testing
+* If your Errmsg is "OK" after inject in the debug window on right hand side & you do see your message in the telegram clocking group it means testing success
 
 <img src="https://i.imgur.com/TBBg4ZD.png" width=300 height=500>
-
-* Press the small blue button in front of "initail" to inject the "timestamp" node
-
-* If your Errmsg is "OK" in the debug window on right hand side & you do see your message in the telegram clocking group it means success
 
 ### Qrun your twin
 
