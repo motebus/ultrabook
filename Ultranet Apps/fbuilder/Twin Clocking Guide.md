@@ -80,6 +80,8 @@ If you are asked to clock in, follow these steps:
 
 ### Deploy & inject your initial timestamp 
 
+<img src="https://i.imgur.com/Q6b3Ljd.png" width=300 height=100> 
+
 ### Qrun your twin
 
 
