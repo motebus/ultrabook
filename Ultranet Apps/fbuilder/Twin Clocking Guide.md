@@ -17,6 +17,11 @@ If you are asked to clock in, follow these steps:
 * Drag in 1x <img src="https://i.imgur.com/1664YQI.png" width=100 height=30> node, it becomes <img src="https://i.imgur.com/BUNoE2p.png" width=100 height=30>
 * Drag in 1x <img src="https://i.imgur.com/6vCZIev.png" width=100 height=30> node, it becomes <img src="https://i.imgur.com/ocPKneJ.png" width=120 height=40>
  
+ ### Connect nodes
+ <img src="https://i.imgur.com/uDfxHLv.png" width=700 height=700>
+ 
+ ### Node contents
+ 
 * Double click the **Payload** node and type the following string into the second input line with an e-mail icon.
 ```
 {
