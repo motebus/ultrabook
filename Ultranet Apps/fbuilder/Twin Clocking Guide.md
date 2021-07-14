@@ -69,7 +69,7 @@ If you are asked to clock in, follow these steps:
 
 * For send content
 
-<img src="https://i.imgur.com/qzP16RF.png" width=700 height=300> 
+<img src="https://i.imgur.com/qzP16RF.png" width=700 height=200> 
 
 #### Debug
 
