@@ -41,7 +41,7 @@ A web-based screening service.The display contents can be manipulated by Jujue, 
 * [SmartScreen User Guide](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/SmartScreen%20User%20Guide.md)
 
 -----
-<img align="left" width="100" height="70" src="https://i.imgur.com/5rrq8ur.png" />
+<img align="left" width="100" height="50" src="https://i.imgur.com/5rrq8ur.png" />
 
 #### [Jboard](https://snapcraft.io/jboard)
 A service that display contents can be create by Jbuilder & display your digital dashboards and display boards from anywhere with JBoard
