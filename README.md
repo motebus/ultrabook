@@ -26,7 +26,7 @@
 ### Ultra Apps
 
 ----
-<img align="left" height="60" src="https://i.imgur.com/D0BZj5F.png" />
+<img align="left" height="50" src="https://i.imgur.com/D0BZj5F.png" />
 
 #### [app-jujue](https://snapcraft.io/app-jujue)
 The Mote Browser. 
