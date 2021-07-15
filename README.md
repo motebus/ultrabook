@@ -48,7 +48,7 @@ A service that display contents can be create by Jbuilder & display your digital
 * [Browser](https://jboard.ypcloud.com/)
 
 -----
-<img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/08/sphere_256x256.png" />
+<img align="left" height="70" src="https://i.imgur.com/r4vWzir.png" />
 
 #### [Sphere](https://snapcraft.io/sphere)
 It acts as the domain controller to your IoT Edge device, providing layers of protection to your data and MoteBus IoT messages
