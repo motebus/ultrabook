@@ -26,17 +26,17 @@
 ### Ultra Apps
 
 ----
-<img align="left" height="70" src="https://i.imgur.com/D0BZj5F.png" />
+<img align="left" height="50" src="https://i.imgur.com/D0BZj5F.png" />
 
 #### [app-jujue](https://snapcraft.io/app-jujue)
 The Mote Browser. 
 *  [Browser](https://jujue.app/browser)
 
 -----
-<img align="left" width="100" height="70" src="https://i.imgur.com/Jl3YyH9.png" />
+<img align="left" width="100" height="50" src="https://i.imgur.com/Jl3YyH9.png" />
 
 #### [Smartscreen](https://snapcraft.io/smartscreen)
-A web-based screening service.The display contents can be manipulated by Jujue, uBot by Node-Red, and @SmartScreenBot by telegram
+A service that display contents can be manipulated by uBot by Node-Red, and @SmartScreenBot by telegram
 
 * [SmartScreen User Guide](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/SmartScreen%20User%20Guide.md)
 
