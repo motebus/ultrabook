@@ -54,14 +54,14 @@ A service that display contents can be create by Jbuilder & display your digital
 It acts as the domain controller to your IoT Edge device, providing layers of protection to your data and MoteBus IoT messages
 
 -----
-<img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/08/7A7FE9FD-366E-43A5-8006-69EDFFF2548E.jpeg.png" />
+<img align="left" height="70" src="https://i.imgur.com/MkxyTen.png" />
 
 #### [moted](https://github.com/motebus/moted-snap/releases)
 moteOS Background Services
 * [moted-install](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/moted-install.md)
 
 -----
-<img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/1a90ef56-7301-4f38-bfaa-04407c1ed523.jpg.png" />
+<img align="left" height="70" src="https://i.imgur.com/5G5UVCX.png" />
 
 #### [mote](https://snapcraft.io/mote)
 mote is an OS for edge IoT device
