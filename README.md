@@ -130,7 +130,7 @@ logmms is a logging system service for your EI device.
 ## OTSI
 
 ### Installation
-* [AnyRoom Installation and Setup](https://github.com/motebus/ultrabook/blob/main/OTSI/AnyRoom%20Installation%20and%20Setup.md)
+* [Installation for A](https://github.com/motebus/ultrabook/blob/main/OTSI/AnyRoom%20Installation%20and%20Setup.md)
 
 ### Configuration
 
