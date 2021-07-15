@@ -96,7 +96,7 @@ Connecting your EI device to keyboards, mice, speakers/headsets, sensors, etc.
 fbots is a microservice system digital worker for managing autoscaling configurations.
 
 -----
-<img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/03/fbuilder.jpeg_IMnAKHn.png" />
+<img align="left" height="70" src="https://i.imgur.com/YCMbFyz.png" />
 
 #### [flowbot](https://snapcraft.io/flowbot)
 Flow designer based on node-red with motechat config nodes.
