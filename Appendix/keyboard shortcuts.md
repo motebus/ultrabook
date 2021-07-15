@@ -13,3 +13,4 @@
 <br>In Terminal mode:
 <br>`Ctrl`+`Shift`+`C`--->copy
 <br>`Ctrl`+`Shift`+`V`--->paste
+9. "田" or win format button ---> view over all using application
