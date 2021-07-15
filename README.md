@@ -43,7 +43,7 @@ A web-based screening service.The display contents can be manipulated by Jujue, 
 <img align="left" height="70" src="https://i.imgur.com/5rrq8ur.png" />
 
 #### [Jboard](https://snapcraft.io/jboard)
-
+A service that display contents can be create by Jbuilder
 * [Browser](https://jboard.ypcloud.com/)
 
 -----
