@@ -72,7 +72,7 @@ mote is an OS for edge IoT device
 #### [fbuilder](https://snapcraft.io/fbuilder)
 A flow-based visual programming tool for easily deploying microservices and creating IoT control management systems.
 
-* fBuilder：[fbuilder.ypcloud.com](http://fbuilder.ypcloud.com/login)
+* [fbuilder.ypcloud.com](http://fbuilder.ypcloud.com/login)
 * [fBuilder User Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fbuilder/fbuilder%20User%20Guide.md)
 
 -----
