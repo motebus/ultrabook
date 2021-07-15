@@ -43,8 +43,7 @@ A web-based screening service.The display contents can be manipulated by Jujue, 
 <img align="left" height="70" src="https://i.imgur.com/5rrq8ur.png" />
 
 #### [Jboard](https://snapcraft.io/jboard)
-A service that display contents can be create by Jbuilder
-Display your digital dashboards and display boards from anywhere with JBoard
+A service that display contents can be create by Jbuilder & display your digital dashboards and display boards from anywhere with JBoard
 * [Browser](https://jboard.ypcloud.com/)
 
 -----
