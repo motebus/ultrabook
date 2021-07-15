@@ -69,6 +69,14 @@ If you are asked to clock in, follow these steps:
 #### Send
 
 * For send content
+* Fill in
+
+```
+>h3/msvc/comm-app
+```
+```
+ioc://-346930568
+```
 
 <img src="https://i.imgur.com/qzP16RF.png" width=800 height=300> 
 
