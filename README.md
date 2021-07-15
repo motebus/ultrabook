@@ -74,12 +74,6 @@ A web-based dashboard creator. Create dashboards for digital maintenance systems
 * [jBuilder User Guide](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/jBuilder%20User%20Guide.md)
 
 -----
-<img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/9d3a2da3-db74-42b0-875c-7754a328074a.jpg.png" />
-
-#### [logmms](https://snapcraft.io/logmms)
-logmms is a logging system service for your EI device. 
-
------
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/6381ab4a-7e9f-4a98-8749-7399c7485d2f.jpg.png" />
 
 #### [keybot](https://github.com/motebus/keybot-snap/releases)
@@ -98,6 +92,12 @@ fbots is a microservice system digital worker for managing autoscaling configura
 Flow designer based on node-red with motechat config nodes.
 
 -----
+<img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/9d3a2da3-db74-42b0-875c-7754a328074a.jpg.png" />
+
+#### [logmms](https://snapcraft.io/logmms)
+logmms is a logging system service for your EI device. 
+
+----
 
 ### Ultranet Application Notes
 * [portal](https://github.com/motebus/ultrabook/blob/main/Ultra/portal.md)
