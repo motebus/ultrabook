@@ -90,7 +90,7 @@ A web-based dashboard creator. Create dashboards for digital maintenance systems
 Connecting your EI device to keyboards, mice, speakers/headsets, sensors, etc. 
 
 -----
-<img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/7e65d1f7-8d79-4014-b970-056464ca6811.jpg.png" />
+<img align="left" height="70" src="https://i.imgur.com/4HI2jcC.png" />
 
 #### [fbots](https://snapcraft.io/fbots)
 fbots is a microservice system digital worker for managing autoscaling configurations.
