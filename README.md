@@ -80,7 +80,7 @@ A flow-based visual programming tool for easily deploying microservices and crea
 
 #### [jBuilder](https://snapcraft.io/jbuilder)
 A web-based dashboard creator. Create dashboards for digital maintenance systems, presentations, interactive kiosks, customised websites and more.
-* jBuilder：[jbuilder.ypcloud.com](https://jbuilder.ypcloud.com/)
+* [jbuilder.ypcloud.com](https://jbuilder.ypcloud.com/)
 * [jBuilder User Guide](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/jBuilder%20User%20Guide.md)
 
 -----
