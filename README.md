@@ -39,23 +39,23 @@ A web-based screening service.The display contents can be manipulated by Jujue, 
 * [SmartScreen User Guide](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/SmartScreen%20User%20Guide.md)
 
 -----
-<img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/1a90ef56-7301-4f38-bfaa-04407c1ed523.jpg.png" />
-
-#### [mote](https://snapcraft.io/mote)
-mote is an OS for edge IoT device.
-
------
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/08/sphere_256x256.png" />
 
 #### [Sphere](https://snapcraft.io/sphere)
-It acts as the domain controller to your IoT Edge device, providing layers of protection to your data and MoteBus IoT messages. 
+It acts as the domain controller to your IoT Edge device, providing layers of protection to your data and MoteBus IoT messages
 
 -----
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/08/7A7FE9FD-366E-43A5-8006-69EDFFF2548E.jpeg.png" />
 
 #### [moted](https://github.com/motebus/moted-snap/releases)
-moteOS Background Services.
+moteOS Background Services
 * [moted-install](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/moted-install.md)
+
+-----
+<img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/1a90ef56-7301-4f38-bfaa-04407c1ed523.jpg.png" />
+
+#### [mote](https://snapcraft.io/mote)
+mote is an OS for edge IoT device
 
 -----
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/05/FB.png" />
