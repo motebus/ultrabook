@@ -36,13 +36,14 @@ The Mote Browser.
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/08/smartscreen_256x256.png" />
 
 #### [Smartscreen](https://snapcraft.io/smartscreen)
-A web-based screening service.The display contents can be manipulated by Jujue, uBot by Node-Red, and @SmartScreenBot by telegram.
+A web-based screening service.The display contents can be manipulated by Jujue, uBot by Node-Red, and @SmartScreenBot by telegram
 * [SmartScreen User Guide](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/SmartScreen%20User%20Guide.md)
 
 -----
 <img align="left" height="70" src="https://i.imgur.com/5rrq8ur.png" />
 
 #### [Jboard](https://snapcraft.io/jboard)
+
 * [Browser](https://jboard.ypcloud.com/)
 
 -----
