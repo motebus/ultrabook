@@ -76,7 +76,7 @@ A flow-based visual programming tool for easily deploying microservices and crea
 * [fBuilder User Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fbuilder/fbuilder%20User%20Guide.md)
 
 -----
-<img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/851a6190-ffb1-461b-a7bc-c675d252038f.jpg.png" />
+<img align="left" height="70" src="https://i.imgur.com/p9jaFdK.png" />
 
 #### [jBuilder](https://snapcraft.io/jbuilder)
 A web-based dashboard creator. Create dashboards for digital maintenance systems, presentations, interactive kiosks, customised websites and more.
