@@ -5,4 +5,4 @@ Enter your playbook and find the ``host:`` line
 
 ## Step 2.
 Enter the group name you set up in the ansible inventory list.
-* Ex: host: shin(there is space between : & shin)
+* Ex: host: xxxx(there is space between : & xxxx)
