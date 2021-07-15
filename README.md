@@ -37,6 +37,7 @@ The Mote Browser.
 
 #### [Smartscreen](https://snapcraft.io/smartscreen)
 A web-based screening service.The display contents can be manipulated by Jujue, uBot by Node-Red, and @SmartScreenBot by telegram
+
 * [SmartScreen User Guide](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/SmartScreen%20User%20Guide.md)
 
 -----
