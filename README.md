@@ -67,7 +67,7 @@ moteOS Background Services
 mote is an OS for edge IoT device
 
 -----
-<img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/05/FB.png" />
+<img align="left" height="70" src="https://i.imgur.com/lWgj5Fr.jpg" />
 
 #### [fbuilder](https://snapcraft.io/fbuilder)
 A flow-based visual programming tool for easily deploying microservices and creating IoT control management systems.
