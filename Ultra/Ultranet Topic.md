@@ -90,7 +90,7 @@
 | portal://event | Create the event record into odoo | { "voucher":"(voucher of model)","act":"(tg id)","data":{"(model field)":"(data)"} }  | {ErrCode:0,ErrMsg:"OK",Reply} |
 | portal://cost  | Create the cost record  | { "voucher":"(voucher of model)","act":"(tg id)","data":{"(model field)":"(data)"} }  |{ErrCode:0,ErrMsg:"OK",Reply} |
 | portal://form  | Create detail data list of device or equipment into odoo |  { "voucher":"(voucher of model)","act":"(tg id)","data":{"(model field)":"(data)"} }  | {ErrCode:0,ErrMsg:"OK",Reply} |
-| query://model  | Query data  | { "voucher":"(voucher of model)","data":{"query_str":["(model field)","=","(data value)"],"query_rst":["(field name you want to query)"]} }   |   {ErrCode:0,ErrMsg:"OK",Reply{id:(id number),"(field name you typing)":"(data)"}} |
+| portal://query  | Query data  | { "voucher":"(voucher of model)","data":{"query_str":["(model field)","=","(data value)"],"query_rst":["(field name you want to query)"]} }   |   {ErrCode:0,ErrMsg:"OK",Reply{id:(id number),"(field name you typing)":"(data)"}} |
    
 ## Jujue
 
