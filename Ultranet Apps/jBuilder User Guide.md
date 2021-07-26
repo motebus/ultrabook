@@ -149,9 +149,8 @@ You can save your jBoard data in json format.
     1. Type`page://url` into the App Field.
     2. Enter `{"url":"https://xxx"}` into the Params field, replacing `https://xxx` with the actual url of the website. 
   - **YouTube Video**
-    1. Type`page://url` into the App Field.
-    2. Enter `{"url":"https://xxx"}` into the Params field, replacing `https://xxx` with the url of your video.
-       Note: Use the address bar url, e.g. https://www.youtube.com/watch?v=VIDEOID, not the video sharing link https://youtu.be/VIDEOID. 
+    1. Enter the Youtube url of your video into the App Field.
+       Note: Use the standard address bar url, e.g. https://www.youtube.com/watch?v=VIDEOID. Other formats sych as the video sharing link https://youtu.be/VIDEOID, or playlist links will not work in panel-frames. 
   - **Image**
     1. Type `page://image` into the App Field.
     2. Enter `{"url":"https://xxx"}` into the Params field, replacing `https://xxx` with your image address. 
@@ -175,6 +174,8 @@ You can save your jBoard data in json format.
     2. Enter `{"url":"https://xxx"}` into the Params field, replacing `https://xxx` with the url of the brick.
     See the jboard with the QName jbrick and go to https://git.page/jj/board?qname=jbrick for bricks demo. <br>
     ![](https://i.imgur.com/xXEWyUx.png)
+    
+    
  #### Dashboard panels customised with fBuilder
   - **Cloud Room Display** 
     * Type `page://room` into the App Field and enter `{"tag":"TAG"}` into the Params field, replacing `TAG` with your own room flow tag or 
@@ -233,7 +234,7 @@ A jBoard TV channel is a dock page with a playlist collection of Youtube Videos.
 <img src="https://i.imgur.com/CUizWx7.png" width=550 height=400>
 
 4. Assign a title to the video. (This title will only be visible in jBuilder Dock Builder)
-5. Enter the Youtube video URL to the `Url` Field. 
+5. Enter the Youtube video URL to the `Url` Field. Various Youtube URL formats are all accepted, such as https://www.youtube.com/watch?v=VIDEOID or https://youtu.be/VIDEOID. <br> However, please note that functions such as specific start/end time in the URL will not be available. Any link such as https://www.youtube.com/watch?v=VIDEOID&t=TIMESTAMP or https://www.youtube.com/watch?v=VIDEOID&list=PlaylistID etc. will simply be shown on the jBoard as https://www.youtube.com/watch?v=VIDEOID. <br> If you wish to include a playlist (that will autoplay by default), use the link for the complete playlist, e.g. https://www.youtube.com/playlist?list=PlaylistID. 
 6. Leave the `Use thumbnail` checkbox as the default setting, or unselect the checkbox and use the `Icon Url` field to replace the video thumbnail with an image of your choice. 
 7. Repeat steps 3-6 as many times as desired. 
 8. Hit Confirm after you are done.
