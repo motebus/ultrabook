@@ -44,11 +44,11 @@ Simply send images, Youtube videos, and urls from your Telegram-app.
 4. Key in "/pin" to set the SmartScreen display(s) to be connected. Enter your SmartScreen name or tag. 
 
 5. Send your content (photo, video, file or url, ect.). If you'd like, you can also add a caption to it. 
-* If @SmartScreen bot pings back “Dropped”, your content should be successfully displayed on your SmartScreen display!
+### If @SmartScreen bot replies back “Dropped”, means your content should be successfully displayed on your SmartScreen!
 ![](https://i.imgur.com/79dAUEf.jpg)
 
 
-* If it shows “DDN off”, it means you are not connected to your SmartScreen display. 
+### If it replies “DDN off”, means you are not connected to your SmartScreen. 
 ![](https://i.imgur.com/9xzqiqJ.jpg)
 
-  - If you want to drop video through command /pin, make sure that you have already turned your video into mp4 file.
+  ### If you want to drop video through command /pin, make sure that you have already turned your video into "mp4" file.
