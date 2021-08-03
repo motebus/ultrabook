@@ -5,11 +5,11 @@ A jBoard consists of a series of individual boards combined on a dock menu, each
 
 You can navigate between dock pages from the dock menu at the bottom of a jBoard. 
 
-Example of an indivudal board created with jBuilder:
+## Example of an indivudal board created with jBuilder:
 
 ![](https://i.imgur.com/aISUXNM.png)
 
-An example of a jBoard with a dock: 
+## An example of a jBoard with a Dock: 
 
 ![](https://i.imgur.com/gBYGHpz.png)
 
