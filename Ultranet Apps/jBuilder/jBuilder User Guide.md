@@ -105,7 +105,7 @@ When naming and saving your jBoard in Dock Builder, you can also select whether 
 - Tools shortcut menu: a default bookmark list of applications such as Jujue, Google Meet, Miro (online whiteboard), and HackMD. 
 - Collection shortcut menu: quick access to other jBoards. jBoards can be grouped together in a Collection. 
 
-### View/Display a jBoard 
+### View or Display a jBoard 
 There are 2 ways to view your design results and display your board/jBoard: 
 * View in json format, then open in a new window 
   1. Click on the <img src="https://i.imgur.com/9f04Grd.png" width=30 height=30> icon to go to view data in json format 
