@@ -1,4 +1,4 @@
-### Add Board content
+### Adding Board content
 <img src="https://i.imgur.com/6OoYgUK.png">
 
 1. Click on the <img src="https://i.imgur.com/J4a1Laa.png" width=30 height=30> icon in the upper right hand corner to add a new panel.
