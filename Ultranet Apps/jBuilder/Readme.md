@@ -40,7 +40,7 @@ The board grid serves as the framework for the board’s layout and helps us man
 Next to this on the top tool bar, is <img src="https://i.imgur.com/BwmKrTz.png" width=33 height=30> which leads to Dock Builder. 
 
 The icons at the right of the top tool bar have the following functions:
-* Save board <img src="https://i.imgur.com/TJUZUG1.png" width=35 height=30>
+* Save board <img src="https://i.imgur.com/TJUZUG1.png" width=35 height=30> icon will not be visible until you have begun editing your board/Dock
 * Add new panel <img src="https://i.imgur.com/J4a1Laa.png" width=30 height=30>
 * Refresh workspace to start a new board <img src="https://i.imgur.com/0EQSXdh.png" width=30 height=30>
 * View board in json format <img src="https://i.imgur.com/9f04Grd.png" width=30 height=30>
@@ -53,10 +53,10 @@ The icons at the right of the top tool bar have the following functions:
 In the top left corner, the <img src="https://i.imgur.com/HopFYkU.png" width=35 height=30> icon on the tool bar leads back to the default jBuilder work area.
 
 Icons at the right of the top tool bar have the following functions: 
-* Save jBoard <img src="https://i.imgur.com/TJUZUG1.png" width=35 height=30>
+* Save Dock <img src="https://i.imgur.com/TJUZUG1.png" width=35 height=30> icon will not be visible until you have begun editing your board/Dock
 * Open Dock library list <img src="https://i.imgur.com/BwmKrTz.png" width=33 height=30> 
-* Refresh workspace to start a new jBoard <img src="https://i.imgur.com/0EQSXdh.png" width=30 height=30>
-* View jBoard in json format <img src="https://i.imgur.com/9f04Grd.png" width=30 height=30>
+* Refresh workspace to start a new Dock <img src="https://i.imgur.com/0EQSXdh.png" width=30 height=30>
+* View Dock in json format <img src="https://i.imgur.com/9f04Grd.png" width=30 height=30>
 * Logout from your account <img src="https://i.imgur.com/EvC18xA.png" width=32 height=30>
 
 Below the tool bar, at the top of the work area is the header. There is no header by default, but if you wish to add one, click <img src="https://i.imgur.com/6biIEa1.png" width=31 height=30> to edit. 
