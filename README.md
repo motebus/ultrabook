@@ -69,7 +69,7 @@ mote is an OS for edge IoT device
 -----
 <img align="left" width="70" height="70" src="https://i.imgur.com/lWgj5Fr.jpg" />
 
-#### [fbBilder](https://snapcraft.io/fbuilder)
+#### [fBilder](https://snapcraft.io/fbuilder)
 A flow-based visual programming tool for easily deploying microservices and creating IoT control management systems.
 
 * [fbuilder.ypcloud.com](http://fbuilder.ypcloud.com/login)
