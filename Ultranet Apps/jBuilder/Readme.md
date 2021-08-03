@@ -38,7 +38,7 @@ The icons at the right of the top tool bar have the following functions:
 * Logout from your account <img src="https://i.imgur.com/EvC18xA.png" width=32 height=30>
 
 ## Dock Builder UI
-![](https://i.imgur.com/NOzmfEH.png)
+![](https://i.imgur.com/ShWoIiB.png)
 
 In the top left corner, the <img src="https://i.imgur.com/HopFYkU.png" width=35 height=30> icon on the tool bar leads back to the default jBuilder work area.
 
