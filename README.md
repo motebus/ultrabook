@@ -13,8 +13,8 @@
 ---
 
 ### Ultra Post
-#### Head to [UltraPost](https://ultrapost.ypcloud.com/)
-[Ultranet Bridge](https://github.com/motebus/ultrabook/blob/main/Ultra/Ultranet%20Bridge.md)
+#### [UltraPost](https://ultrapost.ypcloud.com/)
+
 
 ---
 
