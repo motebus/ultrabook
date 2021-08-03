@@ -18,7 +18,7 @@ There are two main work areas involved in jBuilder. <br>
 In the default jBuilder work area you create individual boards, then move on to the Dock Builder work area to combine a series of boards to create a complete jBoard.
 
 ### How to access Dock Builder: 
-From the default jBuilder work area, click on the <img src="https://i.imgur.com/BwmKrTz.png" width=33 height=30> icon on the top left hand corner to go to Dock Builder. <br>
+From the default jBuilder work area, click on the <img src="https://i.imgur.com/BwmKrTz.png" width=33 height=30> icon on the top left corner to go to Dock Builder. <br>
 To leave Dock Builder and return to jBuilder, click the <img src="https://i.imgur.com/HopFYkU.png" width=35 height=30> icon. 
 
 ## jBuilder Work Area UI
