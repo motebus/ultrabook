@@ -62,6 +62,6 @@ Below the tool bar, at the top of the work area is the header. There is no heade
 <img src="https://i.imgur.com/H3vXPgP.png" width=760 height=200>
 
 - Public list and private list
-- Edit Qname & name of dock
 - Delete
 - Clone
+- Edit Qname & name 
