@@ -1,4 +1,4 @@
-### Copy and Pasting board or Dock Data 
+### Copy and Pasting Board or Dock Data 
 You can save your jBoard data in json format. 
 1. Click on the icon on the upper right hand corner <img src="https://i.imgur.com/9f04Grd.png" width=30 height=30> to go to view data in json format. 
 2. Then click on the <img src="https://i.imgur.com/g8XRamN.png" width=35 height=30> icon to copy the json format data.
