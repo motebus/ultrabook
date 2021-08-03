@@ -44,7 +44,7 @@ In the top left corner, the <img src="https://i.imgur.com/HopFYkU.png" width=35 
 
 Icons at the right of the top tool bar have the following functions: 
 * Save jBoard <img src="https://i.imgur.com/TJUZUG1.png" width=35 height=30>
-* Open jBoard library list <img src="https://i.imgur.com/BwmKrTz.png" width=33 height=30> 
+* Open Dock library list <img src="https://i.imgur.com/BwmKrTz.png" width=33 height=30> 
 * Refresh workspace to start a new jBoard <img src="https://i.imgur.com/0EQSXdh.png" width=30 height=30>
 * View jBoard in json format <img src="https://i.imgur.com/9f04Grd.png" width=30 height=30>
 * Logout from your account <img src="https://i.imgur.com/EvC18xA.png" width=32 height=30>
