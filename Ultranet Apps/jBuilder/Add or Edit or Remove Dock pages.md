@@ -24,9 +24,6 @@
 1. Click the <img src="https://i.imgur.com/6biIEa1.png" width=31 height=30> edit icon on the top right corner of the existing board.
 2. Select the board you want from the board library list.
 
-#### Remove a board from a dock page
-1. Click on the <img src="https://i.imgur.com/IKBMLKZ.png" width=35 height=30> icon on the top left corner of the existing board.
-
 #### Remove a dock page
 There are two ways to remove a dock page:
 * Remove any existing boards, then click the <img src="https://i.imgur.com/M275YXb.png" width=33 height=30> icon in the middle of the empty page. 
