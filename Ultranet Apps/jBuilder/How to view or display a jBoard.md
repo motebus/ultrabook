@@ -1,3 +1,4 @@
+### View or Display a jBoard
 There are 2 ways to view your design results and display your board/jBoard: 
 * View in json format, then open in a new window 
   1. Click on the <img src="https://i.imgur.com/9f04Grd.png" width=30 height=30> icon to go to view data in json format 
