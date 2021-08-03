@@ -1,4 +1,4 @@
-### Create a TV Channel Dock Page
+### Create a TV Channel on Dock
 A jBoard TV channel is a dock page with a playlist collection of Youtube Videos.
 1. Add a new dock page, assigning its title and icons like usual.
 2. Select the `As Tv Channel` checkbox. 
