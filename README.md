@@ -8,7 +8,7 @@
 
 ## <h2 id="1">Ultra</h2>
 ### Ultra Desk
-#### [Hello Ultranet](https://github.com/motebus/ultrabook/blob/main/Ultra/Welcome%20to%20UltraDesk.md)
+#### [Welcome UltraDesk](https://github.com/motebus/ultrabook/blob/main/Ultra/Welcome%20to%20UltraDesk.md)
 
 ---
 
