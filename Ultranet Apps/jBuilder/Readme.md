@@ -1,4 +1,4 @@
-# What is a jBoard
+## What is a jBoard
 With jBuilder you can create jBoards that can be used as digital display boards or digital dashboards.
 
 A jBoard consists of a series of individual boards combined on a dock menu, each having their own dock page. 
@@ -51,8 +51,11 @@ Icons at the right of the top tool bar have the following functions:
 
 Below the tool bar, at the top of the work area is the header. There is no header by default, but if you wish to add one, click <img src="https://i.imgur.com/6biIEa1.png" width=31 height=30> to edit. 
 
-## Board/Dock Library List
+## Board Library List
+<img src="https://i.imgur.com/gD2OhRz.png" width=760 height=100>
 - Public list and private list
-- Edit Dock name and qname
 - Delete
 - Clone
+
+## Dock Library List
+<img src="https://i.imgur.com/H3vXPgP.png" width=760 height=200>
