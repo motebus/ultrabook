@@ -53,6 +53,7 @@ Below the tool bar, at the top of the work area is the header. There is no heade
 
 ## Board Library List
 <img src="https://i.imgur.com/gD2OhRz.png" width=760 height=150>
+
 - Public list and private list
 - Delete
 - Clone
