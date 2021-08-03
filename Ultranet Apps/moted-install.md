@@ -1,4 +1,4 @@
-# Moted Install
+# moted Install
 
 ## 1. Login Github
 URL: <https://github.com/motebus/moted-snap/releases>
