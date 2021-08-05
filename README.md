@@ -2,7 +2,6 @@
 * [Ultra](#1)
 * [Mote](#3)
 * [Qbix](#qbix)
-* [Jujue](#jujue)
 * [Appendix](#appendix)
 
 
@@ -123,9 +122,6 @@ logmms is a logging system service for your EI device.
 * [motebus and mpodman](https://github.com/motebus/ultrabook/blob/main/Qbix/motebus%20and%20mpodman.md)
 * [qbixctl](https://github.com/motebus/ultrabook/blob/main/Qbix/qbixctl.md)
 * [qman](https://github.com/motebus/ultrabook/blob/main/Qbix/qman.md)
-
-## Jujue
-
 
 ## OTSI
 
