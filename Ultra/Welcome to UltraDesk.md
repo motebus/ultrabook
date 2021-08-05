@@ -42,7 +42,7 @@ First, we need to set up our own working space.
 
 ### fBuilder
 1. Sign in your Jujue account and open fBuilder.
-2. Follow the [Tutorials](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/Twin%20clocking%20in%20Guide.md) to create a simple flow that clocks-in to the Telegram channel clockin://c21 four times a day (09:00, 12:00, 18:00, and 00:00).
+2. Follow the Tutorials to create a simple flow that clocks-in to the Telegram channel clockin://c21 four times a day (09:00, 12:00, 18:00, and 00:00).
 
 ### jBuilder
 1. Sign in your Jujue account and open jBuilder.
