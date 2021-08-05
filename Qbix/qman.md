@@ -38,8 +38,8 @@ Including qociman, mote and mpodman, you can use type to determine which softwar
     "name": "",  //user name
     "token": "",  //token
     "site_name": "",  //location of site
-    "qbix_type": "",  //"qbix", "snap", "qoci", "mpod"
-    "app": ""  //"fbots", "ibuilder", "mlflow"
+    "qbix_type": "",  //"qbix" "snap" "qoci" "mpod"
+    "app": ""  //"fbots" "ibuilder" "mlflow"
 }
 ```
 ### qman://delete
