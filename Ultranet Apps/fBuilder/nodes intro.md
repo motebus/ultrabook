@@ -16,8 +16,8 @@
 * [call](#call)
 * [switch](#switch)
 * [debug](#debug)
-* [onevent](#onevent)
-* [linkin](#linkin)
+* [on/ret event](#1)
+* [link in](#2)
 
 
 ### inject
@@ -36,6 +36,8 @@
 
 ### debug
 
-### onevent
+## <h2 id="1">Ultra</h2>
+### on/ret event
 
-### linkin
+## <h2 id="2">Ultra</h2>
+### link in/out
