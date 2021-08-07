@@ -16,8 +16,8 @@
 * [call](#call)
 * [switch](#switch)
 * [debug](#debug)
-* [on & ret event](#on & ret event)
-* [link in & out](#link in & out)
+* [on ret event](#on ret event)
+* [link in out](#link in out)
 
 
 ### inject
@@ -36,6 +36,6 @@
 
 ### debug
 
-### on & ret event
+### on ret event
 
-### link in & out
+### link in out
