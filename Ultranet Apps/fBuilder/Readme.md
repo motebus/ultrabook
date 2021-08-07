@@ -13,5 +13,5 @@ Flow Builder (fBuilder) is a low-code programming environment developed by YPClo
   *  <img src="https://i.imgur.com/UHPdPPh.png" width=200 height=250> 
   ### <img src="https://i.imgur.com/BZNT7Ak.png" width=30 height=30>
   * For help of nodes  
-  * Example
-  * 
+  * Examples:
+  * <img src="https://i.imgur.com/s82Kq0t.png" width=200 height=600> <img src="https://i.imgur.com/s82Kq0t.png" width=200 height=600> 
