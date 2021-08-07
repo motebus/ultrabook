@@ -5,5 +5,4 @@
 * 4. Can use "ctrl+c" & "ctrl+v" to copy/paste nodes
 
 ## nodes table
-* inject 
-
+* [https://i.imgur.com/CLSpzfz.png]
