@@ -5,7 +5,7 @@
 * 4. Do Remember to press the red "Deploy" before debug/leaving page else changes won't get save
 * 5. As an example <img src="https://i.imgur.com/7KWSIGM.png" width=120 height=50> 
     * if the "red triangle" appears means there's bug in json code 
-    * if the "blue circle" appears means the node is not Deployed yet click the <img src="https://i.imgur.com/SbNMST5.png" width=120 height=50> 
+    * if the "blue circle" appears means the node is not Deployed yet click the <img src="https://i.imgur.com/SbNMST5.png" width=120 height=30> 
 
 ## nodes table
 * [inject](#inject)
