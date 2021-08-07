@@ -8,19 +8,19 @@
     * if the "blue dot" appears means the node is not Deployed yet click <img src="https://i.imgur.com/SbNMST5.png" width=120 height=30> 
 
 ## Nodes table
-* [inject](#inject) 
-* [set](#set)
-* [payload](#payload)
-* [function](#function)
-* [send](#send)
-* [call](#call)
-* [switch](#switch)
-* [debug](#debug)
-* [on/ret event](#1)
-* [link in/out](#2)
+* [inject](#inject) <img src="https://i.imgur.com/CLSpzfz.png" width=120 height=40>
+* [set](#set) <img src="https://i.imgur.com/mrUJBKE.png" width=120 height=40>
+* [payload](#payload) <img src="https://i.imgur.com/XlbGGpk.png" width=120 height=40>
+* [function](#function) <img src="https://i.imgur.com/QX7O8PO.png" width=120 height=40>
+* [send](#send) <img src="https://i.imgur.com/LQ1jsMD.png" width=120 height=40>
+* [call](#call) <img src="https://i.imgur.com/cF7R86U.png" width=120 height=40>
+* [switch](#switch) <img src="https://i.imgur.com/UuE2qCf.png" width=120 height=40>
+* [debug](#debug) <img src="https://i.imgur.com/zdAEqm1.png" width=120 height=40>
+* [on/ret event](#1) <img src="https://i.imgur.com/6mbbHyl.png" width=120 height=40> & <img src="https://i.imgur.com/HCFQkIE.png" width=120 height=40>
+* [link in/out](#2) <img src="https://i.imgur.com/3B8FtrL.png" width=120 height=40> & <img src="https://i.imgur.com/ekxbsPo.png" width=120 height=40>
 
 
-### inject <img src="https://i.imgur.com/CLSpzfz.png" width=120 height=40>
+### inject 
 
 ### set
 
