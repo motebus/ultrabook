@@ -1,10 +1,10 @@
 # fBuilder User Guide
-*  [Basic Nodes intro](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/nodes%20intro.md)
+*  [Basic Nodes introduction](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/nodes%20intro.md)
 
 ## Introduction
 Flow Builder (fBuilder) is a low-code programming environment developed by YPCloud, and modelled off IBM’s Node-RED.When you launch a flow, the message travels down the chain of nodes until it reaches the end, with the output of one node being the input of the following node.
 
-## UI intro
+## UI Introduction
 <img src="https://i.imgur.com/V8hyXg5.png" width=1200 height=600>
 
 * For left hand side it's list of nodes you can use
@@ -28,3 +28,6 @@ Flow Builder (fBuilder) is a low-code programming environment developed by YPClo
   }
   return msg;
   ```
+  ### <img src="https://i.imgur.com/uJXy3dz.png" width=30 height=30> 
+  * For configuration
+  * * <img src="https://i.imgur.com/EU3SoQz.png" width=200 height=400> 
