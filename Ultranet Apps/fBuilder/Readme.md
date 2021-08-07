@@ -10,6 +10,11 @@ Flow Builder (fBuilder) is a low-code programming environment developed by YPClo
 * For left hand side it's list of nodes you can use
 * For workspace in the middle
   ### <img src="https://i.imgur.com/iOCKLDh.png" width=800 height=30>
+  * Includes flow tabs
+  * <img src="https://i.imgur.com/QSdg0nI.png" width=30 height=30> 
+   * * to add tabs
+  * <img src="https://i.imgur.com/xXm16T3.png" width=30 height=30> 
+  * * list of all tabs
 * For right hand side it's a flow manage window <img src="https://i.imgur.com/xEKRbxs.png" width=200 height=30>  
   ### <img src="https://i.imgur.com/yf4T3Be.png" width=30 height=30>  
   * Information of flows: Includes enable/disble flows 
