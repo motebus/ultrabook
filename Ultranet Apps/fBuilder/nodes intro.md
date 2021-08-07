@@ -3,7 +3,9 @@
 * 2. Can use mouse to frame up multi nodes for moving or copy/paste
 * 3. Can use "ctrl+c" & "ctrl+v" to copy/paste nodes
 * 4. Do Remember to press the red "Deploy" before debug/leaving page else changes won't get save
-* 5. <img src="https://i.imgur.com/7KWSIGM.png" width=120 height=50>  
+* 5. As an example <img src="https://i.imgur.com/7KWSIGM.png" width=120 height=50> 
+    * if the "red triangle" appears means there is bug in json code 
+    * if the "blue circle" appears means the node is not Deployed yet click the red button on the top right 
 
 ## nodes table
 * [inject](#inject)
