@@ -16,7 +16,7 @@ Flow Builder (fBuilder) is a low-code programming environment developed by YPClo
   * <img src="https://i.imgur.com/xXm16T3.png" width=30 height=30> list of all tabs
 ### For the top right corner 
   *  <img src="https://i.imgur.com/KCUock7.png" width=150 height=30> 
-  * You have to click the <img src="https://i.imgur.com/SbNMST5.png" width=120 height=30>  every time after editting your flow so the edit will be saved
+  * Need to click <img src="https://i.imgur.com/SbNMST5.png" width=120 height=30>  every time after editting your flow so the edit will be saved
   * Click <img src="https://i.imgur.com/LVwWqqI.png" width=30 height=30> for log out
   * <img src="https://i.imgur.com/w56SCE1.png" width=30 height=30> for list:
   * <img src="https://i.imgur.com/Ovl4J96.png" width=200 height=600>
