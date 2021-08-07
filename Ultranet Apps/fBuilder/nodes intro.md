@@ -1,4 +1,4 @@
-### TIPS
+## Tips
 * 1. For every node "double click" to edit content, and remember to press the red "Done" for each
 * 2. Can use mouse to frame up multi nodes for moving or copy/paste
 * 3. Can use "ctrl+c" & "ctrl+v" to copy/paste nodes
