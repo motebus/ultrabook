@@ -4,8 +4,8 @@
 * 3. Can use "ctrl+c" & "ctrl+v" to copy/paste nodes
 * 4. Do Remember to press the red "Deploy" before debug/leaving page else changes won't get save
 * 5. As an example <img src="https://i.imgur.com/7KWSIGM.png" width=120 height=50> 
-    * if the "red triangle" appears means there is bug in json code 
-    * if the "blue circle" appears means the node is not Deployed yet click the red button on the top right 
+    * if the "red triangle" appears means there's bug in json code 
+    * if the "blue circle" appears means the node is not Deployed yet click the <img src="https://i.imgur.com/SbNMST5.png" width=120 height=50> 
 
 ## nodes table
 * [inject](#inject)
