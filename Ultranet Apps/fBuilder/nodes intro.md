@@ -20,7 +20,7 @@
 * [link in/out](#2)
 
 
-### inject <img src="https://i.imgur.com/CLSpzfz.png" width=120 height=50>
+### inject <img src="https://i.imgur.com/CLSpzfz.png" width=120 height=40>
 
 ### set
 
