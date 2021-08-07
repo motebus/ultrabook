@@ -17,7 +17,7 @@
 * [switch](#switch)
 * [debug](#debug)
 * [onevent](#onevent)
-* [linkin](#link in)
+* [linkin](#linkin)
 
 
 ### inject
@@ -38,4 +38,4 @@
 
 ### onevent
 
-### link in
+### linkin
