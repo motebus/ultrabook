@@ -15,14 +15,14 @@ Flow Builder (fBuilder) is a low-code programming environment developed by YPClo
   * <img src="https://i.imgur.com/xXm16T3.png" width=30 height=30> list of all tabs
 * For the top right corner <img src="https://i.imgur.com/KCUock7.png" width=150 height=30> 
 * For right hand side it's a flow manage window <img src="https://i.imgur.com/xEKRbxs.png" width=200 height=30>  
-  * <img src="https://i.imgur.com/yf4T3Be.png" width=30 height=30>  
+ * <img src="https://i.imgur.com/yf4T3Be.png" width=30 height=30>  
   * Information of flows: Includes enable/disble flows 
   * <img src="https://i.imgur.com/UHPdPPh.png" width=200 height=250> 
   * <img src="https://i.imgur.com/BZNT7Ak.png" width=30 height=30>
   * Help of nodes  
   * Examples:
   * <img src="https://i.imgur.com/s82Kq0t.png" width=200 height=600> <img src="https://i.imgur.com/ICqFXMv.png" width=200 height=600> <img src="https://i.imgur.com/uk6Nhu8.png" width=200 height=600> 
-  * <img src="https://i.imgur.com/hxlCBls.png" width=30 height=30> 
+ * <img src="https://i.imgur.com/hxlCBls.png" width=30 height=30> 
   * Debug of flows
   * Example:
   * <img src="https://i.imgur.com/u7tT20h.png" width=500 height=150>
@@ -34,9 +34,9 @@ Flow Builder (fBuilder) is a low-code programming environment developed by YPClo
   }
   return msg;
   ```
-  * <img src="https://i.imgur.com/uJXy3dz.png" width=30 height=30> 
+ * <img src="https://i.imgur.com/uJXy3dz.png" width=30 height=30> 
   * Configuration
   * <img src="https://i.imgur.com/EU3SoQz.png" width=200 height=300> 
-  * <img src="https://i.imgur.com/KB6AFa4.png" width=30 height=30> 
+ * <img src="https://i.imgur.com/KB6AFa4.png" width=30 height=30> 
   * Overall
   * <img src="https://i.imgur.com/MoOSTGu.png" width=200 height=200> 
