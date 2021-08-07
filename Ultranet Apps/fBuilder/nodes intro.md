@@ -8,7 +8,7 @@
     * if the "blue dot" appears means the node is not Deployed yet click <img src="https://i.imgur.com/SbNMST5.png" width=120 height=30> 
 
 ## Nodes table
-* [inject](#inject) <img src="https://i.imgur.com/CLSpzfz.png" width=100 height=30>
+* [inject](#inject) 
 * [set](#set)
 * [payload](#payload)
 * [function](#function)
@@ -20,7 +20,7 @@
 * [link in/out](#2)
 
 
-### inject
+### inject <img src="https://i.imgur.com/CLSpzfz.png" width=100 height=30>
 
 ### set
 
