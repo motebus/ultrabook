@@ -17,7 +17,7 @@
 * [switch](#switch)
 * [debug](#debug)
 * [on/ret event](#1)
-* [link in](#2)
+* [link in/out](#2)
 
 
 ### inject
