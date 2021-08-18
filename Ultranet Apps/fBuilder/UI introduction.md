@@ -22,7 +22,7 @@
   * <img src="https://i.imgur.com/yf4T3Be.png" width=30 height=30>  
   
   * Information of flows: Includes enable/disable flows 
-  * <img src="https://i.imgur.com/UHPdPPh.png" width=200 height=250> 
+  * <img src="https://i.imgur.com/UHPdPPh.png" width=230 height=250> 
   
   * <img src="https://i.imgur.com/BZNT7Ak.png" width=30 height=30>
   * Help of nodes  
