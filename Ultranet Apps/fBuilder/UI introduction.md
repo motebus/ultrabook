@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/V8hyXg5.png" width=1200 height=600>
 
 ### For left hand side it's list of nodes you can use
-  * Can't install other nodes from platte if you want to use other nodes not in list you need to try by Node-red itself  
+  * Can't install other nodes from palette if you want to use other nodes not in list you need to try by Node-red itself  
   
 ### For workspace in the middle
   * <img src="https://i.imgur.com/iOCKLDh.png" width=800 height=30>
@@ -20,7 +20,8 @@
 ### For right hand side it's a flow manage window 
   * <img src="https://i.imgur.com/xEKRbxs.png" width=200 height=30>  
   * <img src="https://i.imgur.com/yf4T3Be.png" width=30 height=30>  
-  * Information of flows: Includes enable/disble flows 
+  
+  * Information of flows: Includes enable/disable flows 
   * <img src="https://i.imgur.com/UHPdPPh.png" width=200 height=250> 
   
   * <img src="https://i.imgur.com/BZNT7Ak.png" width=30 height=30>
