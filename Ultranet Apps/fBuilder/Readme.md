@@ -7,7 +7,7 @@ Flow Builder (fBuilder) is a low-code programming environment developed by YPClo
 
 ## [Basic Nodes introduction](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/nodes%20intro.md)
 
-## [Sample Flows](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/Sample%20Flows.md)
+## [Sample Flows](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/Sample%20Flows/Readme.md)
 
 
 
