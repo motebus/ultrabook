@@ -1,7 +1,7 @@
 ## Tips
-* 1. For every node "double click" to edit content, and remember to press <img src="https://i.imgur.com/a1M9i9h.png" width=60 height=30> for each
-* 2. Can use mouse to frame up multi nodes for moving or copy/paste
-* 3. Can use "ctrl+c" & "ctrl+v" to copy/paste nodes
+* 1. For every node "double click" to edit content, and remember to press <img src="https://i.imgur.com/a1M9i9h.png" width=60 height=30> for each when finish
+* 2. Can use "ctrl+c" & "ctrl+v" to copy/paste nodes
+* 3. Can use mouse to frame up multi nodes for moving or copy/paste
 * 4. Do Remember to press the red "Deploy" before debug/leaving page else changes won't get save
 * 5. As an example <img src="https://i.imgur.com/7KWSIGM.png" width=120 height=50> 
     * if the "red triangle" appears means there's bug in json code 
