@@ -20,7 +20,11 @@
 * [link in/out](#2) <img src="https://i.imgur.com/3B8FtrL.png" width=120 height=40> & <img src="https://i.imgur.com/ekxbsPo.png" width=120 height=40>
 
 
+
+
 ### inject 
+* It's also known as a timestamp node as it can trigger on specific time
+* Usually the first node 
 
 ### set
 
