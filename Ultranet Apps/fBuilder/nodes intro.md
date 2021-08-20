@@ -22,7 +22,7 @@
 
 
 
-### inject 
+### inject <img src="https://i.imgur.com/CLSpzfz.png" width=110 height=30>
 * It's also known as a "timestamp" node as it can trigger on specific time
 * Usually the first node of a chain
 * After Deploying click the blue button on the left
