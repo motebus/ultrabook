@@ -27,21 +27,27 @@
 * It's also known as a "timestamp" node as it can trigger on specific time
 * Usually the first node of a chain
 * After Deploying click the blue button on the left of the node to trigger
-* The check box of inject once after 0.1/customize seconds means after Deploying it will auto inject once
+* The check box of inject once after 0.1/customize seconds means that after Deploying it will auto inject once
 * Repeat can customize the time to execute the chain repeatedly
 * <img src="https://i.imgur.com/ppCarhZ.png" width=500 height=700>
 
 ### set
-* To set the name of device (e.g. your container), set the “EiName” field to a name of your choice 
+* To set the name of device (e.g. your container), set the “EiName” field to a name you want
 * Then connect an inject node to the set node, deploy, and click the button 
 * Device is now set to that name
 * <img src="https://i.imgur.com/5N7rr5q.png" width=300 height=200>
 
 ### payload
+* To configure a payload that other Motechat devices can receive 
+* It's in JSON format
 
 ### function
 
 ### send
+* <img src="https://i.imgur.com/LQ1jsMD.png" width=110 height=30> => <img src="https://i.imgur.com/Y9R4kge.png" width=120 height=35>
+* To send payloads to other devices or channels. 
+* The Send node has two output ports: the top one is for successful sends and the bottom one is for errors
+ 
 
 ### call
 
