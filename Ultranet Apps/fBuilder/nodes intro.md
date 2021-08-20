@@ -18,7 +18,7 @@
 * [debug](#debug) <img src="https://i.imgur.com/zdAEqm1.png" width=110 height=30>
 * [comment](#comment) <img src="https://i.imgur.com/URNpYxU.png" width=110 height=30>
 * [on/ret event](#1) <img src="https://i.imgur.com/6mbbHyl.png" width=110 height=30> & <img src="https://i.imgur.com/HCFQkIE.png" width=110 height=30>
-* [link in/out](#2) <img src="https://i.imgur.com/3B8FtrL.png" width=110 height=30> & <img src="https://i.imgur.com/ekxbsPo.png" width=110 height=30>
+
 
 
 
@@ -75,6 +75,5 @@
 * It is used on a contanier to receive Motechat messages from other containers
 * These nodes are connected like this
 * <img src="https://i.imgur.com/6JCxVpb.png" width=450 height=120>
-     
-### <h3 id="2">link in/out</h3>
+
 
