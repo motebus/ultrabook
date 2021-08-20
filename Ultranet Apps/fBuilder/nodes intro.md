@@ -1,5 +1,5 @@
 ## Tips
-* 1. For every node "double click" to edit content, and remember to press <img src="https://i.imgur.com/a1M9i9h.png" width=60 height=30> for each when finish
+* 1. For every node "double click" to edit content, and remember to press <img src="https://i.imgur.com/a1M9i9h.png" width=60 height=25> for each when finish
 * 2. Can use "ctrl+c" & "ctrl+v" to copy/paste nodes
 * 3. Can use mouse to "frame up" multi nodes for moving or copy/paste
 * 4. Do Remember to click <img src="https://i.imgur.com/SbNMST5.png" width=100 height=25> before debug/leaving page else changes won't get saved, the button itself becomes blue after deploying
