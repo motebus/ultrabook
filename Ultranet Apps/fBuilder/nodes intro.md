@@ -65,7 +65,7 @@
 
 ### debug
 * <img src="https://i.imgur.com/zdAEqm1.png" width=110 height=30> => <img src="https://i.imgur.com/jJW9AuB.png" width=120 height=35>
-* Can choose <img src="https://i.imgur.com/AQMj9hI.png" width=300 height=300>
+* Can choose <img src="https://i.imgur.com/AQMj9hI.png" width=300 height=300> <img src="https://i.imgur.com/hkZe0nE.png" width=300 height=300>
 
 ### <h3 id="1">on/ret event</h3>
 * It is used on a contanier to receive Motechat messages from other containers
