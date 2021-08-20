@@ -42,13 +42,19 @@
 * It's in JSON format
 
 ### function
+* One of the most versatile of the basic nodes 
+* Allows to run JavaScript code against the messages passed through
+* By default, messages are passed in as an object called msg, and the function would return the input with the line “return msg;”
+* Returning “null” ends the flow 
+* Can work many way as long as it returns an msg object, returning anything else results error. 
+
 
 ### send
 * <img src="https://i.imgur.com/LQ1jsMD.png" width=110 height=30> => <img src="https://i.imgur.com/Y9R4kge.png" width=120 height=35>
 * To send payloads to other devices or channels. 
 * The Send node has two output ports: the top one is for successful sends and the bottom one is for errors
+* Send DDN by >>xxx & topic by xxx://xxx (ex:>>comm,tg://-12345678)
  
-
 ### call
 
 ### switch
