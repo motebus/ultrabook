@@ -61,9 +61,10 @@
 
 ### switch
 * Can add as many output ports as you need. 
-* 
+* Can be use like for loop
 
 ### debug
+* <img src="https://i.imgur.com/zdAEqm1.png" width=110 height=30> => <img src="https://i.imgur.com/jJW9AuB.png" width=120 height=35>
 
 ### <h3 id="1">on/ret event</h3>
 * It is used on a contanier to receive Motechat messages from other containers
