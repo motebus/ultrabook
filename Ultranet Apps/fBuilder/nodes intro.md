@@ -56,12 +56,19 @@
 * Send DDN by >>xxx & topic by xxx://xxx (ex:>>comm,tg://-12345678)
  
 ### call
+* Can be used to request services from a number of Motechat-configured devices 
+* This will be used to acquire information stored in YPCloud’s Object Store
 
 ### switch
+* Can add as many output ports as you need. 
+* 
 
 ### debug
 
 ### <h3 id="1">on/ret event</h3>
-
+* It is used on a contanier to receive Motechat messages from other containers
+* These nodes are connected like this
+* <img src="https://i.imgur.com/6JCxVpb.png" width=200 height=100
+       
 ### <h3 id="2">link in/out</h3>
 
