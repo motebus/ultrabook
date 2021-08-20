@@ -16,6 +16,7 @@
 * [call](#call) <img src="https://i.imgur.com/cF7R86U.png" width=110 height=30>
 * [switch](#switch) <img src="https://i.imgur.com/UuE2qCf.png" width=110 height=30>
 * [debug](#debug) <img src="https://i.imgur.com/zdAEqm1.png" width=110 height=30>
+* [comment](#comment) <img src="https://i.imgur.com/URNpYxU.png" width=110 height=30>
 * [on/ret event](#1) <img src="https://i.imgur.com/6mbbHyl.png" width=110 height=30> & <img src="https://i.imgur.com/HCFQkIE.png" width=110 height=30>
 * [link in/out](#2) <img src="https://i.imgur.com/3B8FtrL.png" width=110 height=30> & <img src="https://i.imgur.com/ekxbsPo.png" width=110 height=30>
 
