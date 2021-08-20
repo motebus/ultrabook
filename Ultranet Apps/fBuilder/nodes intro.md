@@ -25,6 +25,8 @@
 ### inject 
 * It's also known as a "timestamp" node as it can trigger on specific time
 * Usually the first node of a chain
+* After Deploying click the blue button on the left
+* The check box of inject once after 0.1/customize seconds means after Deploying it will auto inject once
 * <img src="https://i.imgur.com/ppCarhZ.png" width=500 height=700>
 
 ### set
