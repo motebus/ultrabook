@@ -32,6 +32,10 @@
 * <img src="https://i.imgur.com/ppCarhZ.png" width=500 height=700>
 
 ### set
+* To set the name of device (e.g. your container), set the “EiName” field to a name of your choice 
+* Then connect an inject node to the set node, deploy, and click the button 
+* Device is now set to that name
+* <img src="https://i.imgur.com/5N7rr5q.png" width=500 height=500>
 
 ### payload
 
