@@ -4,7 +4,7 @@
 * 3. Can use mouse to "frame up" multi nodes for moving or copy/paste
 * 4. Do Remember to click <img src="https://i.imgur.com/SbNMST5.png" width=100 height=25> before debug/leaving page else changes won't get saved, the button itself becomes blue after deploying
 * 5. As an example <img src="https://i.imgur.com/7KWSIGM.png" width=110 height=45> 
-    * If the "red triangle" appears means there's bug in json code 
+    * If the "red triangle" appears means the content of node is empty or there's bug in json code 
     * If the "blue dot" appears means the node is not "Deployed" yet click <img src="https://i.imgur.com/SbNMST5.png" width=100 height=25> 
 
 ## Nodes table
