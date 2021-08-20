@@ -23,8 +23,9 @@
 
 
 ### inject 
-* It's also known as a timestamp node as it can trigger on specific time
-* Usually the first node 
+* It's also known as a "timestamp" node as it can trigger on specific time
+* Usually the first node of a chain
+* <img src="https://i.imgur.com/ppCarhZ.png" width=110 height=500>
 
 ### set
 
