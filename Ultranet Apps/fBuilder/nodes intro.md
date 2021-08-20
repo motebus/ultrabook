@@ -5,7 +5,7 @@
 * 4. Do Remember to click <img src="https://i.imgur.com/SbNMST5.png" width=100 height=25> before debug/leaving page else changes won't get saved, the button itself becomes blue after deploying
 * 5. As an example <img src="https://i.imgur.com/7KWSIGM.png" width=110 height=45> 
     * If the "red triangle" appears means there's bug in json code 
-    * If the "blue dot" appears means the node is not "Deployed" yet click <img src="https://i.imgur.com/SbNMST5.png" width=120 height=30> 
+    * If the "blue dot" appears means the node is not "Deployed" yet click <img src="https://i.imgur.com/SbNMST5.png" width=100 height=25> 
 
 ## Nodes table
 * [inject](#inject) <img src="https://i.imgur.com/CLSpzfz.png" width=110 height=30>
