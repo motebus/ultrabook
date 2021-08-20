@@ -8,7 +8,7 @@
     * If the "blue dot" appears means the node is not "Deployed" yet click <img src="https://i.imgur.com/SbNMST5.png" width=100 height=25> 
 
 ## Nodes table
-* [inject](#inject) <img src="https://i.imgur.com/CLSpzfz.png" width=110 height=30> -> <img src="https://i.imgur.com/sWgEnlW.png" width=110 height=30>
+* [inject](#inject) <img src="https://i.imgur.com/CLSpzfz.png" width=110 height=30> -> <img src="https://i.imgur.com/sWgEnlW.png" width=110 height=35>
 * [set](#set) <img src="https://i.imgur.com/mrUJBKE.png" width=110 height=30>
 * [payload](#payload) <img src="https://i.imgur.com/XlbGGpk.png" width=110 height=30>
 * [function](#function) <img src="https://i.imgur.com/QX7O8PO.png" width=110 height=30>
@@ -22,7 +22,7 @@
 
 
 
-### inject <img src="https://i.imgur.com/CLSpzfz.png" width=110 height=30> -> <img src="https://i.imgur.com/sWgEnlW.png" width=110 height=30>
+### inject <img src="https://i.imgur.com/CLSpzfz.png" width=110 height=30> -> <img src="https://i.imgur.com/sWgEnlW.png" width=110 height=35>
 * It's also known as a "timestamp" node as it can trigger on specific time
 * Usually the first node of a chain
 * After Deploying click the blue button on the left
