@@ -27,7 +27,7 @@
 ----
 <img align="left" height="50" src="https://i.imgur.com/D0BZj5F.png" />
 
-#### [app-jujue]
+#### jujue.app
 The Mote Browser. 
 *  [Browser](https://jujue.app/browser)
 *  [Snapcraft link](https://snapcraft.io/app-jujue)
@@ -35,7 +35,7 @@ The Mote Browser.
 -----
 <img align="left" width="100" height="50" src="https://i.imgur.com/Jl3YyH9.png" />
 
-#### [Smartscreen]
+#### Smartscreen
 A service that display contents can be manipulated by uBot by Node-Red, and @SmartScreenBot by telegram
 
 * [Browser](smartscreen.tv)
@@ -45,7 +45,7 @@ A service that display contents can be manipulated by uBot by Node-Red, and @Sma
 -----
 <img align="left" width="100" height="70" src="https://i.imgur.com/5rrq8ur.png" />
 
-#### [Jboard]
+#### Jboard
 A service that display contents can be create by Jbuilder & display your digital dashboards and display boards from anywhere with JBoard
 * [Browser](https://jboard.ypcloud.com/)
 * [Snapcraft link](https://snapcraft.io/jboard)
@@ -72,7 +72,7 @@ mote is an OS for edge IoT device
 -----
 <img align="left" width="70" height="70" src="https://i.imgur.com/lWgj5Fr.jpg" />
 
-#### [fBuilder]
+#### fBuilder
 A flow-based visual programming tool for easily deploying microservices and creating IoT control management systems.
 
 * [Browser](https://run.ypcloud.com/)
@@ -82,7 +82,7 @@ A flow-based visual programming tool for easily deploying microservices and crea
 -----
 <img align="left" height="70" src="https://i.imgur.com/p9jaFdK.png" />
 
-#### [jBuilder]
+#### jBuilder
 A web-based dashboard creator. Create dashboards for digital maintenance systems, presentations, interactive kiosks, customised websites and more.
 * [Browser](https://jbuilder.ypcloud.com/)
 * [jBuilder User Guide](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/jBuilder)
