@@ -51,12 +51,6 @@ A service that display contents can be create by Jbuilder & display your digital
 * [Snapcraft link](https://snapcraft.io/jboard)
 
 -----
-<img align="left" height="70" src="https://i.imgur.com/5G5UVCX.png" />
-
-#### [mote](https://snapcraft.io/mote)
-mote is an OS for edge IoT device
-
------
 <img align="left" width="70" height="70" src="https://i.imgur.com/lWgj5Fr.jpg" />
 
 #### fBuilder
@@ -87,6 +81,12 @@ It acts as the domain controller to your IoT Edge device, providing layers of pr
 #### [moted](https://github.com/motebus/moted-snap/releases)
 moteOS Background Services
 * [moted install guide](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/moted-install.md)
+
+-----
+<img align="left" height="70" src="https://i.imgur.com/5G5UVCX.png" />
+
+#### [mote](https://snapcraft.io/mote)
+mote is an OS for edge IoT device
 
 -----
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/6381ab4a-7e9f-4a98-8749-7399c7485d2f.jpg.png" />
