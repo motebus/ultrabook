@@ -61,7 +61,7 @@ It acts as the domain controller to your IoT Edge device, providing layers of pr
 
 #### [moted](https://github.com/motebus/moted-snap/releases)
 moteOS Background Services
-* [moted-install](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/moted-install.md)
+* [moted install guide](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/moted-install.md)
 
 -----
 <img align="left" height="70" src="https://i.imgur.com/5G5UVCX.png" />
