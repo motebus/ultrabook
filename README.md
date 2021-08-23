@@ -39,8 +39,8 @@ The Mote Browser.
 A service that display contents can be manipulated by uBot by Node-Red, and @SmartScreenBot by telegram
 
 * [Browser](smartscreen.tv)
-* [SmartScreen User Guide](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/SmartScreen%20User%20Guide.md)
 * [Snapcraft link](https://snapcraft.io/smartscreen)
+* [SmartScreen User Guide](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/SmartScreen%20User%20Guide.md)
 
 -----
 <img align="left" width="100" height="70" src="https://i.imgur.com/5rrq8ur.png" />
@@ -72,19 +72,21 @@ mote is an OS for edge IoT device
 -----
 <img align="left" width="70" height="70" src="https://i.imgur.com/lWgj5Fr.jpg" />
 
-#### [fBuilder](https://snapcraft.io/fbuilder)
+#### [fBuilder]
 A flow-based visual programming tool for easily deploying microservices and creating IoT control management systems.
 
-* [run.ypcloud.com](https://run.ypcloud.com/)
+* [Browser](https://run.ypcloud.com/)
+* [Snapcraft link]((https://snapcraft.io/fbuilder))
 * [fBuilder User Guide](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/fBuilder)
 
 -----
 <img align="left" height="70" src="https://i.imgur.com/p9jaFdK.png" />
 
-#### [jBuilder](https://snapcraft.io/jbuilder)
+#### [jBuilder]
 A web-based dashboard creator. Create dashboards for digital maintenance systems, presentations, interactive kiosks, customised websites and more.
-* [jbuilder.ypcloud.com](https://jbuilder.ypcloud.com/)
+* [Browser](https://jbuilder.ypcloud.com/)
 * [jBuilder User Guide](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/jBuilder)
+* [Snapcraft link](https://snapcraft.io/jbuilder)
 
 -----
 <img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/6381ab4a-7e9f-4a98-8749-7399c7485d2f.jpg.png" />
