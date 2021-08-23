@@ -76,7 +76,7 @@ mote is an OS for edge IoT device
 A flow-based visual programming tool for easily deploying microservices and creating IoT control management systems.
 
 * [Browser](https://run.ypcloud.com/)
-* [Snapcraft link]((https://snapcraft.io/fbuilder))
+* [Snapcraft link]((https://snapcraft.io/fbuilder)
 * [fBuilder User Guide](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/fBuilder)
 
 -----
