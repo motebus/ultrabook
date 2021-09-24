@@ -207,7 +207,7 @@
 | redis://sadd   | Redis list set | { "catalog": "reza", "idname": "stest", "data": "test001" } | {"ErrMsg":"OK","Data":"OK"} |
 | redis://sget   | Redis list get | { "catalog": "reza", "idname": "stest" } | {"ErrMsg":"OK","Data":["test001","test002"]} |
 | redis://delete | Redis list delete | { "catalog": "reza", "idname": "stest" } | {"ErrMsg":"OK","Data":"OK"} |
-| redis://add    | Redis string or object value set or subscriber set | String: { "catalog": "reza", "idname": "test", "data": "test001" }  Object : { "catalog": "reza", "idname": "test2", "data": { "id": 10, "name": "reza", "number": 200 } } Subscriber: { "catalog": "reza", "idname": "test2", "data": { "id": 10, "name": "reza", "number": 200 }, "expire": 10, "subscriber": { "topic": "", "ddn": ">>reza" } } | {"ErrMsg":"OK","Data":"OK"} |
+| redis://add    | Redis string or object value set or subscriber set | String: { "catalog": "reza", "idname": "test", "data": "test001" }  Object : { "catalog": "reza", "idname": "test2", "data": { "id": 10, "name": "reza", "number": 200 } } Subscriber: { "catalog": "reza", "idname": "test2", "data": { "id": 10, "name": "reza", "number": 200 }, "expire": 10, "event": { "topic": "", "ddn": ">>reza" } } | {"ErrMsg":"OK","Data":"OK"} |
 | redis://get    | Redis string or object value get | { "catalog": "reza", "idname": "test" } | String: {"ErrMsg":"OK","Data":"test001"} Object: {"ErrMsg":"OK","Data": {"id":10,"name":"reza","number":200} } |
 | redis://delete | Redis  string or object value delete | { "catalog": "reza", "idname": "test" }  | {"ErrMsg":"OK","Data":"OK"}  |
 | redixs://add   | Redixs object set | { "catalog": "reza", "idname": "test2", "data": { "id": 10, "name": "reza",  "number": 200 } } | {"ErrMsg":"OK","Data":"OK"} |
