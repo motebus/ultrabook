@@ -3,7 +3,7 @@
     1. Type`page://url` into the App Field.
     2. Enter `{"url":"https://xxx"}` into the Params field, replacing `https://xxx` with the actual url of the website. 
   - **YouTube Video**
-    1. Enter the Youtube url of your video into the App Field.
+    1. Enter the Youtube url of your video into the App Field.<br>
        Note: Use the standard address bar url, e.g. https://www.youtube.com/watch?v=VIDEOID. Other formats sych as the video sharing link https://youtu.be/VIDEOID, or playlist links will not work in panel-frames. 
   - **Image**
     1. Type `page://image` into the App Field.
