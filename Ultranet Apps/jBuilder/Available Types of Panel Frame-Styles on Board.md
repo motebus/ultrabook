@@ -24,7 +24,7 @@
        Other Samples:
        - QName= chartpractice, QCode=1611802967946
        - QName=011121, QCode=1610357672283
-   - **Bricks** (currently unavailable)
+   - **Bricks** (currently unavailable)<br>
     1. Type`page://url` into the App Field.
     2. Enter `{"url":"https://xxx"}` into the Params field, replacing `https://xxx` with the url of the brick.
     See the jboard with the QName jbrick and go to https://git.page/jj/board?qname=jbrick for bricks demo. <br>
