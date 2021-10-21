@@ -6,5 +6,5 @@ There are 2 ways to view your design results and display your board/Dock:
 2. With a new window
 * Then on the upper right click the <img src="https://i.imgur.com/PeKirIV.png" width=32 height=30> icon then your board will be displayed in a new window. 
 ### Share Board URL
-  * To share your jboard using a url link(in Dock builder), please copy the url from the new window when you view it
+  * To share your jboard using a url link, please copy the url from the new window when you view it(in Dock builder)
 ![](https://i.imgur.com/Gn6Yfhy.png)
