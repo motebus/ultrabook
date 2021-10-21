@@ -20,6 +20,7 @@ With jBuilder you can create jBoards that can be used as digital display boards 
 A jBoard consists of a series of individual boards combined on a dock menu, each having their own dock page. 
 
 You can navigate between dock pages from the dock menu at the bottom of a jBoard. 
+In other words: jBoard = boards + docks
 
 ## Example of a Board created with jBuilder:
 
