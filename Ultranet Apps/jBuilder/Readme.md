@@ -24,7 +24,7 @@ In other words: jBoard = boards + docks
 
 ![](https://i.imgur.com/aISUXNM.png)
 
-## Example of a jBoard: 
+## Example of a jBoard after combined with Dock builder: 
 
 ![](https://i.imgur.com/gBYGHpz.png)
 
