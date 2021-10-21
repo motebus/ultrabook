@@ -4,7 +4,7 @@
   * [How to access Dock Builder](#How-to-access-Dock-Builder)
   * [jBuilder UI](#jBuilder-Work-Area-UI)
   * [Dock Builder UI](#Dock-Builder-UI)
-  * [Process of making a Dock](#Process-of-making-a-Dock)
+  * [Process of making a Dock](#Process-of-making-a-jBoard)
   * [Board Library List](#Board-Library-List)
   * [Dock Library List](#Dock-Library-List)
 
