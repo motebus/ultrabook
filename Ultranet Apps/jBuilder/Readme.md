@@ -40,7 +40,7 @@ To leave Dock Builder and return to jBuilder, click the <img src="https://i.imgu
 ## jBuilder Work Area UI
 <img src="https://i.imgur.com/fuglHd7.png" width=760 height=475>
 
-On the left <img src="https://i.imgur.com/66dK5wO.png" width=30 height=30>bar, the user can define the board by specifying the number of columns and rows, as well as enable/disable the header and footer of the board frame. 
+On the left <img src="https://i.imgur.com/66dK5wO.png" width=30 height=30>, the user can define the board by specifying the number of columns and rows, as well as enable/disable the header and footer of the board frame. 
 The board grid serves as the framework for the board’s layout and helps us manage the proportions between elements for responsive web design. 
 
 Next is <img src="https://i.imgur.com/BwmKrTz.png" width=33 height=30> which leads to Dock Builder. 
