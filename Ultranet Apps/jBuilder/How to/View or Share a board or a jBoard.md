@@ -1,4 +1,4 @@
-## View/Share a Board/jBoard
+## View/Share a board/jBoard
 ### View
 There are 2 ways to view your design results and display your board/Dock: 
 1. View in json format
