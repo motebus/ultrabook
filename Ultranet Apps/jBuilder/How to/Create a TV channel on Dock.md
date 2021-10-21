@@ -14,4 +14,4 @@ A jBoard TV channel is a dock page with a playlist collection of Youtube Videos.
 - Note: Disregard the `Autoplay` checkbox. This option is now available in jBoard Settings for each viewer to change (rather than just the jBoard creator). 
 
 
-<img src="https://i.imgur.com/LJlavkC.png" width=550 height=400>
+<img src="https://i.imgur.com/LJlavkC.png" width=550 height=600>
