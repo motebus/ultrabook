@@ -30,7 +30,7 @@
     ![](https://i.imgur.com/xXEWyUx.png)
     
     
- #### Dashboard panels customised with fBuilder
+ #### Dashboard panels customised with fBuilder (currently unavailable)
   - **Cloud Room Display** 
     * Type `page://room` into the App Field and enter `{"tag":"TAG"}` into the Params field, replacing `TAG` with your own room flow tag or 
     * Type `page://panel` into the App Field and enter `{"tag":"TAG"}` into the Params field, replacing `TAG` with your own panel flow tag. 
