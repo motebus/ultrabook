@@ -8,7 +8,7 @@
 5. Specify the frame style in the App field. * See a list of available types further below.  
 [Frame types](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/Available%20Types%20of%20Panel%20Frame-Styles%20on%20Board.md)
 6. Add in parameters and/or data. 
-7. Hit Confirm once you are done. 
+7. Hit Confirm once you are done. (Don't hit enter key
 
 - Change the grid position of your panel by dragging it's title bar to a new position.
 - Panel dimensions can also be changed by dragging the bottom-right corner of a panel. 
