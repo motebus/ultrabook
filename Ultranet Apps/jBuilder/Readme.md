@@ -16,9 +16,7 @@
 
 ## What is a jBoard
 With jBuilder you can create jBoards that can be used as digital display boards or digital dashboards.
-
 A jBoard consists of a series of individual boards combined on a dock menu, each having their own dock page. 
-
 You can navigate between dock pages from the dock menu at the bottom of a jBoard. 
 In other words: jBoard = boards + docks
 
@@ -33,6 +31,9 @@ In other words: jBoard = boards + docks
 ## jBuilder and Dock Builder
 There are two main work areas involved in jBuilder. <br>
 In the default jBuilder work area you create individual boards, then move on to the Dock Builder work area to combine a series of boards to create a complete jBoard.
+
+* jbuilder is to make boards
+* Dock buidler is to add docks and let the boards combine into a jBoard
 
 ## How to access Dock Builder: 
 From the default jBuilder work area, click on the <img src="https://i.imgur.com/BwmKrTz.png" width=33 height=30> icon on the top left corner to go to Dock Builder. <br>
