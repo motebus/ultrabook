@@ -68,7 +68,7 @@ Icons at the right of the top tool bar have the following functions:
 Below the tool bar, at the top of the work area is the header. There is no header by default, but if you wish to add one, click <img src="https://i.imgur.com/6biIEa1.png" width=31 height=30> to edit. 
 
 ## Process of making a jBoard
-
+https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/Process%20of%20making%20a%20jBoard.md
 ## Tutorial video
 1: https://www.youtube.com/watch?v=N1Rp2mCwv0c
 2: https://www.youtube.com/watch?v=eQV3zaiLxyY
