@@ -10,7 +10,7 @@
 6. Add in parameters and/or data. 
 7. Hit Confirm once you are done. 
 
-- Change the grid position of your panel by clicking on its title bar (holding down your mouse) and dragging it to a new position.
-- Panel dimensions can also be changed by clicking and dragging the bottom-right corner of a panel. 
+- Change the grid position of your panel by dragging it's title bar to a new position.
+- Panel dimensions can also be changed by dragging the bottom-right corner of a panel. 
 
 ![](https://i.imgur.com/yJR5ynR.png)
