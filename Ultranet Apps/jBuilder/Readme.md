@@ -69,6 +69,8 @@ Below the tool bar, at the top of the work area is the header. There is no heade
 ## Process of making a jBoard
 
 ## Tutorial video
+1: https://www.youtube.com/watch?v=N1Rp2mCwv0c
+2: https://www.youtube.com/watch?v=eQV3zaiLxyY
 
 ## Board Library List
 <img src="https://i.imgur.com/gD2OhRz.png" width=760 height=150>
