@@ -6,9 +6,10 @@
   * [Dock Builder UI](#Dock-Builder-UI)
   * [Process of making a jBoard](#Process-of-making-a-jBoard)
   * [Tutorial video](#Tutorial-video)
+  * [Example jBoards](#Example-jBoards)
   * [Board Library List](#Board-Library-List)
   * [Dock Library List](#Dock-Library-List)
-  * [Example jBoards](#Example-jBoards)
+
 
 * jBoard url:https://jboard.ypcloud.com/
 * jBuilder url:https://jbuilder.ypcloud.com/
