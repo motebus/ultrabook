@@ -4,6 +4,7 @@
   * [How to access Dock Builder](#How-to-access-Dock-Builder)
   * [jBuilder UI](#jBuilder-Work-Area-UI)
   * [Dock Builder UI](#Dock-Builder-UI)
+  * [Process of making a Dock](#Process-of-making-a-Dock)
   * [Board Library List](#Board-Library-List)
   * [Dock Library List](#Dock-Library-List)
 
@@ -29,7 +30,7 @@ You can navigate between dock pages from the dock menu at the bottom of a jBoard
 There are two main work areas involved in jBuilder. <br>
 In the default jBuilder work area you create individual boards, then move on to the Dock Builder work area to combine a series of boards to create a complete jBoard.
 
-### How to access Dock Builder: 
+## How to access Dock Builder: 
 From the default jBuilder work area, click on the <img src="https://i.imgur.com/BwmKrTz.png" width=33 height=30> icon on the top left corner to go to Dock Builder. <br>
 To leave Dock Builder and return to jBuilder, click the <img src="https://i.imgur.com/HopFYkU.png" width=35 height=30> icon. 
 
@@ -62,6 +63,8 @@ Icons at the right of the top tool bar have the following functions:
 * Logout from your account <img src="https://i.imgur.com/EvC18xA.png" width=32 height=30>
 
 Below the tool bar, at the top of the work area is the header. There is no header by default, but if you wish to add one, click <img src="https://i.imgur.com/6biIEa1.png" width=31 height=30> to edit. 
+
+## Process of making a Dock
 
 ## Board Library List
 <img src="https://i.imgur.com/gD2OhRz.png" width=760 height=150>
