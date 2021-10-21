@@ -1,5 +1,5 @@
 # Steps:
-* register a yp account 
+* 0 Register a yp account 
 Go to https://jujue.app and click “Sign In”.<br>
 Login with your Google acccount and click “Register now” to create a YPCloud account.<br>
 * 1 Go to url: https://jbuilder.ypcloud.com/
