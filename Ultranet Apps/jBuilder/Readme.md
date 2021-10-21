@@ -5,6 +5,7 @@
   * [jBuilder UI](#jBuilder-Work-Area-UI)
   * [Dock Builder UI](#Dock-Builder-UI)
   * [Process of making a jBoard](#Process-of-making-a-jBoard)
+  * [Tutorial video](#Tutorial-video)
   * [Board Library List](#Board-Library-List)
   * [Dock Library List](#Dock-Library-List)
   * [Example jBoards](#Example-jBoards)
@@ -66,6 +67,8 @@ Icons at the right of the top tool bar have the following functions:
 Below the tool bar, at the top of the work area is the header. There is no header by default, but if you wish to add one, click <img src="https://i.imgur.com/6biIEa1.png" width=31 height=30> to edit. 
 
 ## Process of making a jBoard
+
+## Tutorial video
 
 ## Board Library List
 <img src="https://i.imgur.com/gD2OhRz.png" width=760 height=150>
