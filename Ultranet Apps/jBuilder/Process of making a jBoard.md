@@ -1,5 +1,5 @@
 # Steps:
-* 0 
+### 0 
 * Register a yp account 
 * Go to https://jujue.app and click “Sign In”.<br>
 * Login with your Google account and click “Register now” to create a YPCloud account.<br>
