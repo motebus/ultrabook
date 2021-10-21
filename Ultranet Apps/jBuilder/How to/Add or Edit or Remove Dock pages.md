@@ -23,4 +23,5 @@
 2. Select the board you want from the board library list.
 
 #### Remove a dock page
-* Right-click on the dock page icon on the dock, select `Delete Dock`. 
+* Right-click on the dock page icon you want to remove, select `Delete Dock`. 
+![](https://i.imgur.com/mSEGg96.png)
