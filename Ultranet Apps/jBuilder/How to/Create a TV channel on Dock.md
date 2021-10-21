@@ -9,7 +9,7 @@ A jBoard TV channel is a dock page with a playlist collection of Youtube Videos.
 4. Assign a title to the video. (This title will only be visible in jBuilder Dock Builder)
 5. 
 * Enter the Youtube video URL to the `Url` Field. Various Youtube URL formats are all accepted, such as https://www.youtube.com/watch?v=VIDEOID or https://youtu.be/VIDEOID. <br> 
-* However, please note that functions such as specific start/end time in the URL will not be available. Any link such as https://www.youtube.com/watch?v=VIDEOID&t=TIMESTAMP or https://www.youtube.com/watch?v=VIDEOID&list=PlaylistID etc. will simply be shown on the jBoard as https://www.youtube.com/watch?v=VIDEOID. <br> 
+* However, please note that functions such as specific start/end time in the URL will not be available. Any link such as https://www.youtube.com/watch?v=VIDEOID&t=TIMESTAMP or https://www.youtube.com/watch?v=VIDEOID&list=PlaylistID etc.<br> Will simply be shown on the jBoard as https://www.youtube.com/watch?v=VIDEOID. <br> 
 * If you wish to include a playlist (that will autoplay by default), use the link for the complete playlist, e.g. https://www.youtube.com/playlist?list=PlaylistID. 
 
 7. Leave the `Use thumbnail` checkbox as the default setting, or unselect the checkbox and use the `Icon Url` field to replace the video thumbnail with an image of your choice. 
