@@ -1,7 +1,7 @@
 # Steps:
 * 0 Register a yp account 
 Go to https://jujue.app and click “Sign In”.<br>
-Login with your Google acccount and click “Register now” to create a YPCloud account.<br>
+Login with your Google account and click “Register now” to create a YPCloud account.<br>
 * 1 Go to url: https://jbuilder.ypcloud.com/
 * 2 [Add pannel to board](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/How%20to/Add%20pannel%20to%20Board.md)
 * 3 [Available Types of Panel Frame-Styles](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/Available%20Types%20of%20Panel%20Frame-Styles%20on%20Board.md)
