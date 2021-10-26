@@ -114,12 +114,12 @@ PS:(Rember this ever time if you change the content of any flow
 * Click on <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button again in the top right corner and select "Qrun" 
 * Choose "h33-qbix" to deploy
 
-<img src="https://i.imgur.com/drivpK5.png" width=500 height=500>
+<img src="https://i.imgur.com/53wztVQ.png" width=500 height=500>
 
 
-* If it shows this on your page
+* If it shows this on your page or it shows deploy success
 
-<img src="https://i.imgur.com/2cFUJHH.png" width=700 height=100>
+<img src="https://i.imgur.com/GV3RRGW.png" width=700 height=100>
 
 * It means success deploying to "h33-qibx"
 * Keep watching telegram clocking group to see whether your twin works on recommended time after successfully qurn no matter you log out your fbuilder/shutdown your pc
