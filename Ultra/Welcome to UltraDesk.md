@@ -5,11 +5,10 @@ First, we need to set up our own working space.
 
 ## Telegram
 1. Make sure you have joined these YPCloud groups on Telegram already:
-    * clouder://c21
-    * clockin://c21
-    * ioc://c21
-    * duty://c21
-    * jboard://c21
+    * clouder://cxx
+    * clockin://cxx
+    * ioc://cxx
+    * duty://cxx
 2. Search the below Telegram bots and click `/start` to interact with them.
     * @JujueBot
     * @PinponboyBot
@@ -20,8 +19,8 @@ First, we need to set up our own working space.
     * my://daily
     * lab://
 
-## Jujue Account
-* Create a Jujue account:
+## YP Account
+* Create a YP account:
     1. Head to [account.ypcloud.com](https://account.ypcloud.com/#/login)
     2. Click on 'Sign Up' and create a username and password.
         (You can also choose to sign up with your Gmail / Facebook / Telegram if you want.)
