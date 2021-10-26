@@ -33,6 +33,8 @@ First, we need to set up our own working space.
 1. Sign in with your YP account if approve is need please ask for help
 2. Have someone add you as a Maintainer of the group "clouder-xx".
 3. Create your personal project by clicking "New Project", and name it "cxx-{Name}", where "{Name}" is your name.
+* Please remember to tick the "initialize repository with a README" when createing 
+![](https://i.imgur.com/H4ZX5na.png)
 4. In your newly created project, create your progress journal by clicking "+" to add a new file, and naming it "cxx-{Name}-雲耕日誌.md", where "{Name}" is your name.
 
 * Reminders: 
