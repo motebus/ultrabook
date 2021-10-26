@@ -117,11 +117,12 @@ PS:(Rember this ever time if you change the content of any flow
 <img src="https://i.imgur.com/53wztVQ.png" width=500 height=500>
 
 
-* If it shows this on your page or it shows deploy success
+* If it shows timeout or deploy success 
+* It means success deploying to "h33-qibx"
 
 <img src="https://i.imgur.com/GV3RRGW.png" width=700 height=100>
 
-* It means success deploying to "h33-qibx"
+
 * Keep watching telegram clocking group to see whether your twin works on recommended time after successfully qurn no matter you log out your fbuilder/shutdown your pc
 
 # Congrats you have finish the Guide
