@@ -31,9 +31,9 @@ First, we need to set up our own working space.
 
 ### Gitwork
 1. Sign in with your YP account if approve is need please ask for help
-2. Have someone add you as a Maintainer of the group "clouder-21".
-3. Create your personal folder by clicking "New Project", and name it "c21-{Name}", where "{Name}" is your name.
-4. In your newly created project, create your progress journal by clicking "+" to add a new file, and naming it "c21-{Name}-雲耕日誌.md", where "{Name}" is your name.
+2. Have someone add you as a Maintainer of the group "clouder-xx".
+3. Create your personal project by clicking "New Project", and name it "cxx-{Name}", where "{Name}" is your name.
+4. In your newly created project, create your progress journal by clicking "+" to add a new file, and naming it "cxx-{Name}-雲耕日誌.md", where "{Name}" is your name.
 
 * Reminders: 
     * Remember to update your progress regularly.
@@ -41,7 +41,7 @@ First, we need to set up our own working space.
 
 ### fBuilder
 1. Sign in your Jujue account and open fBuilder.
-2. Follow the Tutorials to create a simple flow that clocks-in to the Telegram channel clockin://c21 four times a day (09:00, 12:00, 18:00, and 00:00).
+2. Follow the Tutorials to create a simple flow that clocks-in to the Telegram channel clockin://cxx four times a day (09:00, 12:00, 18:00, and 00:00).
 
 ### jBuilder
 1. Sign in your Jujue account and open jBuilder.
