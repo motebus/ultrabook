@@ -6,7 +6,8 @@
 
 2. Fill in a name to the dock page inside the Title field. 
 3. In the Icon Url field enter the url of icon image you want to use for the dock page when it is unselected.<br> We recommend finding icons on https://www.flaticon.com. Once you have found your icon,<br> right-click on the icon image and select ‘Copy Image Address’, then paste into the Icon Url field & Active Icon url field. 
-4. Hit Confirm after you are done. Your new dock page icon should now be visible on the dock at the bottom of the jBoard.
+4. Another way is you can upload photos
+5. Hit Confirm after you are done. Your new dock page icon should now be visible on the dock at the bottom of the jBoard.
 
 #### Edit a dock page name and icon
 1. Right-click on the dock page icon on the dock at the bottom of the jBoard.
