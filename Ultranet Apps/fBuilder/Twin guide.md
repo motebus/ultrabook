@@ -106,7 +106,7 @@ ioc://-346930568
 
 ### Qrun your twin
 * After the successful test, click on the <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button again in the top right corner and select "QRun" 
-* Choose "h33-qbix" to deploy
+* Choose "t33-qbix" to deploy
 
 <img src="https://i.imgur.com/53wztVQ.png">
 
