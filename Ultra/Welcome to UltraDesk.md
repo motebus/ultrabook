@@ -1,4 +1,4 @@
-# Welcome to UltraDesk
+# Welcome to YP
 
 Welcome to YPCloud! 
 First, we need to set up our own working space.
