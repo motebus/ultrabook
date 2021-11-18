@@ -110,7 +110,7 @@ ioc://-346930568
 * After the successful test, click on the <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button again in the top right corner and select "QRun" 
 * Choose "t33-qbix" to deploy
 
-<img src="https://i.imgur.com/53wztVQ.png">
+<img src="https://i.imgur.com/tmzm6pj.png">
 
 * If a "Deploy success" or "Timeout" message shows up on your page, your QRun has been successful. 
 <img src="https://i.imgur.com/GV3RRGW.png">
