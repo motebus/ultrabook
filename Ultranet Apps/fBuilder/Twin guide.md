@@ -118,6 +118,6 @@ ioc://-346930568
 
 * Keep watching the Telegram clocking group to see whether your twin works at the four times even after you've logged out of fbuilder/shutdown your pc. 
 
-* Always Remeber to logout fbuidler
+* Always Remeber to logout fbuidler!!!
 
 # Congrats. You have finished the Guide.
