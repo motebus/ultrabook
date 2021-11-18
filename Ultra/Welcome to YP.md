@@ -24,8 +24,8 @@ First, we need to set up our own working space.
     1. Head to [account.ypcloud.com](https://account.ypcloud.com/#/login)
     2. Click on 'Sign Up' and create a username and password.
         (You can also choose to sign up with your Gmail / Facebook / Telegram if you want.)(You need to bind accounts)
-         ![](https://i.imgur.com/TAbqWvv.png)
-        * click "change password" to bind
+          <img src="https://i.imgur.com/TAbqWvv.png" width=300 height=300> 
+    * click "change password" to bind
     3. Sign in to confirm your new account.
     4. Head to [Jujue Browser](https://jujue.app/browser)
     5. Click the App Launcher button ![](https://i.imgur.com/3eNN7Er.png) on the top right corner.
