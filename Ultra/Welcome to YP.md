@@ -12,7 +12,7 @@ First, we need to set up our own working space.
 2. Search the below Telegram bots and click `/start` to interact with them.
     * @JujueBot
     * @PinponboyBot
-    * @SmartscreenBot
+    * @SmartScreenBot
     * You may need authentication. Follow the step shown in chat box.
 3. (optional) You can put all the YPCloud groups into a folder.
     * You can learn about Telegram chat folders [here](https://telegram.org/blog/folders).
