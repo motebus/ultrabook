@@ -26,7 +26,7 @@ First, we need to set up our own working space.
     * (You can also choose to sign up with your Gmail / Facebook / Telegram if you want.)(You need to bind accounts)
     <img src="https://i.imgur.com/TAbqWvv.png" width=300 height=300> 
     
-    * click "change password" to bind
+    * Click "change password" to bind
     
     3. Sign in to confirm your new account.
     4. Head to [Jujue Browser](https://jujue.app/browser)
