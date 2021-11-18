@@ -80,7 +80,9 @@ These are the most basic and frequently used nodes on fBuilder.
 ioc://-346930568
 ```
 
-<img src="https://i.imgur.com/yM5n5sx.png"> 
+* Remember to change it to "az"
+
+<img src="https://i.imgur.com/e3ECJbd.jpg"> 
 
 #### Debug
 
