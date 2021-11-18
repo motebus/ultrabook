@@ -12,7 +12,7 @@ First, we need to set up our own working space.
 2. Search the below Telegram bots and click `/start` to interact with them.
     * @JujueBot
     * @PinponboyBot
-      * You may need authentication. Follow the step shown in chat box.
+    * You may need authentication. Follow the step shown in chat box.
 3. (optional) You can put all the YPCloud groups into a folder.
     * You can learn about Telegram chat folders [here](https://telegram.org/blog/folders).
 4. Create 2 groups on Telegram, add PinponboyBot in the group:
@@ -25,7 +25,9 @@ First, we need to set up our own working space.
     2. Click on 'Sign Up' and create a username and password.
     * (You can also choose to sign up with your Gmail / Facebook / Telegram if you want.)(You need to bind accounts)
     <img src="https://i.imgur.com/TAbqWvv.png" width=300 height=300> 
+    
     * click "change password" to bind
+    
     3. Sign in to confirm your new account.
     4. Head to [Jujue Browser](https://jujue.app/browser)
     5. Click the App Launcher button ![](https://i.imgur.com/3eNN7Er.png) on the top right corner.
