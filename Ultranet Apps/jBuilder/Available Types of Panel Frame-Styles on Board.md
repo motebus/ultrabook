@@ -10,10 +10,10 @@
     1. Type `page://image` into the App Field.
     2. Enter `{"url":"https://xxx"}` into the Params field, replacing `https://xxx` with your image address. 
     - Note: By default, if the actual image size is larger than its panel size, the image will be resized to fit the panel, potentially having an additional border around the image.  <br> If your image is smaller than the panel, the border around it may end up quite large (depends on panel size). <br> To make your image scale automatically to fill the panel (stretch and take up as much space as possible, disregarding aspect ratio), enter `{"url":"https://xxx","fullwidth":1}` into the Params field. 
-  - Slider 
+  - Slider (currently maitaining)
     1. Type `page://slider` into the App Field
     2. Enter `{"json":["https://xxx","https://xxx",..."https://xxx"]}` into the Params field, replacing `https://xxx` with the actual url of the image. 
-  - **Charts**<br> 
+  - **Charts**<br> (currently maitaining)
     Currently there are 6 available chart types: bar, hbar, line, linearea, pie and circle. 
     1. Type `page://chart` into the App Field
     2. Enter into the Data Field: 
