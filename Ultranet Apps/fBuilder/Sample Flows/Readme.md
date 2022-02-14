@@ -1,6 +1,6 @@
 ## whois 
 ![image](https://i.imgur.com/0eLJLK5.png)
-payload 
+* payload 
 ```
 {"cmd":"whois"}
 ```
