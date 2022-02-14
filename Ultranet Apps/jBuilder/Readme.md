@@ -2,7 +2,7 @@
   * [What is a jBoard](#What-is-a-jBoard)
   * [jBuilder and Dock Builder](#jBuilder-and-Dock-Builder)
   * [How to access Dock Builder](#How-to-access-Dock-Builder)
-  * [jBuilder UI](#jBuilder-Work-Area-UI)
+  * [jBuilder UI](#jBuilder-UI)
   * [Dock Builder UI](#Dock-Builder-UI)
   * [Process of making a jBoard](#Process-of-making-a-jBoard)
   * [Tutorial video](#Tutorial-video)
@@ -39,7 +39,7 @@ In the default jBuilder work area you create individual boards, then move on to 
 From the default jBuilder work area, click on the <img src="https://i.imgur.com/BwmKrTz.png" width=33 height=30> icon on the top left corner to go to Dock Builder. <br>
 To leave Dock Builder and return to jBuilder, click the <img src="https://i.imgur.com/HopFYkU.png" width=35 height=30> icon. 
 
-## jBuilder Work Area UI
+## jBuilder UI
 <img src="https://i.imgur.com/fuglHd7.png" width=760 height=475>
 
 On the left <img src="https://i.imgur.com/66dK5wO.png" width=30 height=30>, the user can define the board by specifying the number of columns and rows, as well as enable/disable the header and footer of the board frame. 
@@ -55,7 +55,7 @@ The icons at the right of the tool bar have the following functions:
 * Open board library list <img src="https://i.imgur.com/rNDVXuk.png" width=30 height=30>
 * Logout from your account <img src="https://i.imgur.com/EvC18xA.png" width=32 height=30>
 
-## Dock Builder Work Area UI
+## Dock Builder UI
 <img src="https://i.imgur.com/ShWoIiB.png" width=760 height=475>
 
 In the top left corner, the <img src="https://i.imgur.com/HopFYkU.png" width=35 height=30> icon on the tool bar leads back to the default jBuilder work area.
