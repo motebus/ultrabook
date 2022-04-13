@@ -39,7 +39,7 @@ The creators of the website have likely set iFrame restrictions for where the we
 
 ---
 
-## Q Why has the layout of my board (added to a jBoard on Dock Builder) changed? My content has disappeared in "Preview" mode. 
+## Q Why the layout of my board (added to a jBoard on Dock Builder) changed? My content has disappeared in "Preview" mode. 
   This problem is expected if your board contains page://slider or page://chart. These app panel types are currently still being fixed.
 
 ---
