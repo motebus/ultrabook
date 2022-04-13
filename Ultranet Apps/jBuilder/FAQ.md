@@ -1,4 +1,4 @@
-# FAQs 常見問題
+# 常見問題
 
 -> [English Version](#FAQs)
 
