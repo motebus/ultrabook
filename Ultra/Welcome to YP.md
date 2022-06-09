@@ -1,6 +1,4 @@
 # Welcome to YP
-
-Welcome to YPCloud! 
 ![](https://i.imgur.com/FTdU6lQ.jpg)
 ![](https://i.imgur.com/kR4cYiI.jpg)
 
