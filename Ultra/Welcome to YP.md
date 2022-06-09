@@ -47,11 +47,3 @@ yp://club 讀書會 is the Telegram group where clouders share articles and othe
     * Your code and other resources you develop at YPCloud will be stored in Gitops.
     * Markdown Syntax Guide: 
     * - https://www.markdownguide.org/basic-syntax/ <br> 中文: https://markdown.tw/
-
-## fBuilder
-1. Sign in your YP account and open fBuilder.
-2. Follow the Tutorials to create a simple flow that clocks-in to the Telegram channel clockin://cxx four times a day (09:00, 12:00, 18:00, and 00:00).
-
-## jBuilder
-1. Sign in your YP account and open jBuilder.
-2. Now you can use jBuilder to create your own jBoard!
