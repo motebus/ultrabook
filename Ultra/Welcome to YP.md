@@ -22,17 +22,17 @@ yp://club 讀書會 is the Telegram group where clouders share articles and othe
 
 ## YP Account
 * Create a YP account:
-    - 1. Head to [account.ypcloud.com](https://account.ypcloud.com/#/login)
-    - 2. Click on 'Sign Up' and create a username and password.
+ * 1. Head to [account.ypcloud.com](https://account.ypcloud.com/#/login)
+ * 2. Click on 'Sign Up' and create a username and password.
         - You can also choose to sign up with your 3rd party Gmail / Facebook / Telegram)
-    - 3. By choosing one of the third party login methods above, you need to  click "change password" to fully bind the account
+ * 3. By choosing one of the third party login methods above, you need to  click "change password" to fully bind the account
     <img src="https://i.imgur.com/TAbqWvv.png" width=300 height=300>
-    - 4. Sign in again to confirm your new account.
-    - 5. Head to [Jujue Browser](https://jujue.app/browser)
-    - 6. Click the App Launcher button ![](https://i.imgur.com/3eNN7Er.png) on the top right corner.
-    - 7. Now you can use your account to access GitLab, fBuilder, jBuilder, etc.
+ * 4. Sign in again to confirm your new account.
+ * 5. Head to [Jujue Browser](https://jujue.app/browser)
+ * 6. Click the App Launcher button ![](https://i.imgur.com/3eNN7Er.png) on the top right corner.
+ * 7. Now you can use your account to access GitLab, fBuilder, jBuilder, etc.
 
-### GitLab
+## GitLab
 - 1. Sign in to https://gitops.ypcloud.com with your YP account.
    - Please choose "ldap" login and fill in the user name with your YP account "email" not the "user name". If approval is needed please ask for help.
 - 2. Have someone add you as a Maintainer of the group "clouder-xx".
@@ -48,10 +48,10 @@ yp://club 讀書會 is the Telegram group where clouders share articles and othe
     * Markdown Syntax Guide: 
     * - https://www.markdownguide.org/basic-syntax/ <br> 中文: https://markdown.tw/
 
-### fBuilder
-1. Sign in your Jujue account and open fBuilder.
+## fBuilder
+1. Sign in your YP account and open fBuilder.
 2. Follow the Tutorials to create a simple flow that clocks-in to the Telegram channel clockin://cxx four times a day (09:00, 12:00, 18:00, and 00:00).
 
-### jBuilder
-1. Sign in your Jujue account and open jBuilder.
+## jBuilder
+1. Sign in your YP account and open jBuilder.
 2. Now you can use jBuilder to create your own jBoard!
