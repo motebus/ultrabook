@@ -107,15 +107,9 @@ ioc://-346930568
 
 <img src="https://i.imgur.com/TBBg4ZD.png">
 
-### Qrun your twin
-* After the successful test, click on the <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button again in the top right corner and select "QRun" 
-* Choose "h4-node" to deploy
-
-<img src="https://i.imgur.com/5zRsBQ9.png">
-
-* If a "Deploy success" or "Timeout" message shows up on your page, your QRun has been successful. 
-<img src="https://i.imgur.com/GV3RRGW.png">
-
+### [Qrun](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/qrun.md) your twin
+* After the successful test
+* Choose "h4-node" to qrun
 
 * Keep watching the Telegram clocking group to see whether your twin works at the four times even after you've logged out of fbuilder/shutdown your pc. 
 
