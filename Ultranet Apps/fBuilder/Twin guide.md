@@ -5,7 +5,7 @@ Your “twin” should be clocking in 4 times a day: 00:00, 09:00, 12:00, and 18
 If you are asked to create a twin clock-in flow follow these steps: 
 
 ### Go to fBuilder
-fbuilder url: run.ypcloud.com
+fbuilder url: [run](https://run.ypcloud.com)
 Log in with your Google account or register a new YPCloud account. 
 Once you have logged in, you will see a page like this: 
 <img src="https://i.imgur.com/i8YrWeI.jpg">
