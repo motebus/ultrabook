@@ -6,8 +6,8 @@ If you are asked to create a twin clock-in flow follow these steps:
 
 ### Go to fBuilder
 fbuilder url: [run](https://run.ypcloud.com)
-Login with your Google account or register a new YPCloud account. 
-Once you have logged in, you will see a page like this: 
+Login with your YPCloud account and choose fbuilder and click "go"
+You will see a page like this: 
 <img src="https://i.imgur.com/i8YrWeI.jpg">
 
 ### Start a new fBuilder project 
