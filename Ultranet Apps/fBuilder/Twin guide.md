@@ -111,7 +111,7 @@ ioc://-346930568
 * After the successful test, click on the <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button again in the top right corner and select "QRun" 
 * Choose "h4-node" to deploy
 
-<img src="https://imgur.com/NTVSWMW">
+<img src="https://i.imgur.com/5zRsBQ9.png">
 
 * If a "Deploy success" or "Timeout" message shows up on your page, your QRun has been successful. 
 <img src="https://i.imgur.com/GV3RRGW.png">
