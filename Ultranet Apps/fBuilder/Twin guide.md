@@ -68,6 +68,7 @@ These are the most basic and frequently used nodes on fBuilder.
 ```
 
 * Replace xxxxx with your English name.
+* Fist word capital ex: "Trex clocking"
 
 #### Send
 
