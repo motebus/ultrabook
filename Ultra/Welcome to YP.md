@@ -36,7 +36,7 @@ Create a YP account:
 ## GitLab
 1. Sign in to https://gitops.ypcloud.com with your YP account.
    - Please choose "ldap" login and fill in the user name with your YP account "email" not the "user name". If approval is needed please ask for help.
-2. Have someone add you as a Maintainer of the group "clouder-xx".
+2. Have someone add you as a Maintainer of the group "clouder-xx" and get access to "clouder-guide" group.
 3. Create your personal project by clicking "New Project", and name it "cxx-{Name}", where "{Name}" is your name.
    * Please remember to tick the "initialize repository with a README" when creating the project
 
