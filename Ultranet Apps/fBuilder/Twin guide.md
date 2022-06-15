@@ -74,7 +74,7 @@ These are the most basic and frequently used nodes on fBuilder.
 * For the send node, fill in
 
 ```
->>comm
+>hub/comm
 ```
 ```
 ioc://-346930568
@@ -82,7 +82,7 @@ ioc://-346930568
 
 * Remember to change it to "az"
 
-<img src="https://i.imgur.com/e3ECJbd.jpg"> 
+<img src="https://imgur.com/ZTpeMEW"> 
 
 #### Debug
 
@@ -108,9 +108,9 @@ ioc://-346930568
 
 ### Qrun your twin
 * After the successful test, click on the <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button again in the top right corner and select "QRun" 
-* Choose "h4-qbix" to deploy
+* Choose "h4-node" to deploy
 
-<img src="https://i.imgur.com/tmzm6pj.png">
+<img src="https://imgur.com/85Sw4nA">
 
 * If a "Deploy success" or "Timeout" message shows up on your page, your QRun has been successful. 
 <img src="https://i.imgur.com/GV3RRGW.png">
