@@ -21,6 +21,8 @@
 Note:
 * Choose public or private on the left hand side, in public you can see and copy others flow, in private you will only see flows of your own
 * On the right hand side can choose the directory you want ex: flow, obj, json,etc
+* If you need to copy others flow just click second button(copy button) on the left, the json in "data" field will be copy to your clipboard
+* "Trash can" button is for deletion please be careful
 ### //bucket -> s3 minio
 ![圖片](https://user-images.githubusercontent.com/77911816/174707920-23cb9a8d-85dd-41aa-9d16-93702a24c775.png)
 * You can upload your file in to a specific bucket
@@ -34,6 +36,7 @@ Note:
 * If bucket doesn't show for more then 5 mintues please ask for help
 * If you are replacing the file please check if the upload time is new
 * If you need to create a new bucket please ask for help
+* If you need to delete a specific file please ask for help
 ### //upload
 ![圖片](https://user-images.githubusercontent.com/77911816/174707999-0e45a0c0-44ef-4ca4-8257-19cde2a00732.png)
 
