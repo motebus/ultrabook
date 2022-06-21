@@ -8,7 +8,7 @@
 * Then fill in your topic & payload 
 * DDN example: >test/test-app or >hub/comm
 * Topic example: test://test or 123
-* payload can be empty
+* payload can't be empty
 ### //obj -> objstore 
 ![](https://i.imgur.com/F936A1K.png)
 * You can upload your flow json here
