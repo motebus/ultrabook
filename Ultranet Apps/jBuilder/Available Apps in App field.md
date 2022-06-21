@@ -16,10 +16,9 @@
       3. To make your image scale automatically to fill the panel (stretch and take up as much space as possible, disregarding aspect ratio), add `,"fullwidth":1` into the Params field. 
   - **page://slider** (currently maitaining)
     * Params field: `{"json":["https://your-image-url","https://your-image-url",..."https://your-image-url"]}` 
-  - **Charts**<br> (currently maitaining)
-    Currently there are 6 available chart types: bar, hbar, line, linearea, pie and circle. 
-    1. Type `page://chart` into the App Field
-    2. Enter into the Data Field: 
+  - **page://chart**<br> (currently maitaining)
+    * Available Chart types: bar, hbar, line, linearea, pie and circle. 
+    * Data Field: 
        > {"chart":{"type":"line","title":"Sample Chart","data":{"columns":[{"type":"x","field":"field name","name":"Course name"},{"type":"y","field":"numerical weight","name":"measured aspect"}],"rows":[{"numerical weight":450,"field name":"A"},{"numerical weight":350,"field name":"B"},{"numerical weight":300,"field name":"C"},{"numerical weight":370,"field name":"D"},{"numerical weight":400,"field name":"E"}]}}}
     3. Replace ”type”,“numerical_weight”, “field_name” and other content to customise your chart.
        ![](https://i.imgur.com/Rht0Sxn.png)
