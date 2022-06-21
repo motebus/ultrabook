@@ -6,6 +6,11 @@
 ![](https://i.imgur.com/CIHZyif.png)
 
 
-3. //obj
-4. //bucket
-5. //upload
+### //obj
+![](https://i.imgur.com/F936A1K.png)
+### //bucket
+![圖片](https://user-images.githubusercontent.com/77911816/174707920-23cb9a8d-85dd-41aa-9d16-93702a24c775.png)
+
+### //upload
+![圖片](https://user-images.githubusercontent.com/77911816/174707999-0e45a0c0-44ef-4ca4-8257-19cde2a00732.png)
+
