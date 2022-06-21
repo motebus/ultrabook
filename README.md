@@ -31,6 +31,7 @@
 The Mote Browser. 
 *  [Browser](https://jujue.app/browser)
 *  [Snapcraft link](https://snapcraft.io/app-jujue)
+*  [jujue-app User Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jujue-app%20User%20Guide.md)
 
 -----
 <img align="left" width="70" height="70" src="https://i.imgur.com/lWgj5Fr.jpg" />
