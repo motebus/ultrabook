@@ -14,9 +14,10 @@
       1. By default, if the actual image size is larger than its panel size, the image will be resized to fit the panel, potentially having an additional border around the image. 
       2. If your image is smaller than the panel, the border around it may end up quite large (depends on panel size). 
       3. To make your image scale automatically to fill the panel (stretch and take up as much space as possible, disregarding aspect ratio), add `,"fullwidth":1` into the Params field. 
-  - **page://slider** (currently maitaining)
+### Apps that are still maitaining or unavailable
+- **page://slider** 
     * Params field: `{"json":["https://your-image-url","https://your-image-url",..."https://your-image-url"]}` 
-  - **page://chart**<br> (currently maitaining)
+- **page://chart** 
     * Available Chart types: bar, hbar, line, linearea, pie and circle. 
     * Data Field: 
        > {"chart":{"type":"line","title":"Sample Chart","data":{"columns":[{"type":"x","field":"field name","name":"Course name"},{"type":"y","field":"numerical weight","name":"measured aspect"}],"rows":[{"numerical weight":450,"field name":"A"},{"numerical weight":350,"field name":"B"},{"numerical weight":300,"field name":"C"},{"numerical weight":370,"field name":"D"},{"numerical weight":400,"field name":"E"}]}}}
@@ -26,10 +27,9 @@
        Other Samples:
        - QName= chartpractice, QCode=1611802967946
        - QName=011121, QCode=1610357672283
-   - **Bricks** (currently unavailable)<br>
-    1. Type`page://url` into the App Field.
-    2. Enter `{"url":"https://xxx"}` into the Params field, replacing `https://xxx` with the url of the brick.
-    See the jboard with the QName jbrick and go to https://git.page/jj/board?qname=jbrick for bricks demo. <br>
+- **Bricks(page://url)** (currently unavailable)
+    * Params field: `{"url":"https://your-brick-url"}` 
+    * See the jboard with the QName jbrick and go to https://git.page/jj/board?qname=jbrick for bricks demo.
     ![](https://i.imgur.com/xXEWyUx.png)
     
     
