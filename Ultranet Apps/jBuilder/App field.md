@@ -16,6 +16,8 @@
      - 3. To make your image scale automatically to fill the panel (stretch and take up as much space as possible, disregarding aspect ratio), add `,"fullwidth":1` into the Params field. 
 - **page://slider**
     * Params field: `{"json":["https://your-image-url","https://your-image-url",..."https://your-image-url"]}` 
+- **page://tg**
+    * Params field: see [Params filed.md](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/Params%20field.md)
 ### Apps that are still maitaining or unavailable
 - **page://chart** (maitaining)
     * Available Chart types: bar, hbar, line, linearea, pie and circle. 
