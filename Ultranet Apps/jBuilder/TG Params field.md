@@ -26,8 +26,17 @@ You must use these variables for page://tg to work
    * Example: `"dark":"yes"
 
 ### Examples:
-<img src="https://i.imgur.com/MphRaRD.png" width=428 height=500>
+1.
+```
+{"id":"-1001259349556,-1001259349556,-1001259349556,-1001259349556,-1001259349556,-1001259349556,-1001259349556,-1001259349556","title":"Photo,Youtube,Text,URL,PDF,MD,360,Video","type":"photo,youtube,text,url,pdf,md,360,video","count":"20,10,30,20,5,5,5,10","caption":"yes","play":"slide"}
+```
+2.
+```
+{"id":"-1001259349556,-1001259349556,-1001259349556,-1001259349556,-1001259349556,-1001259349556","title":"#coffee,#hr,#note,#weekly,#event,#yp","type":"youtube,photo,text,photo,photo,youtube","tag":"{coffee},{hr},{note},{weekly},{event},{yp}","count":"10,20,30,20,20,10","caption":"no","play":"slide"}
+```
+3.
+```
+{"id":"-523456788","type":"photo","count":"50","play":"slide"}
+```
 
-<img src="https://i.imgur.com/9CLF8rJ.png" width=428 height=500>
 
-<img src="https://i.imgur.com/i2749Wc.png" width=428 height=500>
