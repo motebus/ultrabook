@@ -4,12 +4,12 @@
     1. Params field: `{"url":"https://your-url","scroll":true}` 
     -  For url of youtube
     1. Directly enter the Youtube url of your video into the App Field.<br>
+      NOTE:
       * Use the standard address bar url, e.g. https://www.youtube.com/watch?v=VIDEOID.<br> 
       * Other formats sych as the video sharing link https://youtu.be/VIDEOID, or playlist links will not work in panel-frames. 
       * Leave the parameter field blank
-  - **Image**
-    1. Type `page://image` into the App Field.
-    2. Enter `{"url":"https://xxx"}` into the Params field, replacing `https://xxx` with your image address. 
+  - **page://image
+    2. Params field: `{"url":"https://your-image-url"}`
     - Note: By default, if the actual image size is larger than its panel size, the image will be resized to fit the panel, potentially having an additional border around the image.  <br> If your image is smaller than the panel, the border around it may end up quite large (depends on panel size). <br> To make your image scale automatically to fill the panel (stretch and take up as much space as possible, disregarding aspect ratio), enter `{"url":"https://xxx","fullwidth":1}` into the Params field. 
   - Slider (currently maitaining)
     1. Type `page://slider` into the App Field
