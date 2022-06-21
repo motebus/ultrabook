@@ -1,7 +1,7 @@
 ## Available Apps in App field 
 ### Directly enter page://xxx of App you want to use in the 'App' field 
   - **page://url** 
-    1. Params field enter `{"url":"https://your-url","scroll":true}` 
+    1. Params field: `{"url":"https://your-url","scroll":true}` 
     -  For url of youtube
     1. Directly enter the Youtube url of your video into the App Field.<br>
     2. Use the standard address bar url, e.g. https://www.youtube.com/watch?v=VIDEOID.<br> Other formats sych as the video sharing link https://youtu.be/VIDEOID, or playlist links will not work in panel-frames. 
