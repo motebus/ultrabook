@@ -3,22 +3,24 @@
 - **page://url** 
     * Params field: `{"url":"https://your-url","scroll":true}` 
 - **For url of youtube**
-     - Directly enter the Youtube url of your video into the App Field.<br>
+     - Directly enter the Youtube url of your video into the App field.
      - NOTE:
-     - 1. Use the standard address bar url, e.g. https://www.youtube.com/watch?v=VIDEOID.
-     - 2. Other formats sych as the video sharing link https://youtu.be/VIDEOID, or playlist links will not work in panel-frames. 
-     - 3. Leave the parameter field blank
+     1. Use the standard address bar url, e.g. https://www.youtube.com/watch?v=VIDEOID. <br>
+        Other formats sych as the video sharing link https://youtu.be/VIDEOID, or playlist links will not work in panel-frames. 
+     2. Leave the parameter field blank
+     3. Alternative way to add multiple Youtube videos: create a [TV channel](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/How%20to/Create%20a%20TV%20channel%20on%20Dock.md) on Dock Builder
 - **page://image**
     * Params field: `{"url":"https://your-image-url"}`
      - NOTE: 
-     - 1. By default, if the actual image size is larger than its panel size, the image will be resized to fit the panel, potentially having an additional border around the image. 
-     - 2. If your image is smaller than the panel, the border around it may end up quite large (depends on panel size). 
-     - 3. To make your image scale automatically to fill the panel (stretch and take up as much space as possible, disregarding aspect ratio), add `,"fullwidth":1` into the Params field. 
+     1. By default, if the actual image size is larger than its panel size, the image will be resized to fit the panel, potentially having an additional border around the image. 
+     2. If your image is smaller than the panel, the border around it may end up quite large (depends on panel size). 
+     3. To make your image scale automatically to fill the panel (stretch and take up as much space as possible, disregarding aspect ratio), add `,"fullwidth":1` into the Params field. 
 - **page://slider**
     * Params field: `{"json":["https://your-image-url","https://your-image-url",..."https://your-image-url"]}` 
 - **page://tg**
-    * Params field: see [Params filed.md](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/Params%20field.md)
-### Apps that are still maitaining or unavailable
+    * Params field: see [Params field.md](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/TG%20Params%20field.md)
+
+### Currently unavailable Apps
 - **page://chart** (maitaining)
     * Available Chart types: bar, hbar, line, linearea, pie and circle. 
     * Data Field: 
