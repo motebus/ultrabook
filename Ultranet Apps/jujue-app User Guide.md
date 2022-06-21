@@ -3,6 +3,8 @@
 ![](https://i.imgur.com/e1xV56s.png)
 ## Symbol //  (It will direct to a new web page for new function
 ### //urt
+![](https://i.imgur.com/CIHZyif.png)
+
 
 3. //obj
 4. //bucket
