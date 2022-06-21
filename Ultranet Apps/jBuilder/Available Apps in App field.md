@@ -27,7 +27,7 @@
        Other Samples:
        - QName= chartpractice, QCode=1611802967946
        - QName=011121, QCode=1610357672283
-- **Bricks(page://url)** (unavailable)
+- **page://url(bricks)** (unavailable)
     * Params field: `{"url":"https://your-brick-url"}` 
     * See the jboard with the QName jbrick and go to https://git.page/jj/board?qname=jbrick for bricks demo.
     ![](https://i.imgur.com/xXEWyUx.png)
