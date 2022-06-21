@@ -18,7 +18,7 @@
 - **page://slider**
     * Params field: `{"json":["https://your-image-url","https://your-image-url",..."https://your-image-url"]}` 
 - **page://tg**
-    * Params field: see [Params field.md](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/TG%20Params%20field.md)
+    * Params field: see [TG Params field.md](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/TG%20Params%20field.md)
 
 ### Currently unavailable Apps
 - **page://chart** (maitaining)
