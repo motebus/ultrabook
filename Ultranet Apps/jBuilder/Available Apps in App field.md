@@ -1,4 +1,5 @@
 ### Available Apps in App field 
+- Directly enter page://xx in the App field 
   - **page://url** 
     1. Enter `{"url":"https://xxx","scroll":true}` into the Params field, replacing `https://xxx` with the actual url of the website. 
     -  url of youtube
