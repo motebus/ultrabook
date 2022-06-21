@@ -1,11 +1,10 @@
-### Available Types of Panel Frame-Styles 
-  - **Web Page** 
-    1. Type`page://url` into the App Field.
-    2. Enter `{"url":"https://xxx","scroll":true}` into the Params field, replacing `https://xxx` with the actual url of the website. 
-  - **YouTube Video**
+### Available Apps in App field 
+  - **page://url** 
+    Enter `{"url":"https://xxx","scroll":true}` into the Params field, replacing `https://xxx` with the actual url of the website. 
+    -  url of youtube
     1. Enter the Youtube url of your video into the App Field.<br>
-       Note: Use the standard address bar url, e.g. https://www.youtube.com/watch?v=VIDEOID.<br> Other formats sych as the video sharing link https://youtu.be/VIDEOID, or playlist links will not work in panel-frames. 
-       * leave the parameter field blank
+    2. Use the standard address bar url, e.g. https://www.youtube.com/watch?v=VIDEOID.<br> Other formats sych as the video sharing link https://youtu.be/VIDEOID, or playlist links will not work in panel-frames. 
+    3. Leave the parameter field blank
   - **Image**
     1. Type `page://image` into the App Field.
     2. Enter `{"url":"https://xxx"}` into the Params field, replacing `https://xxx` with your image address. 
