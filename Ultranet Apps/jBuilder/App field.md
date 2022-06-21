@@ -1,4 +1,4 @@
-## Available Apps in App field 
+## App field 
 ### Directly enter page://xxx of App you want to use in the 'App' field 
   - **page://url** 
     * Params field: `{"url":"https://your-url","scroll":true}` 
