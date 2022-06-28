@@ -1,5 +1,5 @@
 # Qrun
-- fter finishing the flow, click on the <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button again in the top right corner and select "QRun" 
+- After finishing the flow, click on the <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button again in the top right corner and select "QRun" 
 - Choose one of them to deploy
 
 <img src="https://i.imgur.com/5zRsBQ9.png">
