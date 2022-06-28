@@ -10,5 +10,5 @@
 
 - Keep watching to see whether your flow works(ex:by tg,ioc,etc) even after you've logged out of fbuilder/shutdown your pc
 
-- Always Remeber to logout fbuidler!!!
+## Always Remeber to logout fbuidler after using!!!
 
