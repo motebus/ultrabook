@@ -5,7 +5,7 @@
 <img src="https://i.imgur.com/5zRsBQ9.png">
 
 - If a "Deploy success" or "Timeout" message shows up on your page, your QRun has been successful. 
-- If it shows something else then it means qrun is not succed
+- If it shows something else then it means qrun is not succed (please ask for help
 <img src="https://i.imgur.com/GV3RRGW.png">
 
 - Keep watching to see whether your flow works(ex:by tg,ioc,etc) even after you've logged out of fbuilder/shutdown your pc
