@@ -4,6 +4,7 @@
 * [Qbix](#qbix)
 * [Appendix](#appendix)
 
+---
 
 ## <h2 id="1">Ultra</h2>
 ### Ultra Desk
@@ -137,12 +138,16 @@ logmms is a logging system service for your EI device.
 * [MoteChat API](https://github.com/motebus/ultrabook/blob/main/Mote/MoteChat%20API.md)
 * [MoteBus-Error-Code](https://github.com/motebus/ultrabook/blob/main/Mote/MoteBus-Error-Code.md)
 
+---
+
 ## Qbix
 
 ### Qbix Application Notes
 * [motebus and mpodman](https://github.com/motebus/ultrabook/blob/main/Qbix/motebus%20and%20mpodman.md)
 * [qbixctl](https://github.com/motebus/ultrabook/blob/main/Qbix/qbixctl.md)
 * [qman](https://github.com/motebus/ultrabook/blob/main/Qbix/qman.md)
+
+---
 
 ## OTSI
 
@@ -153,6 +158,8 @@ logmms is a logging system service for your EI device.
 
 ### Remote Management
 * [AnyRoom Quick User Guide](https://github.com/motebus/ultrabook/blob/main/OTSI/AnyRoom%20Quick%20User%20Guide.md)
+
+---
 
 ## Appendix
 * [Appendix](https://github.com/motebus/ultrabook/tree/main/Appendix)
