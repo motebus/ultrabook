@@ -1,7 +1,9 @@
 # SmartScreen User Guide
 
 SmartScreen is a web-based screening service.
+
 Content across multiple displays and locations can be controlled remotely, @Smartscreen bot, or ubot on Node-Red control.
+
 Simply send images, Youtube videos, and urls from your Telegram-app.
 
 ![](https://i.imgur.com/aupapFd.png)
