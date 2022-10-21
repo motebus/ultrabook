@@ -20,7 +20,6 @@
 #### fBuilder
 A flow-based visual programming tool for easily deploying microservices and creating IoT control management systems.
 
-* [Browser](https://run.ypcloud.com/)
 * [Snapcraft link](https://snapcraft.io/fbuilder)
 * [fBuilder User Guide](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/fBuilder)
 
@@ -28,7 +27,7 @@ A flow-based visual programming tool for easily deploying microservices and crea
 
 #### jBuilder
 A web-based dashboard creator. Create dashboards for digital maintenance systems, presentations, interactive kiosks, customised websites and more.
-* [Browser](https://jbuilder.ypcloud.com/)
+
 * [Snapcraft link](https://snapcraft.io/jbuilder)
 * [jBuilder User Guide](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/jBuilder)
 
@@ -36,29 +35,29 @@ A web-based dashboard creator. Create dashboards for digital maintenance systems
 
 #### iBuilder
 iBuilder is a cloud-hosted Jupyter Notebook service with integrations for AI Models. 
-* [Browser](https://run.ypcloud.com/)
+
 * [iBuilder User Guide](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/iBuilder)
 
 <img align="left" height="70" src="https://i.imgur.com/gLlkmXT.png">
 
 #### pBuilder
 A website deployment tool for publishing websites to live servers in minutes.
-* [Browser](https://run.ypcloud.com/)
+
 * [pBuilder User Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/pBuilder%20User%20Guide.md)
 
 ## Ultra [Apps](https://jujue.app/browser)
 
-<img align="left" height="50" src="https://i.imgur.com/D0BZj5F.png" />
+[<img align="left" height="50" src="https://i.imgur.com/D0BZj5F.png" />](https://jujue.app/browser)
 
-#### jujue.app
+#### Jujue.app
 The Mote Browser. 
-*  [Browser](https://jujue.app/browser)
+
 *  [Snapcraft link](https://snapcraft.io/app-jujue)
 *  [jujue-app User Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jujue-app%20User%20Guide.md)
 
 <img align="left" width="100" height="70" src="https://i.imgur.com/5rrq8ur.png" />
 
-#### Jboard
+#### jBoard
 A service that display contents can be create by Jbuilder & display your digital dashboards and display boards from anywhere with JBoard
 * [Browser](https://jboard.ypcloud.com/)
 * [Snapcraft link](https://snapcraft.io/jboard)
