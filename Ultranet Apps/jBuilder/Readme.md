@@ -77,7 +77,7 @@ Below the tool bar, at the top of the work area is the header. There is no heade
 * jBuilder Beginner's Guide #1 - [making jBoard pages](https://www.youtube.com/watch?v=N1Rp2mCwv0c)
 * jBuilder Beginner's Guide #2 - [Dock Builder](https://www.youtube.com/watch?v=eQV3zaiLxyY)
 
-## Example jBoards
+## jBoard Examples
 - https://jboard.ypcloud.com/?q=shin.me
 - https://jboard.ypcloud.com/?q=allen.me
 - https://jboard.ypcloud.com/?q=weiting.me
