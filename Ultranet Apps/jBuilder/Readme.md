@@ -11,8 +11,8 @@
   * [Dock Library List](#Dock-Library-List)
 
 
-* jBoard url:https://jboard.ypcloud.com/
-* jBuilder url:https://jbuilder.ypcloud.com/
+* [jBoard](https://jboard.ypcloud.com/)
+* [jBuilder](https://jbuilder.ypcloud.com/)
 
 ## What is a jBoard
 With jBuilder you can create jBoards that can be used as digital display boards or digital dashboards.
