@@ -48,8 +48,6 @@ A website deployment tool for publishing websites to live servers in minutes.
 * [Browser](https://run.ypcloud.com/)
 * [pBuilder User Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/pBuilder%20User%20Guide.md)
 
----
-
 ## Ultra Apps
 
 <img align="left" height="50" src="https://i.imgur.com/D0BZj5F.png" />
