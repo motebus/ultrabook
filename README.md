@@ -72,44 +72,44 @@ A service that display contents can be manipulated by uBot by Node-Red, and @Sma
 * [SmartScreen User Guide](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/SmartScreen%20User%20Guide.md)
 
 ---
-<img align="left" height="70" src="https://i.imgur.com/r4vWzir.png" />
+[<img align="left" height="70" src="https://i.imgur.com/r4vWzir.png" />](https://snapcraft.io/sphere)
 
 #### [Sphere](https://snapcraft.io/sphere)
 It acts as the domain controller to your IoT Edge device, providing layers of protection to your data and MoteBus IoT messages
 
 ---
-<img align="left" height="70" src="https://i.imgur.com/MkxyTen.png" />
+[<img align="left" height="70" src="https://i.imgur.com/MkxyTen.png" />](https://github.com/motebus/moted-snap/releases)
 
 #### [moted](https://github.com/motebus/moted-snap/releases)
 moteOS Background Services
 > [moted install guide](https://github.com/motebus/ultranet/blob/main/Ultranet%20Apps/moted-install.md)
 
 ---
-<img align="left" height="70" src="https://i.imgur.com/5G5UVCX.png" />
+[<img align="left" height="70" src="https://i.imgur.com/5G5UVCX.png" />](https://snapcraft.io/mote)
 
 #### [mote](https://snapcraft.io/mote)
 mote is an OS for edge IoT device
 
 ---
-<img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/6381ab4a-7e9f-4a98-8749-7399c7485d2f.jpg.png" />
+[<img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/6381ab4a-7e9f-4a98-8749-7399c7485d2f.jpg.png" />](https://github.com/motebus/keybot-snap/releases)
 
 #### [keybot](https://github.com/motebus/keybot-snap/releases)
 Connecting your EI device to keyboards, mice, speakers/headsets, sensors, etc. 
 
 ---
-<img align="left" height="70" src="https://i.imgur.com/4HI2jcC.png" />
+[<img align="left" height="70" src="https://i.imgur.com/4HI2jcC.png" />](https://snapcraft.io/fbots)
 
 #### [fbots](https://snapcraft.io/fbots)
 fbots is a microservice system digital worker for managing autoscaling configurations.
 
 ---
-<img align="left" height="70" src="https://i.imgur.com/YCMbFyz.png" />
+[<img align="left" height="70" src="https://i.imgur.com/YCMbFyz.png" />](https://snapcraft.io/flowbot)
 
 #### [flowbot](https://snapcraft.io/flowbot)
 Flow designer based on node-red with motechat config nodes.
 
 ---
-<img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/9d3a2da3-db74-42b0-875c-7754a328074a.jpg.png" />
+[<img align="left" height="70" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2021/01/9d3a2da3-db74-42b0-875c-7754a328074a.jpg.png" />](https://snapcraft.io/logmms)
 
 #### [logmms](https://snapcraft.io/logmms)
 logmms is a logging system service for your EI device. 
