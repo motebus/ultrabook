@@ -7,7 +7,7 @@
 
 ## <h2 id="1">Ultra</h2>
 ### Ultra Desk
-#### [Clouder](https://github.com/YPCloudInc/Clouder)
+#### [Clouder Community](https://github.com/YPCloudInc/Clouder)
 #### [Welcome to YP](https://github.com/motebus/ultrabook/blob/main/Ultra/Welcome%20to%20YP.md)
 
 ---
