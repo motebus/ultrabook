@@ -1,6 +1,4 @@
 # Welcome to YP
-![](https://i.imgur.com/FTdU6lQ.jpg)
-![](https://i.imgur.com/kR4cYiI.jpg)
 
 # First, we need to set up our own workspace
 ## Telegram
@@ -54,3 +52,6 @@ Reminders:
     * 中文: https://markdown.tw/
 
 For guides on what to do next to build your Clouder Skills, go to the `clouder-md` repo on GitLab. 
+
+![](https://i.imgur.com/FTdU6lQ.jpg)
+![](https://i.imgur.com/kR4cYiI.jpg)
