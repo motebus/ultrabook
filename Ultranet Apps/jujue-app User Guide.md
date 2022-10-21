@@ -1,9 +1,6 @@
 # Jujue App User Guide
-https://jujue.app 
 
-aka Jujue Browser
-
-An IoT Browser
+[Jujue App](https://jujue.app), also known as Jujue Browser, is an IoT Browser
 
 <img src="https://i.imgur.com/IoaEtzl.png" width=870 height=488>
 
