@@ -10,7 +10,7 @@
   * [Board Library List](#Board-Library-List)
   * [Dock Library List](#Dock-Library-List)
 
-
+#### URLs
 * [jBoard](https://jboard.ypcloud.com/)
 * [jBuilder](https://jbuilder.ypcloud.com/)
 
@@ -74,13 +74,14 @@ Below the tool bar, at the top of the work area is the header. There is no heade
 
 
 ## Tutorial video
-* 1: https://www.youtube.com/watch?v=N1Rp2mCwv0c
-* 2: https://www.youtube.com/watch?v=eQV3zaiLxyY
+* jBuilder Beginner's Guide #1 - [making jBoard pages](https://www.youtube.com/watch?v=N1Rp2mCwv0c)
+* jBuilder Beginner's Guide #2 - [Dock Builder](https://www.youtube.com/watch?v=eQV3zaiLxyY)
 
 ## Example jBoards
-* 1: https://jboard.ypcloud.com/?q=shin.me
-* 2: https://jboard.ypcloud.com/?q=eileen.me
-* 3: https://jboard.ypcloud.com/?q=weiting.me
+- https://jboard.ypcloud.com/?q=shin.me
+- https://jboard.ypcloud.com/?q=allen.me
+- https://jboard.ypcloud.com/?q=weiting.me
+- https://jboard.ypcloud.com/?q=eugene.me
 
 ## Board Library List
 <img src="https://i.imgur.com/gD2OhRz.png" width=760 height=150>
