@@ -4,7 +4,7 @@
 
 ---
 
-## Left Columns - List of Nodes you can use
+## Left Columns - List of Nodes
 
   * You won't be able to install other nodes from palette, you may explore [Node-RED](https://nodered.org/) if you're interested in trying nodes not in the list.
 
