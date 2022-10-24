@@ -37,8 +37,8 @@
 
 ---
 
-### | inject 
-[<img src="https://i.imgur.com/CLSpzfz.png" width=110 height=30>](https://run.ypcloud.com) > [<img src="https://i.imgur.com/sWgEnlW.png" width=120 height=35>](https://run.ypcloud.com)
+### | inject [<img src="https://i.imgur.com/CLSpzfz.png" width=110 height=30>](https://run.ypcloud.com)
+> [<img src="https://i.imgur.com/sWgEnlW.png" width=120 height=35>](https://run.ypcloud.com)
 
 * It's also known as a "timestamp" node as it can trigger on specific time
 
@@ -52,7 +52,9 @@
 
 > [<img src="https://i.imgur.com/ppCarhZ.png" width=500 height=700>](https://run.ypcloud.com)
 
-### | set
+---
+
+### | set [<img src="https://i.imgur.com/mrUJBKE.png" width=110 height=30>](https://run.ypcloud.com)
 * To set the name of device (e.g. your container), set the “EiName” field to a name you want
 
 * Then connect an inject node to the set node, deploy, and click the button
@@ -61,12 +63,16 @@
 
 > [<img src="https://i.imgur.com/5N7rr5q.png" width=300 height=200>](https://run.ypcloud.com)
 
-### | payload
+---
+
+### | payload [<img src="https://i.imgur.com/XlbGGpk.png" width=110 height=30>](https://run.ypcloud.com)
 * To configure a payload that other Motechat devices can receive
 
 * It's in JSON format
 
-### | function
+---
+
+### | function [<img src="https://i.imgur.com/QX7O8PO.png" width=110 height=30>](https://run.ypcloud.com)
 * One of the most versatile of the basic nodes 
 
 * Allows to run JavaScript code against the messages passed through
@@ -77,36 +83,47 @@
 
 * Can work many way as long as it returns an msg object, returning anything else results error. 
 
+---
 
-### | send
-[<img src="https://i.imgur.com/LQ1jsMD.png" width=110 height=30>](https://run.ypcloud.com) > [<img src="https://i.imgur.com/Y9R4kge.png" width=120 height=35>](https://run.ypcloud.com)
+### | send [<img src="https://i.imgur.com/LQ1jsMD.png" width=110 height=30>](https://run.ypcloud.com)
+> [<img src="https://i.imgur.com/Y9R4kge.png" width=120 height=35>](https://run.ypcloud.com)
 
 * To send payloads to other devices or channels.
 
 * The Send node has two output ports: the top one is for successful sends and the bottom one is for errors
 
 * Send DDN by >>xxx & topic by xxx://xxx (ex:>>comm,tg://-12345678)
- 
-### | call
+
+---
+
+### | call [<img src="https://i.imgur.com/cF7R86U.png" width=110 height=30>](https://run.ypcloud.com)
 * Can be used to request services from a number of Motechat-configured devices
 
 * This will be used to acquire information stored in YPCloud’s Object Store
 
-### | switch
+---
+
+### | switch [<img src="https://i.imgur.com/UuE2qCf.png" width=110 height=30>](https://run.ypcloud.com)
 * Can add as many output ports as you need.
 
 * Can be use like for loop
 
-### | debug
-[<img src="https://i.imgur.com/zdAEqm1.png" width=110 height=30>](https://run.ypcloud.com) > [<img src="https://i.imgur.com/jJW9AuB.png" width=120 height=35>](https://run.ypcloud.com)
+---
+
+### | debug [<img src="https://i.imgur.com/zdAEqm1.png" width=110 height=30>](https://run.ypcloud.com)
+> [<img src="https://i.imgur.com/jJW9AuB.png" width=120 height=35>](https://run.ypcloud.com)
 
 Options
 > [<img src="https://i.imgur.com/AQMj9hI.png" width=400 height=300>](https://run.ypcloud.com) [<img src="https://i.imgur.com/hkZe0nE.png" width=400 height=300>](https://run.ypcloud.com)
 
-### | comment 
+---
+
+### | comment [<img src="https://i.imgur.com/URNpYxU.png" width=110 height=30>](https://run.ypcloud.com)
 * Used to add text comments to flows
 
-### <h3 id="1">| on/ret event</h3>
+---
+
+### <h3 id="1">| on/ret event</h3> [<img src="https://i.imgur.com/6mbbHyl.png" width=110 height=30>](https://run.ypcloud.com) & [<img src="https://i.imgur.com/HCFQkIE.png" width=110 height=30>](https://run.ypcloud.com)
 It is used on a contanier to receive Motechat messages from other containers
 
 * These nodes are connected like this
