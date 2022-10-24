@@ -4,7 +4,7 @@
 ## Left Columns - List of Nodes you can use
   * You won't be able to install other nodes from palette, you may explore [Node-RED](https://nodered.org/) if you're interested in trying nodes not in the list.
   
-## Middle Workspace
+## Middle - Workspace
   * [<img src="https://i.imgur.com/iOCKLDh.png" width=800 height=30>](https://run.ypcloud.com)
   * Includes flow tabs
   * [<img src="https://i.imgur.com/QSdg0nI.png" width=30 height=30>](https://run.ypcloud.com) to add tabs
