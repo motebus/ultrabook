@@ -14,7 +14,7 @@
 
 ---
 
-## Nodes table
+## Nodes Table
 * [inject](#inject) [<img src="https://i.imgur.com/CLSpzfz.png" width=110 height=30>](https://run.ypcloud.com)
 
 * [set](#set) [<img src="https://i.imgur.com/mrUJBKE.png" width=110 height=30>](https://run.ypcloud.com)
