@@ -35,6 +35,8 @@
 
 * [on/ret event](#1) <img src="https://i.imgur.com/6mbbHyl.png" width=110 height=30> & <img src="https://i.imgur.com/HCFQkIE.png" width=110 height=30>
 
+---
+
 ### inject 
 * <img src="https://i.imgur.com/CLSpzfz.png" width=110 height=30> => <img src="https://i.imgur.com/sWgEnlW.png" width=120 height=35>
 * It's also known as a "timestamp" node as it can trigger on specific time
