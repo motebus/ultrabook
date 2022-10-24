@@ -1,21 +1,22 @@
 # fBuilder User Guide
-URL - [RUN](https://run.ypcloud.com) -> login -> choose "fBuilder" then click "go" to start 
+URL - [RUN](https://run.ypcloud.com) -> Login -> Choose "fBuilder" then click "go" to start 
 
-## Introduction
-Flow Builder (fBuilder) is a low-code programming environment developed by YPCloud, and modelled off IBM’s Node-RED.
+Flow Builder (fBuilder) is a low-code programming environment developed by YPCloud, and modelled off IBM’s Node-RED
 
 When you launch a flow, the message travels down the chain of nodes until it reaches the end, with the output of one node being the input of the following node.
 
 ---
 
-## [UI Introduction](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/UI%20introduction.md)
+## Introduction
 
-## [Basic Nodes introduction](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/basic%20nodes%20intro.md)
+### [UI](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/UI%20introduction.md)
 
-## [QRun](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/qrun.md)
+### [Basic Nodes](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/basic%20nodes%20intro.md)
 
-## [Flow Import & Export](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/import%20%26%20export.md)
+### [QRun](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/qrun.md)
 
-## [Twin Clocking Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/Twin%20guide.md)
+### [Flow Import & Export](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/import%20%26%20export.md)
 
-## [Sample Flows](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/Sample%20Flows/Readme.md)
+### [Twin Clocking Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/Twin%20guide.md)
+
+### [Sample Flows](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/Sample%20Flows/Readme.md)
