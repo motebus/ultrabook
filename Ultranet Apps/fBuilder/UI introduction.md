@@ -4,7 +4,7 @@
 
 ---
 
-## Left Columns - List of Nodes
+## Left Column - List of Nodes
 
   * You won't be able to install nodes from palette, you may explore [Node-RED](https://nodered.org/) if you're interested in trying nodes out of the list.
 
@@ -31,7 +31,7 @@ Log Out - [<img src="https://i.imgur.com/LVwWqqI.png" width=30 height=30>](https
 
 ---
 
-## Right Columns - Flow Management Window [<img src="https://i.imgur.com/xEKRbxs.png" width=200 height=30>](https://run.ypcloud.com)
+## Right Column - Flow Management Window [<img src="https://i.imgur.com/xEKRbxs.png" width=200 height=30>](https://run.ypcloud.com)
 
 [<img src="https://i.imgur.com/yf4T3Be.png" width=30 height=30>](https://run.ypcloud.com) - Information: Include "enable/disable flows"
 > [<img src="https://i.imgur.com/UHPdPPh.png" width=230 height=250>](https://run.ypcloud.com)
