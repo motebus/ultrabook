@@ -1,27 +1,39 @@
 ## Tips
-* 1. For every node "double click" to edit content, and remember to press <img src="https://i.imgur.com/a1M9i9h.png" width=60 height=25> for each when finish
-* 2. Can use "ctrl+c" & "ctrl+v" to copy/paste nodes
-* 3. Can use mouse to "frame up" multi nodes for moving or copy/paste
-* 4. Do Remember to click <img src="https://i.imgur.com/SbNMST5.png" width=100 height=25> before debug/leaving page else changes won't get saved, the button itself becomes blue after deploying
-* 5. As an example <img src="https://i.imgur.com/7KWSIGM.png" width=110 height=45> 
-    * If the "red triangle" appears means the content of node is empty or there's bug in json code 
-    * If the "blue dot" appears means the node is not "Deployed" yet click <img src="https://i.imgur.com/SbNMST5.png" width=100 height=25> 
+
+1. "Double click" each node to edit contents, press each node's [<img src="https://i.imgur.com/a1M9i9h.png" width=60 height=25>](https://run.ypcloud.com) when finish
+
+2. You may use "ctrl+c" & "ctrl+v" to copy/paste nodes
+
+3. You may "frame up" multi nodes using your mouse to move or copy/paste
+
+4. Click [<img src="https://i.imgur.com/SbNMST5.png" width=100 height=25>](https://run.ypcloud.com) before debug/leaving page, or else the changes you've made  won't be saved, the button turns blue after deploying
+
+5. Example - [<img src="https://i.imgur.com/7KWSIGM.png" width=110 height=45>](https://run.ypcloud.com) 
+  - If the "Red triangle" appears, the content of node is empty or there's bug in the json code 
+  - If the "Blue dot" appears, the node is not "Deployed" yet click [<img src="https://i.imgur.com/SbNMST5.png" width=100 height=25>](https://run.ypcloud.com) 
+
+---
 
 ## Nodes table
 * [inject](#inject) <img src="https://i.imgur.com/CLSpzfz.png" width=110 height=30> 
+
 * [set](#set) <img src="https://i.imgur.com/mrUJBKE.png" width=110 height=30>
+
 * [payload](#payload) <img src="https://i.imgur.com/XlbGGpk.png" width=110 height=30>
+
 * [function](#function) <img src="https://i.imgur.com/QX7O8PO.png" width=110 height=30>
+
 * [send](#send) <img src="https://i.imgur.com/LQ1jsMD.png" width=110 height=30>
+
 * [call](#call) <img src="https://i.imgur.com/cF7R86U.png" width=110 height=30>
+
 * [switch](#switch) <img src="https://i.imgur.com/UuE2qCf.png" width=110 height=30>
+
 * [debug](#debug) <img src="https://i.imgur.com/zdAEqm1.png" width=110 height=30>
+
 * [comment](#comment) <img src="https://i.imgur.com/URNpYxU.png" width=110 height=30>
+
 * [on/ret event](#1) <img src="https://i.imgur.com/6mbbHyl.png" width=110 height=30> & <img src="https://i.imgur.com/HCFQkIE.png" width=110 height=30>
-
-
-
-
 
 ### inject 
 * <img src="https://i.imgur.com/CLSpzfz.png" width=110 height=30> => <img src="https://i.imgur.com/sWgEnlW.png" width=120 height=35>
