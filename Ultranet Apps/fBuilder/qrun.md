@@ -1,14 +1,14 @@
 # QRun
-- After finishing the flow, click on the <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button again in the top right corner and select "QRun" 
-- Choose one of them to deploy
 
-<img src="https://i.imgur.com/5zRsBQ9.png">
+After finishing the flow, click [<img src="https://i.imgur.com/66dK5wO.png" width=20 height=20>](https://run.ypcloud.com) (top right corner) and select "QRun"
 
-- If a "Deploy success" or "Timeout" message shows up on your page, your QRun has been successful. 
-- If it shows something else then it means your QRun has failed (please ask for help
-<img src="https://i.imgur.com/GV3RRGW.png">
+Select one of the following to deploy
+[<img src="https://i.imgur.com/5zRsBQ9.png">](https://run.ypcloud.com)
 
-- Keep watching to see whether your flow works(ex:by tg,ioc,etc) even after you've logged out of fBuilder/shutdown your pc
+If a "Deploy success" or "Timeout" message shows up on your page, your QRun has been successful
 
-## Always remember to logout of fBuilder!!
+If its showing something else, your QRun has failed
+> (ask for help)[<img src="https://i.imgur.com/GV3RRGW.png">](https://run.ypcloud.com)
 
+Check whether your flow works (through Telegram Group, ioc, etc.) after you've logged out of fBuilder / shutdown your pc
+> Remember to logout of fBuilder after use!
