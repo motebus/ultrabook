@@ -1,4 +1,4 @@
-# UI Introduction
+# User Interface
 
 [<img src="https://i.imgur.com/V8hyXg5.png" width=1200 height=600>](https://run.ypcloud.com)
 
