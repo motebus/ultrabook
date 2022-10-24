@@ -38,54 +38,76 @@
 ---
 
 ### inject 
-* <img src="https://i.imgur.com/CLSpzfz.png" width=110 height=30> => <img src="https://i.imgur.com/sWgEnlW.png" width=120 height=35>
+<img src="https://i.imgur.com/CLSpzfz.png" width=110 height=30> > <img src="https://i.imgur.com/sWgEnlW.png" width=120 height=35>
+
 * It's also known as a "timestamp" node as it can trigger on specific time
+
 * Usually the first node of a chain
+
 * After Deploying click the blue button on the left of the node to trigger
+
 * The check box of "inject once after 0.1/customize seconds" means that after Deploying it will auto inject once
+
 * Repeat can customize the time to execute the chain repeatedly
+
 * <img src="https://i.imgur.com/ppCarhZ.png" width=500 height=700>
 
 ### set
 * To set the name of device (e.g. your container), set the “EiName” field to a name you want
-* Then connect an inject node to the set node, deploy, and click the button 
+
+* Then connect an inject node to the set node, deploy, and click the button
+
 * Device is now set to that name
+
 * <img src="https://i.imgur.com/5N7rr5q.png" width=300 height=200>
 
 ### payload
-* To configure a payload that other Motechat devices can receive 
+* To configure a payload that other Motechat devices can receive
+
 * It's in JSON format
 
 ### function
 * One of the most versatile of the basic nodes 
+
 * Allows to run JavaScript code against the messages passed through
+
 * By default, messages are passed in as an object called msg, and the function would return the input with the line “return msg;”
-* Returning “null” ends the flow 
+
+* Returning “null” ends the flow
+
 * Can work many way as long as it returns an msg object, returning anything else results error. 
 
 
 ### send
-* <img src="https://i.imgur.com/LQ1jsMD.png" width=110 height=30> => <img src="https://i.imgur.com/Y9R4kge.png" width=120 height=35>
-* To send payloads to other devices or channels. 
+<img src="https://i.imgur.com/LQ1jsMD.png" width=110 height=30> => <img src="https://i.imgur.com/Y9R4kge.png" width=120 height=35>
+
+* To send payloads to other devices or channels.
+
 * The Send node has two output ports: the top one is for successful sends and the bottom one is for errors
+
 * Send DDN by >>xxx & topic by xxx://xxx (ex:>>comm,tg://-12345678)
  
 ### call
-* Can be used to request services from a number of Motechat-configured devices 
+* Can be used to request services from a number of Motechat-configured devices
+
 * This will be used to acquire information stored in YPCloud’s Object Store
 
 ### switch
-* Can add as many output ports as you need. 
+* Can add as many output ports as you need.
+
 * Can be use like for loop
 
 ### debug
-* <img src="https://i.imgur.com/zdAEqm1.png" width=110 height=30> => <img src="https://i.imgur.com/jJW9AuB.png" width=120 height=35>
+<img src="https://i.imgur.com/zdAEqm1.png" width=110 height=30> > <img src="https://i.imgur.com/jJW9AuB.png" width=120 height=35>
+
 * Can choose <img src="https://i.imgur.com/AQMj9hI.png" width=400 height=300> <img src="https://i.imgur.com/hkZe0nE.png" width=400 height=300>
 
 ### comment 
 * Used to add text comments to flows
 
 ### <h3 id="1">on/ret event</h3>
-* It is used on a contanier to receive Motechat messages from other containers
+It is used on a contanier to receive Motechat messages from other containers
+
 * These nodes are connected like this
+
 * <img src="https://i.imgur.com/6JCxVpb.png" width=450 height=120>
