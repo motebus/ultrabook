@@ -19,4 +19,4 @@ When you launch a flow, the message travels down the chain of nodes until it rea
 
 ### [Twin Clocking Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/Twin%20guide.md)
 
-### [Sample Flows](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/Sample%20Flows/Readme.md)
+### [Samples](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/Sample%20Flows/Readme.md)
