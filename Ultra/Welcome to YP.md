@@ -13,11 +13,11 @@ This is the app where all communication and updates are hold,
 * clouder://room 雲耕隊
 * yp://club 讀書會
 
-yp://room is the Telegram group used for internal meetings (via Voice Chat). It's integrated to the jBoard `[yp.work](https://jboard.ypcloud.com/?q=yp.work)`. 
+yp://room is the Telegram group used for internal meetings (via Voice Chat). It's integrated to the jBoard [yp.work](https://jboard.ypcloud.com/?q=yp.work). 
 
-clouder://room 雲耕隊 is the Telegram group used for 讀書會 Reading Club meetings. If you are presenting, please send your videos or presentation slides to this group. It's integrated to the jBoard `[clouder.tv](https://jboard.ypcloud.com/?q=clouder.tv)`. 
+clouder://room 雲耕隊 is the Telegram group used for 讀書會 Reading Club meetings. If you are presenting, please send your videos or presentation slides to this group. It's integrated to the jBoard [clouder.tv](https://jboard.ypcloud.com/?q=clouder.tv). 
 
-yp://club 讀書會 is the Telegram group where clouders share articles and other links, from topics they are studying, to recent news and developments in the industry. It is also integrated to `[clouder.tv](https://jboard.ypcloud.com/?q=clouder.tv)` on the menu `[ypc://KM](https://git.page/jj/board?qname=pagetg-km-url)`.
+yp://club 讀書會 is the Telegram group where clouders share articles and other links, from topics they are studying, to recent news and developments in the industry. It is also integrated to [clouder.tv](https://jboard.ypcloud.com/?q=clouder.tv) on the menu [ypc://KM](https://git.page/jj/board?qname=pagetg-km-url).
 
 ---
 
@@ -68,7 +68,7 @@ Reminders:
 * Your code and other resources you develop at YPCloud will be stored in GitOps.
 * Markdown Syntax Guide - [English](https://www.markdownguide.org/basic-syntax/) / [中文](https://markdown.tw/) 
 
-For guides on what to do next to build your Clouder Skills, visit `[clouder-md](https://gitops.ypcloud.com/clouder-guide/clouder-md/)` repo on GitLab. 
+For guides on what to do next to build your Clouder Skills, visit [clouder-md](https://gitops.ypcloud.com/clouder-guide/clouder-md/) repo on GitLab. 
 
 [![](https://i.imgur.com/FTdU6lQ.jpg)](https://www.ypcloud.com/)
 [![](https://i.imgur.com/kR4cYiI.jpg)](https://www.ypcloud.com/)
