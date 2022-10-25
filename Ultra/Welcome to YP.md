@@ -22,7 +22,7 @@ yp://club 讀書會 is the Telegram group where clouders share articles and othe
 ---
 
 ## | YP Account
-| First Prority - Single Sign On Purpose
+| First Priority - Single Sign On Purpose
 
 Create a YP account:
 1. Head to [account.ypcloud.com](https://account.ypcloud.com/#/login)
