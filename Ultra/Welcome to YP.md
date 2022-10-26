@@ -17,6 +17,9 @@ This is the app where all communication and updates are hold,
 * clouder://room 雲耕隊
 * yp://club 讀書會
 
+
+※ “xx” refers to the clouder group (e.g. c25) 
+
 yp://room is the Telegram group used for internal meetings (via Voice Chat). It's integrated to the jBoard [yp.work](https://jboard.ypcloud.com/?q=yp.work). 
 
 clouder://room 雲耕隊 is the Telegram group used for 讀書會 Reading Club meetings. If you are presenting, please send your videos or presentation slides to this group. It's integrated to the jBoard [clouder.tv](https://jboard.ypcloud.com/?q=clouder.tv). 
