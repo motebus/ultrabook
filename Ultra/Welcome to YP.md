@@ -57,7 +57,7 @@ The account to to access GitOps, fBuilder, jBuilder, etc.
 
 ---
 
-## | GitLab - GitOps
+## | [GitLab - GitOps](https://gitlab.com/)
 
 [<img align="left" width="70" height="70" src="https://user-images.githubusercontent.com/116076967/197919454-437fcccc-1d13-4514-9db0-6ed0fa399b7b.png" />](https://gitlab.com/)
 
