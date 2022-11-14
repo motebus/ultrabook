@@ -15,6 +15,7 @@
 * [jBoard](https://jboard.ypcloud.com/)
 * [jBuilder](https://jbuilder.ypcloud.com/)
 
+---
 ## What is a jBoard
 With jBuilder you can create jBoards that can be used as digital display boards or digital dashboards.
 
@@ -24,14 +25,17 @@ You can navigate between dock pages from the dock menu at the bottom of a jBoard
 
 In other words: jBoard = boards + docks
 
+---
 ## Example of a Board created with jBuilder:
 
 ![](https://i.imgur.com/aISUXNM.png)
 
+---
 ## Example of a jBoard after combined with Dock builder: 
 
 ![](https://i.imgur.com/gBYGHpz.png)
 
+---
 ## jBuilder and Dock Builder
 There are two main work areas involved in jBuilder. <br>
 In the default jBuilder work area you create individual boards, then move on to the Dock Builder work area to combine a series of boards to create a complete jBoard.
@@ -39,10 +43,12 @@ In the default jBuilder work area you create individual boards, then move on to 
 * jbuilder is to make boards
 * Dock buidler is to add docks and let the boards combine into a jBoard
 
+---
 ## How to access Dock Builder: 
 From the default jBuilder work area, click on the <img src="https://i.imgur.com/BwmKrTz.png" width=33 height=30> icon on the top left corner to go to Dock Builder. <br>
 To leave Dock Builder and return to jBuilder, click the <img src="https://i.imgur.com/HopFYkU.png" width=35 height=30> icon. 
 
+---
 ## jBuilder UI
 <img src="https://i.imgur.com/fuglHd7.png" width=760 height=475>
 
@@ -59,6 +65,7 @@ The icons at the right of the tool bar have the following functions:
 * Open board library list <img src="https://i.imgur.com/rNDVXuk.png" width=30 height=30>
 * Logout from your account <img src="https://i.imgur.com/EvC18xA.png" width=32 height=30>
 
+---
 ## Dock Builder UI
 <img src="https://i.imgur.com/ShWoIiB.png" width=760 height=475>
 
@@ -73,18 +80,20 @@ The icons at the right of the tool bar have the following functions:
 
 Below the tool bar, at the top of the work area is the header. There is no header by default, but if you wish to add one, click <img src="https://i.imgur.com/6biIEa1.png" width=31 height=30> to edit. 
 
+---
 ## [Process of making a jBoard](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/Process%20of%20making%20a%20jBoard.md)
 
-## Tutorial video
+### Tutorial video
 * jBuilder Beginner's Guide #1 - [making jBoard pages](https://www.youtube.com/watch?v=N1Rp2mCwv0c)
 * jBuilder Beginner's Guide #2 - [Dock Builder](https://www.youtube.com/watch?v=eQV3zaiLxyY)
 
-## jBoard Examples
+### jBoard Examples
 - https://jboard.ypcloud.com/?q=shin.me
 - https://jboard.ypcloud.com/?q=allen.me
 - https://jboard.ypcloud.com/?q=weiting.me
 - https://jboard.ypcloud.com/?q=eugene.me
 
+---
 ## Board Library List
 <img src="https://i.imgur.com/gD2OhRz.png" width=760 height=150>
 
@@ -100,4 +109,5 @@ Below the tool bar, at the top of the work area is the header. There is no heade
 - Clone
 - Edit Qname & name 
 
+---
 ## [YP Interview Task](https://github.com/YPCloudInc/Clouder/blob/main/md/interview%20task.md)
