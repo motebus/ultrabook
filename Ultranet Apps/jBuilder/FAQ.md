@@ -22,8 +22,8 @@
 <br>
 
 有些YouTube影片 (尤其是來經過官方驗證頻道的頻道) 有嵌入限制
-> 可把YouTube 連結從 (e.g.) https://www.youtube.com/<span style="color: red">watch?v=</span>N1Rp2mCwv0c
-> 修改至 (e.g.) https://www.youtube.com/<span style="color: red">embed/</span>N1Rp2mCwv0c
+> 可把YouTube 連結從 (watch?v=) https://www.youtube.com/watch?v=N1Rp2mCwv0c
+> 修改至 (embed/) https://www.youtube.com/embed/N1Rp2mCwv0c
 > 或 建議您找別的影片使用
 
 ---
