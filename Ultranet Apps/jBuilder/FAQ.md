@@ -44,7 +44,7 @@
 
 ---
 
-### Q - 為什麼網頁嵌入JBuilder後，JBoard介面的網頁卻無法捲動？
+### Q - 為什麼網頁嵌入jBuilder後，jBoard介面的網頁卻無法捲動？
 - 可以嘗試在網址後加入，"scroll":true，
 
 ## FAQs
