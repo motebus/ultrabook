@@ -111,5 +111,4 @@ Below the tool bar, at the top of the work area is the header. There is no heade
 - Edit Qname & name 
 
 ---
-## [YP Interview Task](https://github.com/YPCloudInc/Clouder/blob/main/md/interview%20task.md)
 ### [FAQ](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/FAQ.md)
