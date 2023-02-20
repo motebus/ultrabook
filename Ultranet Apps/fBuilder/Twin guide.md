@@ -22,7 +22,7 @@ The follow are steps to builde a "twin":
 [<img src="https://i.imgur.com/jspv6Fy.png">](https://run.ypcloud.com)
 
 ### Drag in nodes from the Node Palette sidebar on the left to the workspace. 
-* Drag in 5x [<img src="https://i.imgur.com/dcq5SnC.png" width=100 height=30>](https://run.ypcloud.com) node. They'll become [(https://run.ypcloud.com)<img src="https://i.imgur.com/UOdTwVI.png" width=100 height=30>](https://run.ypcloud.com)
+* Drag in 5x [<img src="https://i.imgur.com/dcq5SnC.png" width=100 height=30>](https://run.ypcloud.com) node. They'll become [<img src="https://i.imgur.com/UOdTwVI.png" width=100 height=30>](https://run.ypcloud.com)
 * Drag in 2x [<img src="https://i.imgur.com/Qzisc1K.png" width=100 height=30>](https://run.ypcloud.com) node. They'll become [<img src="https://i.imgur.com/hpUnuGs.png" width=100 height=30>](https://run.ypcloud.com)
 * Drag in 1x [<img src="https://i.imgur.com/1664YQI.png" width=100 height=30>](https://run.ypcloud.com) node. They'll become [<img src="https://i.imgur.com/BUNoE2p.png" width=100 height=30>](https://run.ypcloud.com)
 * Drag in 1x [<img src="https://i.imgur.com/6vCZIev.png" width=100 height=30>](https://run.ypcloud.com) node. They'll become [<img src="https://i.imgur.com/ocPKneJ.png" width=120 height=50>](https://run.ypcloud.com)
