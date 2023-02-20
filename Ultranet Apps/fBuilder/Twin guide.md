@@ -8,7 +8,7 @@ Your “twin” should be clocking in 4 times a day: 00:00, 09:00, 12:00, and 18
 The follow are steps to builde a "twin": 
 
 ### Join Telegram Group
-* clockin://cXX
+* [clockin://open](https://t.me/clockin_open)
 
 ### Go to fBuilder
 * fBuilder URL - [Run](https://run.ypcloud.com)
