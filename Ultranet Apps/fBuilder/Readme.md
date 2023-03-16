@@ -13,7 +13,7 @@ When you launch a flow, the message travels down the chain of nodes until it rea
 
 - [Basic Nodes](#Basic-Nodes)
 
-- [QRun](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/qrun.md)
+- [QRun](#QRun)
 
 - [Flow Import & Export](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/import%20%26%20export.md)
 
@@ -223,5 +223,22 @@ It is used on a contanier to receive Motechat messages from other containers
 * These nodes are connected like this
 
 > [<img src="https://i.imgur.com/6JCxVpb.png" width=450 height=120>](https://run.ypcloud.com)
+
+---
+
+# QRun
+
+After finishing the flow, click [<img src="https://i.imgur.com/66dK5wO.png" width=20 height=20>](https://run.ypcloud.com) (top right corner) and select "QRun"
+
+Select one of the following to deploy
+[<img src="https://i.imgur.com/5zRsBQ9.png">](https://run.ypcloud.com)
+
+If a "Deploy success" or "Timeout" message shows up on your page, your QRun has been successful
+
+If its showing something else, your QRun has failed
+> (ask for help)[<img src="https://i.imgur.com/GV3RRGW.png">](https://run.ypcloud.com)
+
+Check whether your flow works (through Telegram Group, ioc, etc.) after you've logged out of fBuilder / shutdown your pc
+> Remember to logout of fBuilder after use!
 
 ---
