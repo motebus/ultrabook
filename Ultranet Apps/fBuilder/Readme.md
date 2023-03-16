@@ -17,9 +17,15 @@ When you launch a flow, the message travels down the chain of nodes until it rea
 
 - [Flow Import & Export](#Flow-Import-and-Export)
 
-#### [Twin Clocking Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/Twin%20guide.md)
+### FlowBot Guide (Sample)
 
-#### [Samples](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/Sample%20Flows/Readme.md)
+- [Twin Clocking](https://github.com/YPCloudInc/Clouder/blob/main/md/twin.md)
+
+- [ChatBot](https://github.com/YPCloudInc/Clouder/blob/main/md/chatbot.md)
+
+- [FormBot](https://github.com/YPCloudInc/Clouder/blob/main/md/form.md)
+
+### [Samples](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/Sample%20Flows/Readme.md)
 
 ---
 
