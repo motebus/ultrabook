@@ -15,7 +15,7 @@ When you launch a flow, the message travels down the chain of nodes until it rea
 
 - [QRun](#QRun)
 
-- [Flow Import & Export](#Flow-Import-&-Export)
+- [Flow Import & Export](#Flow-Import-and-Export)
 
 #### [Twin Clocking Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/Twin%20guide.md)
 
@@ -243,7 +243,7 @@ Check whether your flow works (through Telegram Group, ioc, etc.) after you've l
 
 ---
 
-# Flow Import & Export
+# Flow Import and Export
 
 ## Import flow
 Import flow.json or xxx.flow
