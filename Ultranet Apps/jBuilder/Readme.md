@@ -9,7 +9,6 @@
   * [Example jBoards](#Example-jBoards)
   * [Board Library List](#Board-Library-List)
   * [Dock Library List](#Dock-Library-List)
-  * [YP Interview Task](#YP-Interview-Task)
 
 #### URLs
 * [jBoard](https://jboard.ypcloud.com/)
