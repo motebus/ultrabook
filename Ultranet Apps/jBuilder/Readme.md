@@ -1,4 +1,6 @@
-# Table of Contents
+# jBuilder User Guide
+
+## Table of Contents
   * [What is a jBoard](#What-is-a-jBoard)
   * [jBuilder and Dock Builder](#jBuilder-and-Dock-Builder)
   * [How to access Dock Builder](#How-to-access-Dock-Builder)
