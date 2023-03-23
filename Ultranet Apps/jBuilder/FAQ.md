@@ -7,13 +7,13 @@
 
 ---
 
-### Q - 為什麼我使用 page://url 加上的網站在“Preview”模式只能顯示“拒絕連線”？
+### Q - 為甚麼我使用 page://url 加上的網站在 “Preview” 模式只能顯示 “拒絕連線”？
 
-> 該網站的創建者可能設置了 iFrame 嵌入位置限制，建議您找別網站使用
+> 該網站的創建者可能有設置 iFrame 嵌入位置限制，建議您找別網站使用
 
 ---
 
-### Q - 為什麼我的 Youtube 影片無法播放？
+### Q - 為甚麼我的 Youtube 影片無法播放？
 請檢查您的視頻網址格式是否正確
 > 如 https://www.youtube.com/watch?v=VIDEOID。 
 其他格式 https://youtu.be/VIDEOID 和 https://www.youtube.com/shorts/VIDEOID 
@@ -28,24 +28,24 @@
 
 ---
 
-### Q - 為什麼我的 board 加到 Dock Builder 上的 jBoard後，在“預覽”模式下格式變了？
+### Q - 為甚麼我的 board 加到 Dock Builder 上的 jBoard後，在“預覽”模式下格式變了？
 若 Board 中使用 page://slider 或 page://chart 會出現這個問題。
 > bug 仍在修復中
 
 ---
 
-### Q - 為什麼我的 jBoard 顯示的內容看起來與我製作編輯的的完全不同。
+### Q - 為甚麼我的 jBoard 顯示的內容看起來與我製作編輯的的完全不同。
 - [ ] jBoard QName 可能已被其他人使用。 
-> https://git.page/jj/board?qname=XXX 或 https://jboard.ypcloud.com/?q=XXX  將顯示的版本會是最新更新儲存的 QName=XXX 的 jBoard。建議避免使用您知道已經被用過的名稱或常見的"test","demo"等QName。
+> https://git.page/jj/board?qname=abc 或 https://jboard.ypcloud.com/?q=abc 將顯示的版本會是最新更新儲存的 QName=abc 的 jBoard。建議避免使用您知道已經被用過的名稱或常見的 "test", "demo" 等QName。
 
 註：除了 QName, jBoard 也有 QCode 的ID可使用。 
-> 可以使用 https://git.page/jj/board?qname=XXX 或 https://git.page/jj/board?qcode=ZZZ 的 URL 查看您的 jBoard。 
+> 可以使用 https://git.page/jj/board?qname=abc 或 https://git.page/jj/board?qcode=xyz 的 URL 查看您的 jBoard。 
 > Qcode 可以在 Board List 中查詢。
 
 ---
 
-### Q - 為什麼網頁嵌入jBuilder後，jBoard介面的網頁卻無法捲動？
-- 可以嘗試在網址後加入，"scroll":true，
+### Q - 為甚麼網頁嵌入jBuilder後，jBoard介面的網頁卻無法捲動？
+- 可以嘗試在網址後加入 "scroll":true
 
 ## FAQs
 
