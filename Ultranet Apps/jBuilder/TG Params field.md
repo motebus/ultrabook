@@ -50,4 +50,4 @@ You must use these variables for page://tg (Board linked to a Telegram group) to
 {"id":"-1001259349556,-1001259349556,-1001259349556,-1001259349556,-1001259349556,-1001259349556","title":"#coffee,#hr,#note,#weekly,#event,#yp","type":"youtube,photo,text,photo,photo,youtube","tag":"{coffee},{hr},{note},{weekly},{event},{yp}","count":"10,20,30,20,20,10","caption":"no","play":"slide"}
 ```
 
-
+> Video Guide [page://tg](https://www.youtube.com/watch?v=TS01Xj8mMwQ)
