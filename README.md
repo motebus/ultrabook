@@ -23,6 +23,7 @@ A flow-based visual programming tool for easily deploying microservices and crea
 
 * [Snapcraft link](https://snapcraft.io/fbuilder)
 
+---
 [<img align="left" height="70" src="https://m3.ypcloud.com/cms/jbuilder_512x512_874a554d89.png">](https://run.ypcloud.com/)
 
 ### jBuilder
@@ -31,18 +32,21 @@ A web-based dashboard creator. Create dashboards for digital maintenance systems
 
 * [Snapcraft link](https://snapcraft.io/jbuilder)
 
+---
 [<img align="left" height="70" src="https://m3.ypcloud.com/cms/ibuilder_512x512_c863de0059.png">](https://run.ypcloud.com/)
 
 ### iBuilder
 #### [iBuilder User Guide](https://github.com/YPCloudInc/Clouder/blob/main/md/iBuilder.md)
 iBuilder is a cloud-hosted Jupyter Notebook service with integrations for AI Models. 
 
+---
 [<img align="left" height="70" src="https://m3.ypcloud.com/cms/pbuilder_512x512_d5ef0628fb.png">](https://run.ypcloud.com/)
 
 ### pBuilder
 #### [pBuilder User Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/pBuilder%20User%20Guide.md)
 A website deployment tool for publishing websites to live servers in minutes.
 
+---
 ## Ultra [Apps](https://jujue.app/browser)
 
 [<img align="left" height="70" src="https://m3.ypcloud.com/cms/jujue_512x512_bca0116ba6.png" />](https://jujue.app/browser)
