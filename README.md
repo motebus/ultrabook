@@ -61,7 +61,7 @@ A service that display contents can be create by jBuilder & display your digital
 * [Snapcraft link](https://snapcraft.io/jboard)
 
 
-[<img align="left" height="70" src="https://m3.ypcloud.com/cms/smartscreen_70196759da.png" />](https://smartscreen.tv)
+[<img align="left" height="70" src="https://m3.ypcloud.com/cms/ss_512x512_1012ec14ad.png" />](https://smartscreen.tv)
 
 #### SmartScreen
 A service that display contents can be manipulated by uBot by Node-Red, and @SmartScreenBot by Telegram
